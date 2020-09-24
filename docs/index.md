@@ -1,4 +1,4 @@
-# Pink Pigeon CMS
+# Text and Image Module
 
 ## Introduction
 
@@ -21,7 +21,7 @@ A module to show image and text
 
 ![Image of Text and Image Module](/docs/text_and_image.png)
 
-### Find Us
+# Find Us Module
 
 - A module to show social links
 
