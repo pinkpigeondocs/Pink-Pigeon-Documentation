@@ -1,12 +1,11 @@
 # Pink Pigeon CMS
 
-
 ## Introduction
 
 This is the Pink Pigeon CMS
 
 !!! Danger "DISCLAIMER"
-    This software is for educational purposes only. 
+    This software is for educational purposes only.
 
 ## Features
 
@@ -37,8 +36,8 @@ Alternatively
 ## Support
 
 ### Help / Slack
-For any questions not covered by the documentation 
+For any questions not covered by the documentation
 
 ## Ready to try?
 
-Begin by reading our installation guide 
+Begin by reading our installation guide
