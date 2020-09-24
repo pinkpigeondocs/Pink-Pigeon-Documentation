@@ -4,40 +4,39 @@
 
 This is the Pink Pigeon CMS
 
-!!! Danger "DISCLAIMER"
-    This software is for educational purposes only.
 
 ## Features
 
 - Develop your website: Write your website using [pink pigeon](https://cms.pinkpigeon.co.uk/).
 
-## Requirements
+## Modules
 
-### Hardware requirements
+### Text and Image
 
-To run this bot we recommend you a linux cloud instance with a minimum of:
+A module to show image and text
 
-- 2GB RAM
-- 1GB disk space
-- 2vCPU
+- Feature
+- Feature
+- Feature
 
-### Software requirements
+![Image of Text and Image Module](/docs/text_and_image.png)
 
-- Docker (Recommended)
+### Find Us
 
-Alternatively
+- A module to show social links
 
-- Python 3.6.x
-- pip (pip3)
-- git
-- TA-Lib
-- virtualenv (Recommended)
+Facebook is an option, but so is:
+
+- Instagram
+- Twitter
+- Tripadvisor
+
 
 ## Support
 
-### Help / Slack
+### Our FAQ page
 For any questions not covered by the documentation
 
-## Ready to try?
+## Sign up
 
-Begin by reading our installation guide
+Sign up here
