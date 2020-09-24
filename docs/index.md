@@ -1,25 +1,18 @@
 # Text and Image Module
 
-## Introduction
+## Purpose
 
-This is the Pink Pigeon CMS
+Text and Image module
 
 
-## Features
-
-- Develop your website: Write your website using [pink pigeon](https://cms.pinkpigeon.co.uk/).
-
-## Modules
-
-### Text and Image
-
-A module to show image and text
-
-- Feature
-- Feature
-- Feature
+## What it looks like
 
 ![Image of Text and Image Module](/docs/text_and_image.png)
+
+## Additional documentation
+
+- Write your module at [pink pigeon](https://cms.pinkpigeon.co.uk/).
+
 
 # Find Us Module
 
@@ -32,7 +25,7 @@ Facebook is an option, but so is:
 - Tripadvisor
 
 
-## Support
+# Additional Support
 
 ### Our FAQ page
 For any questions not covered by the documentation
