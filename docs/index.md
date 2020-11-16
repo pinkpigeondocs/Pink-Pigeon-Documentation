@@ -10,16 +10,16 @@ The following documentation aims to describe every bit of functionality we offer
 
 Once we have setup an account for you in our system, we will send you an e-mail from support@mail.pinkpigeon.co.uk (please make sure that the message came from this address and no other) which looks like this:
 
-![Image of the registration e-mail](/docs/registration_email.png)
+![Image of the registration e-mail](/registration_email.png)
 
 Where it says "citycitycountry", you will see your own account name, which we will have setup for you prior to sending out this e-mail.
 When you click the link in the e-mail, you will be taken to the registration page at "https://cms.pinkpigeon.co.uk/register", which looks like this:
 
-![Image of the registration screen](/docs/registration_screen.png)
+![Image of the registration screen](pink-pigeon-documentation/docs/registration_screen.png)
 
-This screen should show the e-mail address which you have provided to us. Now it is time to choose your password. We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time. If you need to find out right away, please go [here](https://cms.pinkpigeon.co.uk/).
+This screen should show the e-mail address which you have provided to us. Now it is time to choose your password. We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time. If you need to find out right away, please go [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#resetting-your-password).
 
-## Loggin in
+## Logging in
 
 ![Image of Text and Image Module](/docs/text_and_image.png)
 
