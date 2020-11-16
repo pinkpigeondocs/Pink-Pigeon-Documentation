@@ -1,12 +1,15 @@
-# How to write markdown
+# Introduction to the Pink Pigeon CMS
 
-![Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+CMS stands for Content Management System. This is the term commonly used for any type of software or application (most commonly used via the internet) which allows you to manage your website.
+Honestly, if it wasn't such an established term, we would call it the Pink Pigeon Website Management Platform, as that more accurately describes what we are providing to our customers.
+The following documentation aims to describe every bit of functionality we offer. Consider it the place where you would go if the FAQ section has not answered your question.
 
-# Text and Image Module
+# Before you can start
 
-## Purpose
+## Sign up and registration
 
-Text and Image module
+Once we have setup an account for you in our system, we will send you an e-mail from support@pinkpigeon.co.uk (please make sure that the message came from this address and no other) which looks like this:
+
 
 
 ## What it looks like
