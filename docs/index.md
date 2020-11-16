@@ -10,7 +10,7 @@ The following documentation aims to describe every bit of functionality we offer
 
 Once we have setup an account for you in our system, we will send you an e-mail from support@mail.pinkpigeon.co.uk (please make sure that the message came from this address and no other) which looks like this:
 
-![Image of the registration e-mail](/docs/registration_email.png)
+![Image of the registration e-mail](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/registration_email.png)
 
 Where it says "citycitycountry", you will see your own account name, which we will have setup for you prior to sending out this e-mail.
 When you click the link in the e-mail, you will be taken to the registration page at "https://cms.pinkpigeon.co.uk/register", which looks like this:
