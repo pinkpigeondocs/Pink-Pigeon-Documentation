@@ -85,7 +85,7 @@ We will be using our very own site [pinkpigeon.co.uk](https://pinkpigeon.co.uk) 
 
 - In the top left corner you can see our Pink Pigeon logo, which will always take you back to this screen, from anywhere within the CMS. 
 
-![Image of the home screen, Pink Pigeon highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_pink_pigeon.png)
+![Image of the home screen, Pink Pigeon highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_pink_pigeon_logo.png)
 
 - Immediately below, your website's name (Please note that you cannot change this yourself. If you would like it changed, please [contact us](https://cms.pinkpigeon.co.uk/contact)):
 
