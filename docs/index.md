@@ -83,15 +83,24 @@ We will be using our very own site [pinkpigeon.co.uk](https://pinkpigeon.co.uk) 
 
 ![Image of the home screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_main.png)
 
-In the top left corner you can see our Pink Pigeon logo, which will always take you back to this screen, from anywhere within the CMS. 
+- In the top left corner you can see our Pink Pigeon logo, which will always take you back to this screen, from anywhere within the CMS. 
 
 ![Image of the home screen, Pink Pigeon highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_pink_pigeon.png)
 
-Immediately below, your website's name:
+- Immediately below, your website's name (Please note that you cannot change this yourself. If you would like it changed, please [contact us](https://cms.pinkpigeon.co.uk/contact)):
 
 ![Image of the home screen, website title highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_website_title.png)
 
-The next two items are "Website Essentials" and "Menu and Navigation". These exist for evey website and have their own sections within the documentation.
+- The next two items are ["Website Essentials"](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#website-essentials) and ["Menu and Navigation"](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#menu-and-navigation). These exist for evey website and have their own sections within the documentation.
+
+![Image of the home screen, essentials and navigation highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_essentials_navigation.png)
+
+- Lastly we have the pages of your website. If you look at their titles, you will see how they correspond with the navigation items on our website. Please see the two images below:
+
+![Image of the home screen, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_page_names_highlighted.png)
+
+![Image of the pink pigeon website, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_page_names_highlighted.png)
+
 
 # Website Essentials
 
