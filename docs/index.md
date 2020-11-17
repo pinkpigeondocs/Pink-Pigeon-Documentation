@@ -4,7 +4,7 @@ CMS stands for Content Management System. This is the term commonly used for any
 Honestly, if it wasn't such an established term, we would call it the Pink Pigeon Website Management Platform, as that more accurately describes what we are providing to our customers.
 The following documentation aims to describe every bit of functionality we offer. Consider it the place where you would go if the FAQ section has not answered your question.
 
-# Before you can start
+# Account Setup & Login
 
 ## Registration and login
 
@@ -69,29 +69,66 @@ Selecting "My Account" will take you to the "My Account" screen:
 
 ![Image of "My Account" opened](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/my_account_main.png)
 
+Here you will find the information you provided us with at the time of registration, along with the option to change your mobile phone number and an option to opt out of e-mail communications (though we discourage this, as we may communicate essential changes via e-mail and we do try to send e-mails very rarely).
+
+Please remember to select 'update' if you are changing your phone number or the e-mail opt-in / opt-out.
+
+Lastly, you may reset your password on this screen. We will show a confirmation prompt before sending you a confirmation e-mail with a link allowing you to reset your password. The steps are the same as item 1.) in [resetting your password](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#resetting-your-password).
+
+You do not need to select 'update' in order to change your password. If you change your mind and do not wish to amend your password, but have already asked us to send you a password-reset e-mail, then you can simply ignore the e-mail and your original password will remain valid.
+
+# The Home Screen
+
+We will be using our very own site [pinkpigeon.co.uk](https://pinkpigeon.co.uk) for all of our examples. Here is the home screen (which will be the first screen you see after logging in):
+
+![Image of the home screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_main.png)
+
+In the top left corner you can see our Pink Pigeon logo, which will always take you back to this screen, from anywhere within the CMS. 
+
+![Image of the home screen, Pink Pigeon highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_pink_pigeon.png)
+
+Immediately below, your website's name:
+
+![Image of the home screen, website title highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_website_title.png)
+
+The next two items are "Website Essentials" and "Menu and Navigation". These exist for evey website and have their own sections within the documentation.
+
+# Website Essentials
 
 
-# Find Us Module
+# Menu and Navigation
 
-- A module to show social links
-
-Facebook is an option, but so is:
-
-- Instagram
-- Twitter
-- Tripadvisor
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 # Additional Support
 
-### Our FAQ page
-For any questions not covered by the documentation
+## Our FAQ page
 
-## Sign up
+For any questions not covered by the documentation. Please find it [here](https://cms.pinkpigeon.co.uk/faq).
 
-Sign up here
+# Technical Information
+
+## Supported Browsers
+
+We support most desktop and mobile web browsers for viewing and editing your site, but we are unable to guarantee full functionality across every browser and device. Some older browsers are too archaic to support our build methods and are used by such a small percentage of users that we have chosen to focus our support on the most recent versions of most major browsers. If you need your site to work on a browser that we do not fully support, it may be possible but we will have to quote for this work on a case by case basis.
+
+Our fully supported browser list means your site will work for most people, however anyone on an older browser will receive a prompt to update their browser to something that we do support (which is safer and better for them for all online browsing). 
+
+You can use the CMS and your website across the following browsers and devices:
+
+- Chrome - Supported for Windows, Mac and Linux, from version 80 upwards
+- Firefox - Supported for Windows, Mac and Linux, from version 72 upwards
+- Safari - Supported for Mac only, from version 12 upwards
+- Microsoft Edge - Supported for Windows only, from version 80 upwards
+- Android Browser - Support for Android devices, from version 76 upwards
+- iOS Safari - Supported for iOS devices, from version 13 upwards
+
+We do not support Internet Explorer as Microsoft no longer support it (as it has been superseded by Edge). 
+
+There are a few important things to be aware of when using a supported browser:
+- We are unable to support Beta versions of browsers
+- Private browsing may not be supported for editing your site
+- Some browser add-ons may interfere with your site, so they may need to be disabled while we troubleshoot issues
+- JavaScript must be enabled
+
+We are unable to support screen resolutions below 320 pixels wide due to the quantity of content required by our clients. Our sites will display a horizontal scrollbar on sites under this width so you will still be able to interact with the site as normal. 
+
