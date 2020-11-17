@@ -6,7 +6,7 @@ The following documentation aims to describe every bit of functionality we offer
 
 # Before you can start
 
-## Sign up and registration
+## Registration and login
 
 Once we have setup an account for you in our system, we will send you an e-mail from support@mail.pinkpigeon.co.uk (please make sure that the message came from this address and no other) which looks like this:
 
@@ -17,15 +17,58 @@ When you click the link in the e-mail, you will be taken to the registration pag
 
 ![Image of the registration screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/registration_screen.png)
 
-This screen should show the e-mail address which you have provided to us. Now it is time to choose your password. We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time. If you need to find out right away, please go [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#resetting-your-password).
+This screen should show the e-mail address which you have provided to us. (For this example, we are using one of our online projects, citycitycountry@gmail.com).
+We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time. If you need to find out right away, please go [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#resetting-your-password).
 
-## Logging in
+Before you can register, you will need to read and accept our privacy and cookie policies. Please do read these documents carefully, as you are bound by their rules once you agree by checking the corresponding box. 
+You are also able to opt in or out of future e-mail communications. It is highly recommended that you opt in, as we will never spam you. You will only receive the most essential communications, which will be infrequent.
 
-![Image of Text and Image Module](/docs/text_and_image.png)
+Once you have registered, the system will automatically log you in and you can get started using the CMS right away!
+
+If, however, you decide to log out, or want to use the CMS on another computer, you will be using...
+
+## The login screen
+
+If you are not already logged into the system, the first thing you will see at https://cms.pinkpigeon.co.uk/ will be the login screen:
+
+![Image of the login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/login_screen.png)
+
+Once you have completed registration (as described above), you may use the e-mail address for your account and the password you chose, to login. Once logged in, your login is valid indefinitely (and therefore it is important to not forget to logout when using public computers, or any device that is not your own personal device) and in one place only. Thus, should you login on your desktop computer and shortly after on your mobile phone, the desktop will be logged out once you come back to the CMS on there. 
+
+Should you have forgotten your password, you may reset it by selecting ["Forgot your password?"](https://cms.pinkpigeon.co.uk/forgot).
 
 ## Resetting your password
 
-- Write your module at [pink pigeon](https://cms.pinkpigeon.co.uk/).
+There are two ways to reset your password. 
+
+1.) From the login screen, which will take you to this screen:
+
+![Image of password reset from login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/reset_pw_from_login.png)
+
+Once you have entered your e-mail address, and the system recognises your account, we will send you a confirmation e-mail, which will come from support@mail.pinkpigeon.co.uk (please make sure that the message came from this address and no other) and look like this:
+
+![Image of password reset password e-mail](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/reset_pw_email.png)
+
+2.) From within your "My Account" area, which is shown as part of the "My Account" section below.
+
+## My Account
+
+Once your account registration is complete, you may access "My Account" via the main menu. The main menu can be found in the top-right corner of the screen and will look like this on desktop:
+
+![Image of main menu location on desktop](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/main_menu_location_desktop.png)
+
+And like this on mobile:
+
+![Image of main menu location on mobile](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/main_menu_location_mobile.png)
+
+Once you have opened the menu by clicking on either area highlighted above, you will see the menu item "My Account", as shown below:
+
+![Image of main menu opened, "My Account" highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/main_menu_my_account.png)
+
+Selecting "My Account" will take you to the "My Account" screen:
+
+![Image of "My Account" opened](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/my_account_main.png)
+
 
 
 # Find Us Module
