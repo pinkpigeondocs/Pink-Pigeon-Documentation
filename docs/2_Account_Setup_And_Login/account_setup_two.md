@@ -1,8 +1,8 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# Account Setup & Login
+# Account Setup & Login (2)
 
 ## Registration and login
 

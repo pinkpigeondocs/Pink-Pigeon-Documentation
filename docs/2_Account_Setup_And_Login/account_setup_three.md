@@ -1,10 +1,8 @@
 ---
-sort: 1
+sort: 3
 ---
 
-# Account Setup & Login
-
-## Registration and login
+## Account setup three
 
 Once we have setup an account for you in our system, we will send you an e-mail from support@mail.pinkpigeon.co.uk (please make sure that the message came from this address and no other) which looks like this:
 
