@@ -16,7 +16,7 @@ When you click the link in the e-mail, you will be taken to the registration pag
 ![Image of the registration screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/registration_screen.png)
 
 This screen should show the e-mail address which you have provided to us. (For this example, we are using one of our online projects, citycitycountry@gmail.com).
-We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time. If you need to find out right away, please go [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#resetting-your-password).
+We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time. If you need to find out right away, please go [here][resetpw].
 
 Before you can register, you will need to read and accept our privacy and cookie policies. Please do read these documents carefully, as you are bound by their rules once you agree by checking the corresponding box. 
 You are also able to opt in or out of future e-mail communications. It is highly recommended that you opt in, as we will never spam you. You will only receive the most essential communications, which will be infrequent.
@@ -25,10 +25,5 @@ Once you have registered, the system will automatically log you in and you can g
 
 If, however, you decide to log out, or want to use the CMS on another computer, you will be using...
 
-## Registration
+[resetpw]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#resetting-your-password
 
-The new repository will generate with the same files and folders from [rundocs/starter][repo], You can [preview the theme to see what it looks like][preview], or even [generate it today][generate].
-
-[repo]: https://github.com/rundocs/starter/
-[preview]: https://rundocs.github.io/starter/
-[generate]: https://github.com/rundocs/starter/generate
