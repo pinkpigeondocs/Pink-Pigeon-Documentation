@@ -83,23 +83,37 @@ We will be using our very own site [pinkpigeon.co.uk](https://pinkpigeon.co.uk) 
 
 ![Image of the home screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_main.png)
 
-- In the top left corner you can see our Pink Pigeon logo, which will always take you back to this screen, from anywhere within the CMS. 
+## The Pink Pigeon Logo
+
+In the top left corner you can see our Pink Pigeon logo, which will always take you back to this screen, from anywhere within the CMS. 
 
 ![Image of the home screen, Pink Pigeon highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_pink_pigeon_logo.png)
 
-- Immediately below, your website's name (Please note that you cannot change this yourself. If you would like it changed, please [contact us](https://cms.pinkpigeon.co.uk/contact)):
+## Your website's name
+
+Immediately below, your website's name (Please note that you cannot change this yourself. If you would like it changed, please [contact us](https://cms.pinkpigeon.co.uk/contact)):
 
 ![Image of the home screen, website title highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_website_title.png)
 
-- The next two items are ["Website Essentials"](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#website-essentials) and ["Menu and Navigation"](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#menu-and-navigation). These exist for evey website and have their own sections within the documentation.
+## Essentials and Navigation
+
+The next two items are ["Website Essentials"](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#website-essentials) and ["Menu and Navigation"](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#menu-and-navigation). These exist for evey website and have their own sections within the documentation.
 
 ![Image of the home screen, essentials and navigation highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_essentials_navigation.png)
 
-- Lastly we have the pages of your website. If you look at their titles, you will see how they correspond with the navigation items on our website. Please see the two images below:
+## Your website's pages
+
+Then we have the pages of your website. If you look at their titles, you will see how they correspond with the navigation items on our website. Please see the two images below:
 
 ![Image of the home screen, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_page_names_highlighted.png)
 
 ![Image of the pink pigeon website, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/pp_website_nav_example.png)
+
+## The preview button
+
+The "Preview" button will take you to the preview of your website. There is a dedicated section about previews. This button will remain visible where-ever you scroll within the page.
+
+![Image of the preview button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/preview_button.png)
 
 
 # Website Essentials
