@@ -2,13 +2,13 @@
 sort: 2
 ---
 
-# Text and Image
+# Text Only
 
 ## Heading
 
 This is the heading
 
-## Image
+## Body
 
-This is the image section
+This is the body text section
 

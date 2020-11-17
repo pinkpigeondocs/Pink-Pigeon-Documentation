@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Text Only
+# Text and Image
 
 ## Heading
 
