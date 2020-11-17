@@ -26,4 +26,3 @@ Once you have registered, the system will automatically log you in and you can g
 If, however, you decide to log out, or want to use the CMS on another computer, you will be using...
 
 [resetpw]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#resetting-your-password
-
