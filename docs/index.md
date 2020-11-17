@@ -99,7 +99,7 @@ We will be using our very own site [pinkpigeon.co.uk](https://pinkpigeon.co.uk) 
 
 ![Image of the home screen, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_page_names_highlighted.png)
 
-![Image of the pink pigeon website, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_page_names_highlighted.png)
+![Image of the pink pigeon website, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/pp_website_nav_example.png)
 
 
 # Website Essentials
