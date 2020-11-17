@@ -103,11 +103,14 @@ The next two items are ["Website Essentials"](https://pinkpigeondocs.github.io/P
 
 ## Your website's pages
 
-Then we have the pages of your website. If you look at their titles, you will see how they correspond with the navigation items on our website. Please see the two images below:
+Then we have the pages of your website. If you look at their titles, you will see how they correspond with the navigation items on our website.
+Please note that "Home" is a mandatory page, as every website needs to have a "Home" page, thus it is not normally shown as a navigation item on your website.
 
 ![Image of the home screen, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_page_names_highlighted.png)
 
 ![Image of the pink pigeon website, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/pp_website_nav_example.png)
+
+As you can see, neither their order, nor whether the item is shown at all, matches with what the CMS shows. That is because these items are fully configurable. For a how-to, feel free to go to [the navigation section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#menu-and-navigation).
 
 ## The preview button
 
@@ -117,6 +120,18 @@ The "Preview" button will take you to the preview of your website. There is a de
 
 
 # Website Essentials
+
+## Favicon
+
+The so-called 'Favicon' is a small logo, which will show up in browser tabs, or on the home-screen of mobile devices (if someone was to add a shortcut to your website on their mobile phone, for example).
+Supported formats are .png, .jpeg / .jpg, .gif format. Technically, .ico, .svg and .bmp are supported by some browsers, but can't be guaranteed to work universally.
+
+![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/essentials_favicon.png)
+
+![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/pp_website_favicon.png)
+
+## Footer
+
 
 
 # Menu and Navigation
