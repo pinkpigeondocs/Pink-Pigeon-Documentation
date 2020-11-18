@@ -26,4 +26,4 @@ Once you have entered your e-mail address, and the system recognises your accoun
 
 ![Image of password reset password e-mail](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/reset_pw_email.png)
 
-2.) From within your "My Account" area, which is shown as part of the "My Account" section below.
+2.) From within your "My Account" area, which is shown as part of the "My Account" section, which is next.
