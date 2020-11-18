@@ -4,7 +4,7 @@ sort: 1
 
 # Introduction
 
-Hello! We are Claire & Adrian, and our business is called [Pink Pigeon Digital Limited][pp]. 
+Hello! We are Claire & Adrian, and our business is called [Pink Pigeon Digital Ltd][pp]. 
 
 When all of this started, we really just wanted to run a [blog][ccc] online. 
 
