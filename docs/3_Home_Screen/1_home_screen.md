@@ -41,5 +41,11 @@ As you can see, neither their order, nor whether the item is shown at all, match
 
 The "Preview" button will take you to the preview of your website. There is a dedicated section about previews. This button will remain visible where-ever you scroll within the page.
 
-![Image of the preview button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/preview_button.png)
+![Image of the preview button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/preview_button.png)
+
+## The publish button
+
+The "Publish" button will publish your website. It is only visible when you have made changes to your website that can be published.
+
+![Image of the publish button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/publish_button.png)
 
