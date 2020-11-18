@@ -4,7 +4,7 @@ sort: 4
 
 # Pages
 
-![Image of Pages, with an arrow pointing at 'Home'](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_pages/pages_example.png)
+![Image of Pages, with an arrow pointing at 'Home'](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/pages_example.png)
 
 Pages use a green icon that looks a bit like a piece of paper with one corner folded over. Your website can have many pages (though it is prudent to keep the number of pages as low as possible), some of which may be linked to from the navigation directly, some of which may only be accessible via hyperlinks elsewhere.
 
