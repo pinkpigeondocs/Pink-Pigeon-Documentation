@@ -14,13 +14,11 @@ That came as a surprise, as a blog _looks_ like a simple thing to do. It's _just
 
 After trying Wix, Squarespace, Wordpress, Netlify, Github (Pages), Heroku, etc. we realised that, while all of these businesses offer a great service, it just wasn't what we were after. Try as they might, they will tell you how 'quick and easy' it is to do 'anything you want' using their platforms, but ultimately they make you sign up for an account and then you are on your own. 
 
-[add something about accuracy and mobile compatibility]
+We wanted a way to update our websites quickly, on the go, via our mobile phones, without losing functionality. We wanted our sites to load quickly, without delays. No wasted data, no wasted time waiting for unoptimised code to load.
 
-And for almost everyone, that's just fine.
+We wanted direct, immediate feedback for any changes we made to our websites. Fast iteration, playful interaction with content, to be able to try a few different things and see how it works, right there and then.
 
-We, however, wanted something different. There is a small, but not insignificant portion of website owners who would like something more personal. Something more human, more precise and more refined.
-
-We made our own website platform, according to our needs and we hope that our approach stands out from 'quick and easy', making it 'just right' instead.
+And we wanted all of that to be secure, accessible and affordable. Turns out that that did not exist. Not the way we wanted to do it. So we made our own website platform, according to our needs and we hope that our approach stands out from 'quick and easy', making it 'just right' instead.
 
 If that sounds good to you, then let us tell you all about it on the following pages, starting right at the beginning:
 
