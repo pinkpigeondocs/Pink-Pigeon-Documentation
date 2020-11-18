@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# The Home Screen
+# Above The Footer
 
 We will be using our very own site [pinkpigeon.co.uk](https://pinkpigeon.co.uk) for all of our examples. Here is the home screen (which will be the first screen you see after logging in):
 
@@ -43,20 +43,3 @@ The "Preview" button will take you to the preview of your website. There is a de
 
 ![Image of the preview button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/preview_button.png)
 
-
-# Website Essentials
-
-## Favicon
-
-The so-called 'Favicon' is a small logo, which will show up in browser tabs, or on the home-screen of mobile devices (if someone was to add a shortcut to your website on their mobile phone, for example).
-Supported formats are .png, .jpeg / .jpg, .gif format. Technically, .ico, .svg and .bmp are supported by some browsers, but can't be guaranteed to work universally.
-
-![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/essentials_favicon.png)
-
-![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/pp_website_favicon.png)
-
-## Footer
-
-
-
-# Menu and Navigation
