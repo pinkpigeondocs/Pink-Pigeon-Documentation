@@ -17,16 +17,16 @@ When you click the link in the e-mail, you will be taken to the registration pag
 
 ![Image of the registration screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/registration_screen.png)
 
-This screen should show the e-mail address which you have provided to us. (For this example, we are using one of our online projects, citycitycountry@gmail.com).
-We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time. If you need to find out right away, please go [here][resetpw].
+This screen should show the e-mail address that you have provided to us. (For this example, we are using one of our online projects, citycitycountry@gmail.com).
+We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time [here][resetpw].
 
 ## Privacy & Cookies
 
-Before you can register, you will need to read and accept our privacy and cookie policies. Please do read these documents carefully, as you are bound by their rules once you agree by checking the corresponding box. 
-You are also able to opt in or out of future e-mail communications. It is highly recommended that you opt in, as we will never spam you. You will only receive the most essential communications, which will be infrequent.
+Before you can register, you will need to accept our privacy and cookie policies. Please do read these documents carefully, as you are bound by their rules once you agree by checking the corresponding box. 
+You are also able to opt in or out of future e-mail communications. By signing up you will receive the latest Pink Pigeon information and special offers. Don't worry, we will never share your details with a third party, and you can unsubscribe at any time.
 
 Once you have registered, the system will automatically log you in and you can get started using the CMS right away!
 
 Next, we will show you the login screen.
 
-[resetpw]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#resetting-your-password
+[resetpw]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/2_login.html#resetting-your-password

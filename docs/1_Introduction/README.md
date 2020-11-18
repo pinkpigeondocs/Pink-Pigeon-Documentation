@@ -14,6 +14,8 @@ That came as a surprise, as a blog _looks_ like a simple thing to do. It's _just
 
 After trying Wix, Squarespace, Wordpress, Netlify, Github (Pages), Heroku, etc. we realised that, while all of these businesses offer a great service, it just wasn't what we were after. Try as they might, they will tell you how 'quick and easy' it is to do 'anything you want' using their platforms, but ultimately they make you sign up for an account and then you are on your own. 
 
+[add something about accuracy and mobile compatibility]
+
 And for almost everyone, that's just fine.
 
 We, however, wanted something different. There is a small, but not insignificant portion of website owners who would like something more personal. Something more human, more precise and more refined.
