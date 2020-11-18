@@ -49,3 +49,12 @@ The "Publish" button will publish your website. It is only visible when you have
 
 ![Image of the publish button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/publish_button.png)
 
+## Pink outlines
+
+When a page or module has been outlined in pink, this means that changes have been made to a page's module, which have not been published yet. Below you can see an example of what this looks like for a page and a module.
+
+![Image of the a page with unpublished changes](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/pink_outline_page.png)
+
+![Image of the a module with unpublished changes](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/pink_outline_module.png)
+
+
