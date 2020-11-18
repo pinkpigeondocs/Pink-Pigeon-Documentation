@@ -20,6 +20,8 @@ We, however, wanted something different. There is a small, but not insignificant
 
 We made our own website platform, according to our needs and we hope that our approach stands out from 'quick and easy', making it 'just right' instead.
 
+If that sounds good to you, then let us tell you all about it on the following pages, starting right at the beginning:
+
 [pp]:https://pinkpigeon.co.uk/
 [ccc]:https://www.citycitycountry.co.uk/
 
