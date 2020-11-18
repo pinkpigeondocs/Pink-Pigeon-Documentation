@@ -12,7 +12,7 @@ We quickly noticed that running a blog was neither cheap, nor intuitive, nor qui
 
 That came as a surprise, as a blog _looks_ like a simple thing to do. It's _just_ a website, right?
 
-After trying Wix, Squarespace, Wordpress, Netlify, Github (Pages), Heroku, etc. we realised that, while all of these businesses offer a great service, it just wasn't what we were after. Try as they might, they will tell you how 'quick and easy' it is to do 'anything you want' using their platforms, but ultimately they make you sign up for an account and then you are on your own. 
+After trying Wix, Squarespace, Wordpress, Netlify, Github (Pages), Heroku, etc. we realised that, while all of these businesses offer a great service, it just wasn't what we were after. Try as they might, they will tell you how 'quick and easy' it is to do 'anything you want' using their platforms, but ultimately they make you sign up for an account and then you are on your own, without human customer support.
 
 We wanted a way to update our websites quickly, on the go, via our mobile phones, without losing functionality. We wanted our sites to load quickly, without delays. No wasted data, no wasted time waiting for unoptimised code to load.
 

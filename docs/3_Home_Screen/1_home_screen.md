@@ -26,7 +26,7 @@ The next two items are ["Website Essentials"](https://pinkpigeondocs.github.io/P
 
 ![Image of the home screen, essentials and navigation highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/home_essentials_navigation.png)
 
-## Your website's pages
+## Your website's content
 
 Then we have the pages of your website. If you look at their titles, you will see how they correspond with the navigation items on our website.
 Please note that "Home" is a mandatory page, as every website needs to have a "Home" page, thus it is not normally shown as a navigation item on your website.
