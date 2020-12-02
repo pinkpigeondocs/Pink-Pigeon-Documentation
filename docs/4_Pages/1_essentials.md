@@ -6,6 +6,13 @@ sort: 1
 
 The website essentials are a collection of settings that affect the most basic parts of your website. Depending on the type of access you have, you can change many of the fundamental visual attributes of your website here.
 
+## (Advanced users) Colour Palette
+
+Here you may define up to 12 colours to be used with your website. If you change a colour, it will automatically be changed on the whole website. For example, where it says "ffffff", this is the so-called [hex-code][hex] for the colour white. (You can read more about hex codes [here][hex]. If you want to find hex colours, [this website][hexweb] is quite useful.)
+
+[hex]: https://en.wikipedia.org/wiki/Web_colors
+[hexweb]: https://www.color-hex.com/
+
 ## (Standard users) Favicon
 
 The so-called 'Favicon' is a small logo, which will show up in browser tabs, or on the home-screen of mobile devices (if someone was to add a shortcut to your website on their mobile phone, for example).
