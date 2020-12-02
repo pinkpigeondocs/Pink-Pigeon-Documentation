@@ -55,10 +55,26 @@ The footer section allows you to edit:
 
 ## (Advanced users) Footer
 
-- Advanced users may edit the font colour used in the footer:
+Advanced users get some additional options to edit within the footer section:
+
+- Font colour, which controls the colour of the text within the footer:
 
 ![Image of the footer section within Essentials, font colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/font_colour.png)
 
-- And the rollover colour (for elements like links):
+- Rollover colour (for elements like links):
 
 ![Image of the footer section within Essentials, rollover colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rollover_colour.png)
+
+## (Advanced users) Module Spacing:
+
+The modules on your website can have large gaps:
+
+![Image of a large gaps example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_large_gaps.png)
+
+Small gaps:
+
+![Image of a large gaps example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_small_gaps.png)
+
+Or no gaps between them:
+
+![Image of a large gaps example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_no_gaps.png)
