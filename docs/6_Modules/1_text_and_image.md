@@ -4,11 +4,8 @@ sort: 1
 
 # Text and Image
 
-## Heading
+## Enabling / Disabling
 
-This is the heading
+Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
-## Image
-
-This is the image section
-
+[endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
