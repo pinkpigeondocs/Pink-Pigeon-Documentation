@@ -52,3 +52,13 @@ The footer section allows you to edit:
 
 
 - **Download Links 1-3:** Here, using the up-arrow icon (![Image of the up-arrow for file uploads](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/up_arrow.png)) you may upload a .PDF (recommended) or .TXT file (you can upload other file types) up to 2MB big. For larger files you will have to contact us. The files will be shown using the description you enter into the left field. See here how "Special Thanks", "Privacy Policy" and "Cookie Policy" are displayed on our own website: ![Image of the download links section, within the footer section within Essentials, but on the pink pigeon website](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_footer_download_links_on_pp_website.png)
+
+## (Advanced users) Footer
+
+- Advanced users may edit the font colour used in the footer:
+
+![Image of the footer section within Essentials, font colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/font_colour.png)
+
+- And the rollover colour (for elements like links):
+
+![Image of the footer section within Essentials, rollover colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rollover_colour.png)
