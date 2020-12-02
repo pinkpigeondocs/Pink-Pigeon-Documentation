@@ -14,6 +14,12 @@ This component is different for standard and advanced users. Standard users will
 
 ![Image of Menu Items, within Menu and Navigation, for standard users](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_standard_user.png)
 
+## On Mobile
+
+All of our components have a slightly different look on mobile devices. This is necessary due to the limited screen size available on mobiles. We never remove any functionality, meaning the CMS stays just as functional on mobile as it is on desktop, but things will shift around to accommodate this:
+
+![Image of Menu Items, within Menu and Navigation, for advanced users, on mobile](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_mobile.png)
+
 
 ## Adding
 
