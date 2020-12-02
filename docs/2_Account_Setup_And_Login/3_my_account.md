@@ -6,19 +6,19 @@ sort: 3
 
 Once your account registration is complete, you may access "My Account" via the main menu. The main menu can be found in the top-right corner of the screen and will look like this on desktop:
 
-![Image of main menu location on desktop](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/main_menu_location_desktop.png)
+![Image of main menu location on desktop](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/main_menu_location_desktop.png)
 
 And like this on mobile:
 
-![Image of main menu location on mobile](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/main_menu_location_mobile.png)
+![Image of main menu location on mobile](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/main_menu_location_mobile.png)
 
 Once you have opened the menu by clicking on either area highlighted above, you will see the menu item "My Account", as shown below:
 
-![Image of main menu opened, "My Account" highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/main_menu_my_account.png)
+![Image of main menu opened, "My Account" highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/main_menu_my_account.png)
 
 Selecting "My Account" will take you to the "My Account" screen:
 
-![Image of "My Account" opened](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/my_account_main.png)
+![Image of "My Account" opened](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/my_account_main.png)
 
 Here you will find the information you provided us with at the time of registration, along with the option to change your mobile phone number and an option to opt out of e-mail communications (though we discourage this, as we may communicate essential changes via e-mail and we do try to send e-mails very rarely).
 
