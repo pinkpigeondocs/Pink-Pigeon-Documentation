@@ -23,7 +23,7 @@ When you click anywhere on the image (not just the circular icon in the lower ri
 If you had already selected an image previously, this image will be highlighted with a pink outline. If not, then clicking any image will add the pink outline, marking it as selected for insertion. When you select the 'Insert'-button, the image you selected replaces the one that was shown in the component before.
 
 ```tip
-Just selecting a new image does not save your change. You still have to select one of the ['save'][save] buttons at the bottom of the page. This will make the new image show up in your preview site.
+Just selecting a new image does not save your change. You still have to select one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons at the bottom of the page. This will make the new image show up in your preview site.
 ```
 
 ## Uploading a new image
@@ -33,5 +33,3 @@ From within the image library overlay, you may also upload images directly. To d
 ![Image of the add button within the image gallery overlay](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/image_library_overlay_add_button.png)
 
 This will open a file browser (which will be different for every operating system / device), where you may select an image up to 2MB big. We support .JPG, .SVG, .GIF and .PNG images. Any image above 512kb will be compressed, to ensure your website stays fast for your visitors.
-
-[save]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes

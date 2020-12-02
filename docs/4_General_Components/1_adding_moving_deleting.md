@@ -46,3 +46,25 @@ Your changes have not been saved yet. This only happens once you select one of t
 ![Image of the add / move / remove component, for advanced users, 'remove' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_remove_highlighted.png)
 
 The 'Delete' button will create checkboxes to the right of any list item, like so:
+
+![Image of the 'delete' checkbox within the add / move / delete states](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_delete_checkbox.png)
+
+In this state, all other editing functions are disabled.
+
+Before you have selected any items, the 'delete' button will remain greyed out and unavailable:
+
+![Image of the 'delete' state, with delete greyed out](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_delete_greyed_out.png)
+
+You may also choose to go back via the back button (as shown above).
+
+You may also select all items using the 'select all' checkbox:
+
+![Image of the 'delete' state, delete all checkbox](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_delete_all.png)
+
+Once you have chosen your items to delete, select the (now enabled) delete button:
+
+![Image of the 'delete' state, delete enabled](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_delete_enabled.png)
+
+```danger
+The CMS will not warn you before deleting list items, so make sure you really want to delete them
+```
