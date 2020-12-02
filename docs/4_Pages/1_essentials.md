@@ -8,7 +8,9 @@ The website essentials are a collection of settings that affect the most basic p
 
 ## (Advanced users) Colour Palette
 
-Here you may define up to 12 colours to be used with your website. If you change a colour, it will automatically be changed on the whole website. For example, where it says "ffffff", this is the so-called [hex-code][hex] for the colour white. (You can read more about hex codes [here][hex]. If you want to find hex colours, [this website][hexweb] is quite useful.)
+Here you may define up to 12 colours to be used with your website. If you change a colour, it will automatically be changed on the whole website. For example, where it says "ffffff", this is the so-called [hex-code][hex] for the colour white. (You can read more about hex codes [here][hex]. If you want to find hex colours, [this website][hexweb] is quite useful), if you were to change this to another colour, all parts of the website using this white field, will change to the new colour you have assigned. (If you have two white fields in your colour palette, only the one specifically assigned to elements in the CMS changes.)
+
+![Image of the colour palette within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_colour_palette.png)
 
 [hex]: https://en.wikipedia.org/wiki/Web_colors
 [hexweb]: https://www.color-hex.com/
@@ -21,6 +23,19 @@ Supported formats are .png, .jpeg / .jpg, .gif format. Technically, .ico, .svg a
 ![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_favicon.png)
 
 ![Image of favicon on a Firefox tab](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/pp_website_favicon.png)
+
+## (Advanced users) Text Options:
+
+Within the text options you may choose the font for your website. We offer 9 different fonts at the moment (and may offer more in the future). Fonts have very different levels of legibility, making it very important to ensure your website is easy to read. Often, unless needed specifically for artistic purposes, it is best to choose a simple, plain font (for example, Lato, Raleway, Montserrat, Roboto or Open Sans). There is an additional option called "Scale Multiplier", which allows you to make the font on your website bigger or smaller.
+
+## (Advanced users) Buttons:
+
+All buttons on your website can be customised. Any setting here will affect all buttons at once, not individual buttons.
+
+- Corner Style: Buttons can be set to have sharp corners ![Image of a button with sharp corners](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_buttons_sharp_corners.png), semi-rounded corners ![Image of a button with slightly rounded corners](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_buttons_slightly_rounded_corners.png), or fully rounded corners ![Image of a button with fully rounded corners](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_buttons_more_rounded_corners.png).
+- Fill Transparency: When set to transparent, the background colour of the module the button is on, will 'shine through' the button. The button's text (or label) and border remain visible (and the colours, including the rollover remain customisable). All buttons in the bullet point above are transparent. An opaque button looks like this: ![Image of an opaque button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_buttons_opaque_button.png)
+- Chevron: All buttons can have a so-called chevron, which is a visual element to indicate that the button is a link leading somewhere else.
+- Font Case: You can pick between all buttons being labelled with lowercase letters (as shown above) or uppercase letters, like this: ![Image of an all caps button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_Pages/images/essentials_buttons_allcaps.png)
 
 ## (Standard users) Footer
 
