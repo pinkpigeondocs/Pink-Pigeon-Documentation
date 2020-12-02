@@ -19,11 +19,32 @@ This component is different for standard and advanced users. Standard users will
 
 ![Image of the add / move / remove component, for advanced users, 'add' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_add_highlighted.png)
 
+Selecting the 'Add' button will immediately create a new list item, which will not have any information pre-filled. Most of the time, this item will not be shown by the CMS until its most essential information has been filled in.
+
 ## Moving
 
 ![Image of the add / move / remove component, for advanced users, 'move' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_move_highlighted.png)
 
+Selecting the 'Move' button will create moving handles on the right of any list item, like so:
+
+![Image of the add / move / remove component, for advanced users, 'move' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_moving_handle.png)
+
+This simultaneously disables all editing functionality for the item, as well as the other functions of the component, such as 'add' or 'delete'.
+
+Moving items is done by selecting (and holding) the draggable handle and moving the list item to the new desired position.
+
+You may accept your changes by selecting the 'back' button:
+
+![Image of the add / move / remove component, for advanced users, 'move' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_move_back_button.png)
+
+```tip
+Your changes have not been saved yet. This only happens once you select one of the 'save' buttons.
+```
 
 ## Removing
 
 ![Image of the add / move / remove component, for advanced users, 'remove' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_remove_highlighted.png)
+
+The 'Delete' button will create checkboxes to the right of any list item, like so:
+
+

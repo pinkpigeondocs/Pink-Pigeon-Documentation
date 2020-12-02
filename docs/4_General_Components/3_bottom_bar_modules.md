@@ -11,3 +11,7 @@ The bottom bar is always visible and provides the options for going back to the 
 ## Going back
 
 When selecting the '< Back' button, you will leave the 'Module Edit' screen, no matter whether your changes have been saved. A prompt will ask you whether you would like to leave. This can be circumvented by hitting CTRL + Backspace.
+
+## Saving changes
+
+You may save your changes by selecting one of the 'save' buttons.
