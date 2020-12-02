@@ -38,7 +38,7 @@ You may accept your changes by selecting the 'back' button:
 ![Image of the add / move / remove component, for advanced users, 'move' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_move_back_button.png)
 
 ```tip
-Your changes have not been saved yet. This only happens once you select one of the 'save' buttons.
+Your changes have not been saved yet. This only happens once you select one of the ['save'][save] buttons.
 ```
 
 ## Removing
@@ -48,3 +48,4 @@ Your changes have not been saved yet. This only happens once you select one of t
 The 'Delete' button will create checkboxes to the right of any list item, like so:
 
 
+[save]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes
