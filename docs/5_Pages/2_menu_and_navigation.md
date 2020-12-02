@@ -50,9 +50,10 @@ The left field, when selected, will display a list of all Pages and Modules with
 
 - Adding / removing / re-ordering nav items
 
-Please view the 'General Components' - "Adding / Moving / Deleting" section for instructions on how this component works.
+Please view the ['General Components' - "Adding / Moving / Deleting"][genaddmove] section for instructions on how this component works.
 
 ## (Standard users) Desktop Style
 
 The reason this item is called 'Desktop' Style, is that this option only affects how the menu is shown on larger browser window sizes (desktop computers, with the browser in full-screen for example).
 
+[genaddmove]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/1_adding_moving_deleting.html
