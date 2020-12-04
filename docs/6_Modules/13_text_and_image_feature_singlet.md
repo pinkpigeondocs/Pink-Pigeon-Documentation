@@ -18,9 +18,9 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_feature_singlet_image_panel.png)
 
-- **Image:** This controls the [image](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html) of the text module, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_image_panel.png)
+- **Image:** This controls the [image](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html) of the text module, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_image_panel.png)
 
-- **Desktop Image Side:** You can 'flip' the text and image video around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_image_on_right.png)
+- **Desktop Image Side:** You can 'flip' the text and image video around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_image_on_right.png)
 
 - **Image Fit:** Because the images in this version of the Text and Image module are within a smaller space, we have added further controls over the 'image fit', which allows for two options, "Cover" and "Scale Down".
 
@@ -36,15 +36,15 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ## Text Panel
 
-![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_text_panel.png)
+![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_text_panel.png)
 
 - **Header Text:** This is the header within a text and image module:
 
-![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_text_panel_header.png)
+![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_text_panel_header.png)
 
 - **Body Text:** This is the body text within a text and image module:
 
-![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_text_panel_body.png)
+![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_text_panel_body.png)
 
 Please note that this is a rich text field. More info on that [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html).
 
