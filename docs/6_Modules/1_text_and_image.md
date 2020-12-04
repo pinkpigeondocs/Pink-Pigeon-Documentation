@@ -40,7 +40,7 @@ You may notice the locks in the image have moved up.
 
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_text_and_image_text_panel_body.png)
 
-The body text field is a rich-text field, meaning you may change some of the formatting of your text (like adding paragraphs, bold / italic / underlined text (![Image of the bold / italic / underline options in rich text fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rich_text_bold_etc.png))) or insert links, using the link-icon ![Image of the bold / italic / underline options in rich text fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rich_text_link.png).
+Please note that this is a rich text field. More info on that here.
 
 - **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
 
