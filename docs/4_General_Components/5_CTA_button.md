@@ -54,6 +54,6 @@ The colours of your button behave differently, based on whether you have selecte
 
 - **Font Colour:** Controls the colour of the text of your CTA
 
-![Image of the CTA option, font colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_cta_stroke.png)
+![Image of the CTA option, font colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_cta_text.png)
 
 - **Rollovers:** These are all the same colours, but they are only shown when a user moves their mouse-cursor over the button. This also means on mobile devices, these colours will not be seen.
