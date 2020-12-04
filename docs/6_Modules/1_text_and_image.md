@@ -24,7 +24,9 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 Here is an example at 100%:
 
-![Image of the image panel of a text and image module at 100% alignment](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_text_and_image_100_percent.png) You may notice the locks in the image have moved up.
+![Image of the image panel of a text and image module at 100% alignment](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_text_and_image_100_percent.png)
+
+You may notice the locks in the image have moved up.
 
 ## Text Panel
 
@@ -37,3 +39,9 @@ Here is an example at 100%:
 - **Body Text:** This is the body text within a text and image module:
 
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_text_and_image_text_panel_body.png)
+
+- **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```
