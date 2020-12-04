@@ -32,9 +32,7 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the 'scaledown' image fit, for the text and image feature singlet module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_feature_singlet_fit_scaledown.png)
 
-- **Image Shape:** Here you may pick from "Circle", "Rounded Corners" and "Square". Examples:
-
-**Circle:** Can be seen above
+- **Image Shape:** Here you may pick from "Circle", "Rounded Corners" and "Square". Examples (excluding circle, as this is shown above):
 
 **Rounded Corners:**
 
