@@ -56,6 +56,12 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_text_panel_body.png)
 
 Please note that this is a rich text field. More info on that [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html).
+On desktop resolutons, this field has a height limitation, to ensure clean layouts, which is why the character limit is 450.
+
+
+```tip
+You can leave any text field blank, and the CMS will adjust the layout to make the remaining text elements fit. You could even leave all text out, if desired.
+```
 
 - **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
 
