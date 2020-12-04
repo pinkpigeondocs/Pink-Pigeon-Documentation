@@ -28,6 +28,12 @@ This is the header text in the awards module. Here it is online:
 
 Here you may define a desktop image, which will be shown from screen widths 900px and above (common tablet resolution), and a tablet / mobile image, showing below 900px screen width. For more information on picking images, see [this section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
+## Colours
+
+The Awards module allows you to change the background colour and text colour of the module.
+
+![Image of the awards module colour options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_colours.png)
+
 
 ## On Mobile
 
