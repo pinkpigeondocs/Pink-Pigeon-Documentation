@@ -14,6 +14,19 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
+## Header Text
+
+![Image of the awards module header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_text.png)
+
+This is the header text in the awards module. Here it is online:
+
+![Image of the awards module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_online.png)
+
+## Desktop / Mobile Image
+
+![Image of the awards module images](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_images.png)
+
+Here you may define a desktop image, which will be shown from screen widths 900px and above (common tablet resolution), and a tablet / mobile image, showing below 900px screen width. For more information on picking images, see [this section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
 
 ## On Mobile
