@@ -18,7 +18,7 @@ As you can see, their design matches closely, as does their functionality. Thus,
 
 When you click anywhere on the image (not just the circular icon in the lower right), the image gallery overlay opens, allowing you to select a new image. This is what the image gallery overlay looks like:
 
-![Image of the up-arrow for file uploads](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/image_library_overlay.png)
+![Image of the image library overlay](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/image_library_overlay.png)
 
 If you had already selected an image previously, this image will be highlighted with a pink outline. If not, then clicking any image will add the pink outline, marking it as selected for insertion. When you select the 'Insert'-button, the image you selected replaces the one that was shown in the component before.
 
