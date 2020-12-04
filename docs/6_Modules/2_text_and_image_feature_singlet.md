@@ -1,8 +1,8 @@
 ---
-sort: 12
+sort: 13
 ---
 
-# Text and Image
+# Text And Image - Feature Singlet
 
 ## Enabling / Disabling
 
