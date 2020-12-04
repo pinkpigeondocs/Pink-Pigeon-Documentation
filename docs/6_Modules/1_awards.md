@@ -32,7 +32,7 @@ Here you may define a desktop image, which will be shown from screen widths 900p
 
 The Awards module allows you to change the background colour and text colour of the module.
 
-![Image of the awards module colour options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_colours.png)
+![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
 
 ## On Mobile
