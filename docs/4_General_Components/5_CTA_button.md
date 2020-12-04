@@ -28,7 +28,11 @@ The Link section has multiple options:
 
 - **External URL:** This can be any link on the web. You do not need to enter the "https://" or "http://" part of a url here. For example, "www.pinkpigeon.co.uk", or "pinkpigeon.co.uk" would suffice. ![Image of the CTA option, external url](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_cta_links_external.png)
 
-- **File:** This is a file upload, where you may upload any type of file up to 2MB big. For bigger files, you would have to [contact us](https://cms.pinkpigeon.co.uk/contact). If you have already uploaded your file, you may select it here: ![Image of the CTA option, files](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_cta_links_file.png), otherwise, you may upload a new file using the upload button: ![Image of the up-arrow for file uploads](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/up_arrow_icon.png)
+- **File:** This is a file upload, where you may upload any type of file up to 2MB big. For bigger files, you would have to [contact us](https://cms.pinkpigeon.co.uk/contact). If you have already uploaded your file, you may select it here (meaning once you have uploaded a file, anywhere in the CMS, it becomes accessible everywhere else. **You do not need to upload the file again anywhere else**): ![Image of the CTA option, files](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_cta_links_file.png) Otherwise, you may upload a new file using the upload button: ![Image of the up-arrow for file uploads](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/up_arrow_icon.png)
+
+```tip
+If you do upload the same file again, anywhere else, this will replace the previous file with this new one you have uploaded. Therefore, if you are linking to a menu, or price list (say, as a PDF file) and you would like to update it, just upload the file with the same name again. This will update the file everywhere you have linked to it on your site.
+```
 
 ## CTA Colours
 
@@ -41,3 +45,15 @@ The colours of your button behave differently, based on whether you have selecte
 - **Opaque buttons:** For opaque CTAs, you will be able to customise every single colour available, per CTA, like so:
 
 ![Image of the CTA option, all colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_cta_all_colour_options.png)
+
+- **Stroke Colour:** Controls the border-colour of the CTA
+
+![Image of the CTA option, stroke colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_cta_stroke.png)
+
+- **Fill Colour:** Controls the fill-colour of the CTA (the space between the border and the text)
+
+- **Font Colour:** Controls the colour of the text of your CTA
+
+![Image of the CTA option, font colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_cta_stroke.png)
+
+- **Rollovers:** These are all the same colours, but they are only shown when a user moves their mouse-cursor over the button. This also means on mobile devices, these colours will not be seen.
