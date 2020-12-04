@@ -73,20 +73,9 @@ At the moment we support adding up to 6 different social icons. You have a choic
 ![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_online.png)
 
 
-
 ## Colours
 
 The Bio module allows you to change the background colour and text colour of the module.
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
-
-## On Mobile
-
-On tablet / mobile resolutions, the Awards module loads a second image (this can be the same image, too), to allow for a different arrangement of awards, should their shapes differ greatly. See an example below:
-
-![Image of the awards module on mobile](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_mobile.png)
-
-```tip
-Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
-```
