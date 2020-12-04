@@ -4,7 +4,7 @@ sort: 13
 
 # Text And Image - Feature Singlet
 
-This is a special version of the text and image module, called the "Feature Singlet", which allows for a special shape to be applied to the image side of the text and image module. For example:
+This is a special version of the Text and Image module, called the "Feature Singlet", which allows for a special shape to be applied to the image side of the text and image module. For example:
 
 ![Image of the text and image module, feature singlet](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_feature_singlet.png)
 
@@ -16,21 +16,23 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ## Image Panel
 
-![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_image_panel_all.png)
+![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_feature_singlet_image_panel.png)
 
 - **Image:** This controls the [image](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html) of the text module, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_image_panel.png)
 
 - **Desktop Image Side:** You can 'flip' the text and image video around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_image_on_right.png)
 
-- **Vertical Alignment (%):** Because many images may not fit perfectly into the space reserved for them, you can control the vertical alignment, 'sliding' the image up or down within its space. Here is an example at 0%:
+- **Image Fit:** Because the images in this version of the Text and Image module are within a smaller space, we have added further controls over the 'image fit', which allows for two options, "Cover" and "Scale Down".
 
-![Image of the image panel of a text and image module at 0% alignment](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_0_percent.png)
+**"Cover"** ensures the image always fills the space, like so:
 
-Here is an example at 100%:
+![Image of the 'cover' image fit, for the text and image feature singlet module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_feature_singlet_fit_cover.png)
 
-![Image of the image panel of a text and image module at 100% alignment](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_100_percent.png)
+**"Scale Down"** will shrink the entire image to the space it fits within, please see the example:
 
-You may notice the locks in the image have moved up.
+![Image of the 'scaledown' image fit, for the text and image feature singlet module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_text_and_image_feature_singlet_fit_scaledown.png)
+
+
 
 ## Text Panel
 

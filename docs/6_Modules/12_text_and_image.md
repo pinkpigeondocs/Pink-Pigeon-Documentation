@@ -4,7 +4,7 @@ sort: 12
 
 # Text and Image
 
-The text and image module is one of our most used modules. That is because most content online is just that: Pictures with accompanying text. Please see an example below:
+The Text and Image module is one of our most used modules. That is because most content online is just that: Pictures with accompanying text. Please see an example below:
 
 ![Image of the text and image module, feature singlet](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_online.png)
 
