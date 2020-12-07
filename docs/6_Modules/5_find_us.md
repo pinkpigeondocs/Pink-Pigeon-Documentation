@@ -37,3 +37,27 @@ Here it is in the module:
 ```tip
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
+
+## Optional Columns
+
+![Image of the find us module's optional columns](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_optional_columns.png)
+
+In the middle of the Find Us module, there are 0-3 optional columns (they show up automatically based on whether they have been filled in).
+
+The columns are designed to allow for entering up to 7 items, some of which can be one-liners (column 1 and 3) or composed of 2 parts (column 2). The two-part column is useful for adding opening times for example.
+
+Deleting lines from the optional columns is done via the checkboxes next to the line items and followed by clicking the 'bin' button, like so:
+
+![Image of the find us module's optional columns checkboxes checked and bin showing](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_optional_columns_checkbox_bin.png)
+
+## Social Icons:
+
+At the moment we support adding up to 6 different social icons. You have a choice of 19 platforms at the moment ("500px", "Behance", "Email", "Facebook", "Facebook Messenger", "IMDB", "Instagram", "LinkedIn", "Phone", "Pinterest", "Skype", "Spotlight", "Telegram", "Tripadvisor", "Twitter", "Vimeo", "Whatsapp", "Youtube").
+
+**Here they are in the CMS:**
+
+![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_cms.png)
+
+**Here they are online:**
+
+![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_social_icons.png)
