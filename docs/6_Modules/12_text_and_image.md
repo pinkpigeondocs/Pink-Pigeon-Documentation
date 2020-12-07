@@ -53,6 +53,10 @@ You can leave any text field blank, and the CMS will adjust the layout to make t
 
 - **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
 
+## Button
+
+Please refer to the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html) for more info about the button.
+
 ## On Mobile
 
 The Text and Image module adapts to smaller resolution screens by flipping from a horizontal to a vertical arrangement, with the image always sitting on top (that means the 'Desktop Image Side' has no effect at tablet resolution and below).

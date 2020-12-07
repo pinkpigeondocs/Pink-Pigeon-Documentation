@@ -65,6 +65,10 @@ You can leave any text field blank, and the CMS will adjust the layout to make t
 
 - **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
 
+## Button
+
+Please refer to the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html) for more info about the button.
+
 ```tip
 Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
 ```

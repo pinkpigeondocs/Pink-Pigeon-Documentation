@@ -12,6 +12,8 @@ The Checkatrade module allows you to add your checkatrade stats to your website.
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
+[endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
+
 ## Checkatrade Profile
 
 ![Image of the checkatrade profile input](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/3_checkatrade_chktrd_profile.png)
