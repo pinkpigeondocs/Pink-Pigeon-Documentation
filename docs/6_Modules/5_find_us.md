@@ -4,7 +4,9 @@ sort: 5
 
 # Find Us
 
-This is the 'Find Us' section.
+The 'Find Us' module allows you to put in opening times and / or an address for your business (or any other information that fits the format).
+Please note that this is not the map module, which is what you would use to put a map onto your website.
+
 
 ## Enabling / Disabling
 
