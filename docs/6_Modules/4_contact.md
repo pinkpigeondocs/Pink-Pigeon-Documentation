@@ -124,7 +124,7 @@ The confirmation header text is shown on the 'Thank You'-screen, which follows a
 
 ## Confirmation Body Text
 
-![Image of the body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/body_text.png)
+![Image of the contact module's thank you body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_body.png)
 
 This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html) body text input **without** a character limit.
 
