@@ -59,7 +59,9 @@ It is still a good idea to limit the amount of text somewhat, as the design of t
 Each item consists of four items:
 
 - The type of form field, which can be Name, Email, Phone Number, Date, Message, Optional (Text), Time.
-- Whether the field will be required (marked by an asterisk), or not.
+- Whether the field will be required (marked by an asterisk), or not. ![Image of the contact module asterisks online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_asterisks_online.png)
+
+
 - Whether the field will be half-width or full-width. The form in this tutorial has two half-width fields (Name / Email) and two full-width fields (Phone / Message). This allows for composing fields according to the amount of text they are expected to hold, or simply aesthetics.
 - The label of the field, e.g. what it will be called in the form, visible to the user.
 
@@ -82,32 +84,43 @@ If you have enabled the preferred contact method option, double check that you h
 
 ## Legal Confirmations
 
+![Image of the contact module's legal confirmations](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations.png)
+
+The legal confirmations are part required (for GDPR reasons) and part optional. Legally, you cannot gather the information people submit as part of contact forms without first making your visitors confirm that they are happy for you to do so.
+
+![Image of the contact module's legal confirmations online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations_online.png)
+
+The 'submit' button of the form will only become enabled once all required legal confirmations have been checked. (The opacity of the submit button changes, to indicate this to your visitors.)
+
+![Image of the contact module's legal confirmations checked](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations_checked_online.png)
 
 ## Colours
 
-The Awards module allows you to change the background colour and text colour of the module.
+The Contact module allows you to change the background colour and text colour of the module.
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
 ## Input Options:
 
-- **Stroke Colour:**
+![Image of the contact module's form input options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_input_options.png)
 
-- **Fill Colour:**
+- **Stroke Colour:** This is the colour of the border around the input field.
 
-- **Active Stroke Colour:**
+- **Fill Colour:** You can determine the fill colour of contact fields (please make sure to use a font that has a high contrast with the form field).
+
+- **Active Stroke Colour:** When your visitors select a form field, this colour will be used as a highlight, replacing the border colour.
 
 ## Button
 
-This is a special button / CTA section, as this button only submits the form. Therefore, the copy cannot be customised (and file downloads, or external URLs are disabled). You can still customise all colours, as described in the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html)
+This is a special button / CTA section, as this button only submits the form. Therefore, fhe function of it cannot be customised (and file downloads, or external URLs are disabled). You can still customise the text of the button and all colours, as described in the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html)
 
 ## Confirmation Header Text
 
-![Image of the contact module's form name input](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_text.png)
+![Image of the contact module's header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
 The confirmation header text is shown on the 'Thank You'-screen, which follows a successful form submission.
 
-![Image of the contact module's form name in the e-mail](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_online.png)
+![Image of the contact module's thank you screen header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_thankyou_header.png)
 
 ## Confirmation Body Text
 
@@ -117,5 +130,5 @@ This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_Ge
 
 The confirmation body text is also part of the 'Thank You'-screen.
 
-![Image of the contact module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_body_text_online.png)
+![Image of the contact module thank you screen body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_thankyou_body.png)
 
