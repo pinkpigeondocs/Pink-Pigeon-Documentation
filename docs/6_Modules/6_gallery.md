@@ -28,6 +28,17 @@ These items expand when clicked:
 
 Selecting the 'collapse'-button will make the item compact again. ![Image of the collapse button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/collapse_button.png)
 
+## Image Fit
 
+![Image of the gallery module's image fit option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_image_fit.png)
 
+The image fit option allows you to specify whether your gallery should try to 'fit' the whole image into the space of the gallery ('cover'), or shrink the image within the space. This is easiest to see visually:
+
+**Cover**
+
+![Image of the gallery module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_online.png)
+
+**Scaledown**
+
+![Image of the gallery module, scale-down option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_scaledown.png)
 
