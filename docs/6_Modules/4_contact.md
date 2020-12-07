@@ -68,6 +68,17 @@ Each item consists of four items:
 
 ## Contact Method
 
+![Image of the contact module's contact method](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_method.png)
+
+You may choose whether to give your visitors the option of indicating how they'd like to be contacted.
+
+Here it is online:
+
+![Image of the contact module's contact method online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_preferred_method_online.png)
+
+```tip
+If you have enabled the preferred contact method option, double check that you have form-fields corresponding to 'e-mail' and 'phone number'.
+```
 
 ## Legal Confirmations
 
