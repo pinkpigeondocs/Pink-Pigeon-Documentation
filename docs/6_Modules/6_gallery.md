@@ -4,7 +4,9 @@ sort: 6
 
 # Gallery
 
-This is the 'Gallery' section.
+![Image of the gallery module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_online.png)
+
+The gallery module lets you add up to 8 images into a so-called image carousel, which can be swiped on mobile (or visitors to your site can use the provided buttons to select the images).
 
 ## Enabling / Disabling
 
@@ -14,11 +16,18 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ## Images
 
-![Image of the contact module's header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
+![Image of the gallery module's images](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_images.png)
 
-This is the header text in the contact module.
+Here you may add / re-order / remove images from your gallery. Please note that the images start out in a compact state, like this:
 
-Here it is online:
+![Image of the gallery module's image list items, compact form](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_compact.png)
 
-![Image of the contact module's header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_header_online.png)
+These items expand when clicked:
+
+![Image of the gallery module's image list items, expanded form](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_expanded.png)
+
+Selecting the 'collapse'-button will make the item compact again. ![Image of the collapse button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/collapse_button.png)
+
+
+
 
