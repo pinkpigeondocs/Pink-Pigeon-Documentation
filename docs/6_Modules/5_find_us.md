@@ -58,8 +58,14 @@ At the moment we support adding up to 6 different social icons. You have a choic
 
 **Here they are in the CMS:**
 
-![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_cms.png)
+![Image of the find us module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_cms.png)
 
 **Here they are online:**
 
-![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_social_icons.png)
+![Image of the find us module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_social_icons.png)
+
+## Colours
+
+![Image of the find us module colour options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_colours.png)
+
+The Find Us module allows you to change the background colour, text colour and icon rollover colour of the module.
