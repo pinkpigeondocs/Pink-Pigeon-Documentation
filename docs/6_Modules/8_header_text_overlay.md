@@ -1,14 +1,14 @@
 ---
-sort: 7
+sort: 8
 ---
 
-# Header (Image Overlay)
+# Header (Text Overlay)
 
-![Image of the header-image module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_image_online.png)
+![Image of the header-text module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_text_online.png)
 
 The header is a slightly more complex module. It allows for the displaying of two images, one for mobile, one for desktop resolutions (as this may work better than trying to make just one image fit such different screen sizes), though this is not mandatory.
 
-Additionally, another image can be uploaded to be displayed on top of the background images, such as a company logo. The overlay-image's position can be customised deeply.
+Additionally, text can be displayed on top of the background images, such as a company tag-line. The overlay-text's position can be customised deeply.
 
 Lastly, the mobile version of the header allows for three different image heights, depending on the best content fit.
 
@@ -44,4 +44,4 @@ See the section above, describing this.
 
 ## Overlay Element
 
-The overlay element sits on top of the image
+The overlay element sits on top of the image.
