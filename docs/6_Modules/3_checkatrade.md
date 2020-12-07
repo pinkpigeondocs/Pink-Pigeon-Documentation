@@ -4,7 +4,7 @@ sort: 3
 
 # Checkatrade
 
-The checkatrade module allows you to add your checkatrade stats to your website. Please make sure to accurately reflect your scores and update them as soon as any of the numbers change.
+The Checkatrade module allows you to add your checkatrade stats to your website. Please make sure to accurately reflect your scores and update them as soon as any of the numbers change.
 
 ![Image of the checkatrade module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/3_checkatrade_online.png)
 
@@ -36,7 +36,7 @@ Please copy the following number from your checkatrade profile here:
 
 ![Image of the checkatrade number of total reviews online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/3_checkatrade_num_total_reviews_online.png)
 
-## Scores
+## Scores Section
 
 ![Image of the checkatrade profile input](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/3_checkatrade_scores_section.png)
 
