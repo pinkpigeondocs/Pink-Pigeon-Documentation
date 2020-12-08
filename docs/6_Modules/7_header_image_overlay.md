@@ -169,7 +169,6 @@ This determines whether you would like to apply a tint to the background image. 
 
 ![Image of the header overlay tint opacity at 0.8](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity_0_point_8.png)
 
-
 ## Mobile Image Shape
 
 ![Image of the header mobile image shape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape.png)

@@ -22,9 +22,14 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ## Desktop Image
 
-The header module's desktop image. Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
+![Image of the header desktop image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_desktop_image.png)
+
+The header module's background image on desktop. This image will be shown at screen resolutions of 900px and above, typically laptops and desktop computers.
+Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
 ## Vertical Alignment
+
+![Image of the vertical alignment option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/vertical_alignment.png)
 
 Because many images may not fit perfectly into the space reserved for them, you can control the vertical alignment, 'sliding' the image up or down within its space. Here is an example. Here is an example at 0% (Or "image should sit as far down as possible within its space):
 
@@ -38,15 +43,22 @@ You may notice the locks in the image have moved up.
 
 ## Mobile Image
 
-The header module's mobile image. Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
+![Image of the header mobile image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image.png)
 
-## Vertical Alignment
+The header module's background image on mobile. This option allows you to specify an image that is shown below 900px screen width (mobile / tablet devices). It is not necessary to define a different image here. In our example, we have decided to use the same background twice. In some cases, however, it can be beneficial to provide content for mobile devices that fits the space better. This is often a question of experimentation, to arrive at the best solution for your website.
+Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
-See the section above, describing this.
+## Vertical Alignment (mobile)
+
+![Image of the vertical alignment option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/vertical_alignment.png)
+
+This is the same option as [above](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/6_Modules/7_header_image_overlay.html#vertical-alignment), but for mobile images.
 
 ## Overlay Element
 
-The overlay element sits on top of the image.
+The overlay element sits on top of the header's background image:
+
+![Image of the image overlay of the header module, image overlay type, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_image_overlay_highlighted_online.png)
 
 ## Enabling the Overlay
 
@@ -156,3 +168,44 @@ This determines whether you would like to apply a tint to the background image. 
 **0.8 Example**
 
 ![Image of the header overlay tint opacity at 0.8](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity_0_point_8.png)
+
+## Mobile Image Shape
+
+![Image of the header mobile image shape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape.png)
+
+Because mobile devices have such a wide range of screen sizes, and there is such a variety of imagery that could be used with the header, we allow for three different aspect ratios of header images below 900px screen width (which is a typical phone / tablet resolution).
+
+**Portrait Example**
+
+![Image of the header mobile image shape Portrait option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape_portrait_online.png)
+
+**Square Example**
+
+![Image of the header mobile image shape Square option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape_square_online.png)
+
+**Landscape Example**
+
+![Image of the header mobile image shape Landscape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape_landscape_online.png)
+
+## Mobile Background
+
+![Image of the header mobile background option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_background.png)
+
+If the mobile image shape option is set to either Landscape or Square, the "Mobile Background" option appears. With Landscape or Square mobile image shapes, the image overlay moves below the (mobile) header background image, into its own area with a customisable background colour.
+
+## Chevron Options
+
+![Image of the header chevron options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_chevron_options.png)
+
+The header chevron is a clickable item, which automatically moves the page down to the module below the header.
+The chevron is displayed for the following configurations:
+
+Mobile image shape: Portrait on desktop and mobile
+Mobile image shape: Square on desktop only
+Mobile image shape: Landscape on desktop only
+
+This is the chevron:
+
+![Image of the header chevron online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_chevron_online.png)
+
+The chevron colour and rollover (when a visitor hovers over the chevron, this is the colour it will be) colour can be customised as well.
