@@ -98,9 +98,23 @@ The overlay can be placed in any 9 sectors of the header. Please note that on mo
 
 ## Overlay Width - Desktop
 
+![Image of the header overlay width option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width.png)
+
 This determines the maximum width of the image overlaid on top of the header's background image. The height of the overlay image will scale automatically, preserving the aspect ratio (i.e. your image will never be skewed by adjusting this value)
 
+**20% Example**
+
+![Image of the header overlay width option at 20 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_20_percent.png)
+
+
+**60% Example**
+
+![Image of the header overlay width option at 60 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_60_percent.png)
+
+
 ## Overlay Width - Mobile
+
+![Image of the header overlay width mobile option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_mobile.png)
 
 The overlay image can have a different width on mobile, as we have found that the smaller screen-sizes of mobile devices need special consideration, especially for finely detailed graphics.
 
