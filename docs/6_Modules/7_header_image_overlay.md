@@ -68,11 +68,9 @@ Here, the overlay can be switched on or off.
 
 ![Image of the header-image module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_off_online.png)
 
-
 **off**
 
 ![Image of the header-image module with overlay off online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_off_online.png)
-
 
 ## Overlay Image
 
@@ -100,17 +98,15 @@ The overlay can be placed in any 9 sectors of the header. Please note that on mo
 
 ![Image of the header overlay width option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width.png)
 
-This determines the maximum width of the image overlaid on top of the header's background image. The height of the overlay image will scale automatically, preserving the aspect ratio (i.e. your image will never be skewed by adjusting this value)
+This determines the maximum width of the image overlaid on top of the header's background image (as percentage of the total screen width). The height of the overlay image will scale automatically, preserving the aspect ratio (i.e. your image will never be skewed by adjusting this value)
 
 **20% Example**
 
 ![Image of the header overlay width option at 20 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_20_percent.png)
 
-
 **60% Example**
 
 ![Image of the header overlay width option at 60 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_60_percent.png)
-
 
 ## Overlay Width - Mobile
 
@@ -122,7 +118,7 @@ The overlay image can have a different width on mobile, as we have found that th
 
 ![Image of the header overlay side margin option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_side_margin.png)
 
-This determines how far the overlay image will be from the edge of the screen when you have chosen one of the left or right squares in the overlay position section.
+This determines how far the overlay image will be from the edge of the screen (as percentage of the total screen width) when you have chosen one of the left or right squares in the overlay position section.
 
 **0% Example**
 
@@ -132,10 +128,20 @@ This determines how far the overlay image will be from the edge of the screen wh
 
 ![Image of the header overlay side margin option at 10 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_side_margin_10_percent.png)
 
-
 ## Overlay Top Margin
 
+![Image of the header overlay top margin option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_top_margin.png)
+
 This determines how far the overlay image will be from the top / bottom of the screen when you have chosen one of the top / bottom squares in the overlay position section.
+**Note:** This value is in **pixels**, not percent, due to the way websites position elements. The side margin / width values are percentages of the screen width.
+
+**15px Example**
+
+![Image of the header overlay top margin option - 15px](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_top_margin_15px.png)
+
+**50px Example**
+
+![Image of the header overlay top margin option - 50px](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_top_margin_50px.png)
 
 ## Tint Colour
 
