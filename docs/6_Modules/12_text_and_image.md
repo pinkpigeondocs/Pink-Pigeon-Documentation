@@ -22,11 +22,11 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 - **Desktop Image Side:** You can 'flip' the text and image video around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_image_on_right.png)
 
-- **Vertical Alignment (%):** Because many images may not fit perfectly into the space reserved for them, you can control the vertical alignment, 'sliding' the image up or down within its space. Here is an example at 0%:
+- **Vertical Alignment (%):** Because many images may not fit perfectly into the space reserved for them, you can control the vertical alignment, 'sliding' the image up or down within its space. Here is an example at 0% (Or "image should sit as far down as possible within its space):
 
 ![Image of the image panel of a text and image module at 0% alignment](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_0_percent.png)
 
-Here is an example at 100%:
+Here is an example at 100% (Or "image should sit as high up as possible within its space):
 
 ![Image of the image panel of a text and image module at 100% alignment](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_100_percent.png)
 
