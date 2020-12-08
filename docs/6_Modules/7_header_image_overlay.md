@@ -10,7 +10,9 @@ The header is a slightly more complex module. It allows for the displaying of tw
 
 Additionally, another image can be uploaded to be displayed on top of the background images, such as a company logo. The overlay-image's position can be customised deeply.
 
-Lastly, the mobile version of the header allows for three different image heights, depending on the best content fit.
+The mobile version of the header allows for three different image heights, depending on the best content fit.
+
+The header is traditionally the first module on a page with a header, but could be placed anywhere on a site also.
 
 ## Enabling / Disabling
 
@@ -168,3 +170,43 @@ This determines whether you would like to apply a tint to the background image. 
 ![Image of the header overlay tint opacity at 0.8](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity_0_point_8.png)
 
 
+## Mobile Image Shape
+
+![Image of the header mobile image shape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape.png)
+
+Because mobile devices have such a wide range of screen sizes, and there is such a variety of imagery that could be used with the header, we allow for three different aspect ratios of header images below 900px screen width (which is a typical phone / tablet resolution).
+
+**Portrait Example**
+
+![Image of the header mobile image shape Portrait option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape_portrait_online.png)
+
+**Square Example**
+
+![Image of the header mobile image shape Square option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape_square_online.png)
+
+**Landscape Example**
+
+![Image of the header mobile image shape Landscape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape_landscape_online.png)
+
+## Mobile Background
+
+![Image of the header mobile background option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_background.png)
+
+If the mobile image shape option is set to either Landscape or Square, the "Mobile Background" option appears. With Landscape or Square mobile image shapes, the image overlay moves below the (mobile) header background image, into its own area with a customisable background colour.
+
+## Chevron Options
+
+![Image of the header chevron options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_chevron_options.png)
+
+The header chevron is a clickable item, which automatically moves the page down to the module below the header.
+The chevron is displayed for the following configurations:
+
+Mobile image shape: Portrait on desktop and mobile
+Mobile image shape: Square on desktop only
+Mobile image shape: Landscape on desktop only
+
+This is the chevron:
+
+![Image of the header chevron online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_chevron_online.png)
+
+The chevron colour and rollover (when a visitor hovers over the chevron, this is the colour it will be) colour can be customised as well.
