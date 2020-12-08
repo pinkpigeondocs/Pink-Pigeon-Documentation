@@ -66,7 +66,7 @@ Here, the overlay can be switched on or off.
 
 **on**
 
-![Image of the header-image module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_image_online.png)
+![Image of the header-image module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_off_online.png)
 
 
 **off**
@@ -74,8 +74,9 @@ Here, the overlay can be switched on or off.
 ![Image of the header-image module with overlay off online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_off_online.png)
 
 
-
 ## Overlay Image
+
+![Image of the header overlay image option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_image.png)
 
 The header module's overlay image. Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 For overlay images it is recommended to use image formats that support transparency, such as .PNG, .GIF or .SVG. (Our example uses a .PNG image)
@@ -83,7 +84,17 @@ Overlaying an image with a filled block-colour type background would not look as
 
 ## Overlay Position
 
+![Image of the header overlay position option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_position.png)
+
 The overlay can be placed in any 9 sectors of the header. Please note that on mobile, left / right placements are replaced with a central placement. Thus, only top / middle / bottom placements are taken into account on mobile. This is due to the narrow screen widths of mobile devices.
+
+**Left Middle Placement Example**
+
+![Image of the header overlay position option, left middle](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_left.png)
+
+**Left Middle Placement Online**
+
+![Image of the header overlay position option, left middle](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_left_online.png)
 
 ## Overlay Width - Desktop
 
