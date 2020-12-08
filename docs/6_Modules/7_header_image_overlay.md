@@ -145,8 +145,26 @@ This determines how far the overlay image will be from the top / bottom of the s
 
 ## Tint Colour
 
-If your tint opacity is bigger than 0, you may choose the colour of the tint to apply to the background image. This feature exists, as some graphics need additional contrast to the background they sit on top of. Here, you can define a tint colour to 'knock back' the background image, giving more emphasis to the overlay.
+![Image of the header overlay tint colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_colour.png)
+
+If your tint opacity is higher than 0, you may choose the colour of the tint to apply to the background image. This feature exists, as some graphics need additional contrast to the background they sit on top of. Here, you can define a tint colour to 'knock back' the background image, giving more emphasis to the overlay.
+
+**Green Tint Example:**
+
+![Image of the header overlay tint colour option in green](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_colour_green.png)
 
 ## Tint Opacity
 
+![Image of the header overlay tint opacity option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity.png)
+
 This determines whether you would like to apply a tint to the background image. In our example, we have chosen a black tint at 0.4 opacity (maximum is 1, minimum is 0, i.e. no tint), to 'fade' the background somewhat, giving more contrast to the overlaid logo.
+
+**0.4 Example**
+
+![Image of the header overlay tint opacity at 0.4](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity_0_point_4.png)
+
+**0.8 Example**
+
+![Image of the header overlay tint opacity at 0.8](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity_0_point_8.png)
+
+
