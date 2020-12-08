@@ -120,7 +120,18 @@ The overlay image can have a different width on mobile, as we have found that th
 
 ## Overlay Side Margin
 
+![Image of the header overlay side margin option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_side_margin.png)
+
 This determines how far the overlay image will be from the edge of the screen when you have chosen one of the left or right squares in the overlay position section.
+
+**0% Example**
+
+![Image of the header overlay side margin option at 0 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_side_margin_0_percent.png)
+
+**10% Example**
+
+![Image of the header overlay side margin option at 10 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_side_margin_10_percent.png)
+
 
 ## Overlay Top Margin
 
