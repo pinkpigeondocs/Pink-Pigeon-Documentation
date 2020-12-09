@@ -20,7 +20,7 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 This is the link to your Google Maps 'embed'. These are the steps to get it:
 
-- **Go to www.google.com/maps/**
+- **Go to [www.google.com/maps/](https://www.google.com/maps/)**
 
 ![Image of google maps](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/11_map_google_maps_first.png)
 
@@ -55,5 +55,5 @@ This is just the part in double quotes behind the '=' sign after 'src'. So, if y
 
 You should only take: ```https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5907.839785455565!2d-0.17920472437411206!3d51.49595662440386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760542e6182f3f%3A0x7bb7e385c39764c4!2sNatural%20History%20Museum!5e0!3m2!1sen!2suk!4v1607516254069!5m2!1sen!2suk``` from it.
 
-- **Copy this back into the module's Map Link field**
+- **Copy this back into the module's Map Link field and hit 'save'**
 
