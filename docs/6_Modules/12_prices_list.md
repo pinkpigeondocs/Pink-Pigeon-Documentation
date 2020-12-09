@@ -6,7 +6,7 @@ sort: 12
 
 ![Image of the prices list module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_online.png)
 
-The Map module lets you add a map to your site. There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
+The Prices - List module lets you compose a price list, either with images or without them.
 
 ## Enabling / Disabling
 
@@ -40,8 +40,40 @@ The Prices - List module allows you to change the background colour and text col
 
 ## With Images
 
+![Image of the prices - list module 'with images' option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_option.png)
+
+Here you can enable / disable images for your price list.
+
+**Images Enabled - CMS Example**
+
+![Image of the prices - list module 'with images' images enabled in CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_enabled.png)
+
+**Images Disabled - CMS Example**
+
+![Image of the prices - list module 'with images' images disabled in CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_disabled.png)
+
+**Images Enabled - Online Example**
+
+![Image of the prices - list module 'with images' images enabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_enabled_online.png)
+
+**Images Disabled - Online Example**
+
+![Image of the prices - list module 'with images' images disabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_disabled_online.png)
+
 
 ## Image Outline
+![Image of the prices - list module 'with images' outline option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_image_outline.png)
+
+If you have enabled images, this option will allow you to add an outline around your image (which will be the same as the font colour you selected for the module).
+
+**With Outlines**
+
+![Image of the prices - list module 'with images' outline enabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_image_outline_enabled_online.png)
+
+**Without Outlines**
+
+![Image of the prices - list module 'with images' outline disabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_image_outline_disabled_online.png)
+
 
 
 ## Price List Items
