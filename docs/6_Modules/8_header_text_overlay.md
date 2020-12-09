@@ -246,9 +246,9 @@ If the mobile image shape option is set to either Landscape or Square, the "Mobi
 The header chevron is a clickable item, which automatically moves the page down to the module below the header.
 The chevron is displayed for the following configurations:
 
-Mobile image shape: Portrait on desktop and mobile
-Mobile image shape: Square on desktop only
-Mobile image shape: Landscape on desktop only
+- Mobile image shape: Portrait on desktop and mobile
+- Mobile image shape: Square on desktop only
+- Mobile image shape: Landscape on desktop only
 
 This is the chevron:
 
