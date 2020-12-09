@@ -67,14 +67,16 @@ Advanced users get some additional options to edit within the footer section:
 
 ## (Advanced users) Module Spacing:
 
-The modules on your website can have large gaps:
+The modules on your website can have:
+
+**Large gaps:**
 
 ![Image of a large gaps example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_large_gaps.png)
 
-Small gaps:
+**Small gaps:**
 
 ![Image of a large gaps example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_small_gaps.png)
 
-Or no gaps between them:
+**No gaps:**
 
 ![Image of a large gaps example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_no_gaps.png)
