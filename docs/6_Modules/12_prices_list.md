@@ -78,6 +78,9 @@ If you have enabled images, this option will allow you to add an outline around 
 
 ## Price List Items
 
+![Image of the prices - list module list items online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_items_online.png)
+
+
 
 ## Lower Body Text
 
