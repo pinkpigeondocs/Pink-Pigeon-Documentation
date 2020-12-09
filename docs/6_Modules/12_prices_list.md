@@ -18,7 +18,7 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
-This is the header text in the bio module. Here it is online:
+This is the header text in the Prices - List module. Here it is online:
 
 ![Image of the prices list module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_header_text_online.png)
 
