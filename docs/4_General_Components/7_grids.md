@@ -12,8 +12,19 @@ Therefore, it is entirely feasible to make a website completely from grid module
 
 These modules exist as grid-variations:
 
-- Image Only
+- [Image Only](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/6_Modules/9_image_only.html)
 - Text Only
 - Video Only
 - Map
+
+Grid modules are responsive. Above you can see their arrangement on desktop resolutions (900px and above).
+
+**Tablet Example (650px - 900px)**
+
+![Image of three image-only grid modules](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_grid_tablet.png)
+
+**Mobile Example (Below 650px)**
+
+![Image of three image-only grid modules](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_grid_mobile.png)
+
 
