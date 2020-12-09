@@ -66,22 +66,10 @@ Here are some examples of how 7 buttons arrange themselves (you might notice tha
 
 ![Image of the Prices - Buttons module list items at narrow resolution, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_8_btns_wide.png)
 
+All other numbers of buttons follow similar conventions as above.
 
+## Button Styling
 
-## Lower Body Text
+The button styling follows the same conventions as other CTA / Buttons (such as whether transparent or opaque buttons have been selected.)
 
-![Image of the Prices - Buttons module list items lower body copy text option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_item_lower_body_text.png)
-
-There is an option to have a second 'outro' style text, that looks like this:
-
-![Image of the Prices - Buttons module list items lower body copy online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_item_lower_body_online.png)
-
-This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html) body text input **without** a character limit.
-
-```tip
-It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
-```
-
-## Button
-
-Please refer to the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html) for more info about the button.
+Please refer to the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html) for more info about button styling.
