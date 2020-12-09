@@ -223,6 +223,10 @@ Because mobile devices have such a wide range of screen sizes, and there is such
 
 ![Image of the header mobile image shape Landscape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_mobile_image_shape_landscape_online.png)
 
+```tip
+The Square and Landscape options take into account the module gap value (between the header background image and the text part below), [as defined in Essentials](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/5_Pages/1_essentials.html#advanced-users-module-spacing).
+```
+
 ## Mobile Background
 
 ![Image of the header mobile background option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_background.png)

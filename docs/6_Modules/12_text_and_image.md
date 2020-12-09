@@ -53,6 +53,10 @@ You can leave any text field blank, and the CMS will adjust the layout to make t
 
 - **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
 
+```tip
+If a small or large module-gap was selected, the text and image module takes this into account, see [Module Spacing in Essentials](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/5_Pages/1_essentials.html#advanced-users-module-spacing) for more information.
+```
+
 ## Button
 
 Please refer to the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html) for more info about the button.
