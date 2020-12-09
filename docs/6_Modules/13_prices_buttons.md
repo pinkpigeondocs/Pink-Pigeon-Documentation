@@ -44,75 +44,27 @@ The Prices - Buttons module allows you to change the background colour and text 
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
-## With Images
+## Price List Buttons
 
-![Image of the Prices - Buttons module 'with images' option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_with_images_option.png)
+![Image of the Prices - Buttons module list items in cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_cms.png)
 
-Here you can enable / disable images for your price list.
+You may add up to 8 buttons to your price list.
 
-**Images Enabled - CMS Example**
+The buttons are fully responsive and arrange themselves dynamically based on the device (or screen width) they are viewed on.
 
-![Image of the Prices - Buttons module 'with images' images enabled in CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_with_images_enabled.png)
+Here are some examples of how 7 buttons arrange themselves (you might notice that above, there are 8 items, however no file has been uploaded for one of them, meaning it will not show):
 
-**Images Disabled - CMS Example**
+**Narrow**
 
-![Image of the Prices - Buttons module 'with images' images disabled in CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_with_images_disabled.png)
+![Image of the Prices - Buttons module list items at narrow resolution, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_8_btns_narrow.png)
 
-**Images Enabled - Online Example**
+**Medium**
 
-![Image of the Prices - Buttons module 'with images' images enabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_with_images_enabled_online.png)
+![Image of the Prices - Buttons module list items at narrow resolution, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_8_btns_medium.png)
 
-**Images Disabled - Online Example**
+**Wide**
 
-![Image of the Prices - Buttons module 'with images' images disabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_with_images_disabled_online.png)
-
-
-## Image Outline
-![Image of the Prices - Buttons module 'with images' outline option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_image_outline.png)
-
-If you have enabled images, this option will allow you to add an outline around your image (which will be the same as the font colour you selected for the module).
-
-**With Outlines**
-
-![Image of the Prices - Buttons module 'with images' outline enabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_image_outline_enabled_online.png)
-
-**Without Outlines**
-
-![Image of the Prices - Buttons module 'with images' outline disabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_image_outline_disabled_online.png)
-
-
-
-## Price List Items
-
-![Image of the Prices - Buttons module list items online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_items_online.png)
-
-Price list items consist of an image, heading, price and description
-
-**Heading**
-
-![Image of the Prices - Buttons module list items heading](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_item_heading.png)
-
-Which online is:
-
-![Image of the Prices - Buttons module list items heading online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_item_heading_online.png)
-
-
-**Price**
-
-![Image of the Prices - Buttons module list items price](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_item_price.png)
-
-Which online is:
-
-![Image of the Prices - Buttons module list items price online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_item_price_online.png)
-
-
-**Description**
-
-![Image of the Prices - Buttons module list items description](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_item_description.png)
-
-Which online is:
-
-![Image of the Prices - Buttons module list items description online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_item_description_online.png)
+![Image of the Prices - Buttons module list items at narrow resolution, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_8_btns_wide.png)
 
 
 
