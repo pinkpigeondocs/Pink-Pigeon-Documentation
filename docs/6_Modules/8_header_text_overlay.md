@@ -250,7 +250,7 @@ The chevron is displayed for the following configurations:
 - Mobile image shape: Square on desktop only
 - Mobile image shape: Landscape on desktop only
 
-This is the chevron:
+**This is the chevron:**
 
 ![Image of the header chevron online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_chevron_online.png)
 
