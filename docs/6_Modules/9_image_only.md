@@ -6,7 +6,7 @@ sort: 9
 
 ![Image of the image only module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/9_image_only_online.png)
 
-This module displays one image, nothing else. There is a grid variant of this module.
+This module displays one image, nothing else. There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
 
 ## Enabling / Disabling
 

@@ -9,6 +9,10 @@ sort: 10
 This is an unlimited-height module, which can be used as a full-page image gallery, connecting via your Instagram feed.
 The Instagram module is responsive; The number of columns is adjusted as the screen-width shrinks.
 
+```warning
+There can only ever be one Instagram module per page. This is due to how Instagram handles authenticating your website.
+```
+
 ## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
@@ -44,3 +48,7 @@ If you have not connected your Instagram feed, this is where you can do it. Here
 - After logging in (and agreeing / not agreeing to save your login info), Instagram will ask you to approve our application: ![Image of the authorisation window](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/10_instagram_authorisation_window.png)
 
 - If everything went well, your Instagram module's edit page will show you the token that has been exchanged with Instagram: ![Image of the instagram token](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/10_instagram_token.png)
+
+```tip
+Once this connection has been made, you do not need to do anything else to 'refresh' the connection. The CMS handles this automatically. Additionally, if you delete and add another Instagram module, the CMS will remember the original connection, so you do not have to reconnect.
+```

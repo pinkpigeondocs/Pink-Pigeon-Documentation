@@ -17,6 +17,10 @@ These modules exist as grid-variations:
 - Video Only
 - Map
 
+**You may add a grid module like this (showing a map module here):**
+
+![Image of adding a map grid](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_add_grid.png)
+
 Grid modules are responsive. Above you can see their arrangement on desktop resolutions (900px and above).
 
 **Tablet Example (650px - 900px)**

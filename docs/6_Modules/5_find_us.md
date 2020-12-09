@@ -5,7 +5,7 @@ sort: 5
 # Find Us
 
 The 'Find Us' module allows you to put in opening times and / or an address for your business (or any other information that fits the format).
-Please note that this is not the [map](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/6_Modules/12_map.html) module, which is what you would use to put a map onto your website.
+Please note that this is not the [map](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/6_Modules/11_map.html) module, which is what you would use to put a map onto your website.
 
 
 ## Enabling / Disabling
