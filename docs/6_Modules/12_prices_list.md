@@ -32,6 +32,12 @@ Here it is in the module:
 
 ![Image of the prices list module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_body_text_online.png)
 
+This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html) body text input **without** a character limit.
+
+```tip
+It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
+```
+
 ## Colours
 
 The Prices - List module allows you to change the background colour and text colour of the module.
@@ -112,6 +118,17 @@ Which online is:
 
 ## Lower Body Text
 
+![Image of the prices - list module list items lower body copy text option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_item_lower_body_text.png)
+
+There is an option to have a second 'outro' style text, that looks like this:
+
+![Image of the prices - list module list items lower body copy online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_item_lower_body_online.png)
+
+This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html) body text input **without** a character limit.
+
+```tip
+It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
+```
 
 ## Button
 
