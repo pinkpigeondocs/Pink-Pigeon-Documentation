@@ -33,11 +33,11 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 - **Header Text:** This is the header within a text and video module:
 
-![Image of the text panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_header.png)
+![Image of the text panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_text_panel_header.png)
 
 - **Body Text:** This is the body text within a text and video module:
 
-![Image of the text panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_body.png)
+![Image of the text panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_text_panel_body.png)
 
 Please note that this is a rich text field. More info on that [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html).
 On desktop resolutons, this field has a height limitation, to ensure clean layouts, which is why the character limit is 450.
