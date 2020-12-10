@@ -57,3 +57,9 @@ You should only take: ```https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5
 
 - **Copy this back into the module's Map Link field and hit 'save'**
 
+
+
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```

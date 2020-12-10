@@ -209,3 +209,8 @@ This is the chevron:
 ![Image of the header chevron online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_chevron_online.png)
 
 The chevron colour and rollover (when a visitor hovers over the chevron, this is the colour it will be) colour can be customised as well.
+
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```

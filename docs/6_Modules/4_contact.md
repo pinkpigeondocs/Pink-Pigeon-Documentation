@@ -132,3 +132,8 @@ The confirmation body text is also part of the 'Thank You'-screen.
 
 ![Image of the contact module thank you screen body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_thankyou_body.png)
 
+
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```

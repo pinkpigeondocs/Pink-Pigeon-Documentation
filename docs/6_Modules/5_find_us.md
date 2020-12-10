@@ -69,3 +69,8 @@ At the moment we support adding up to 6 different social icons. You have a choic
 ![Image of the find us module colour options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_colours.png)
 
 The Find Us module allows you to change the background colour, text colour and icon rollover colour of the module.
+
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```

@@ -52,3 +52,8 @@ If you have not connected your Instagram feed, this is where you can do it. Here
 ```tip
 Once this connection has been made, you do not need to do anything else to 'refresh' the connection. The CMS handles this automatically. Additionally, if you delete and add another Instagram module, the CMS will remember the original connection, so you do not have to reconnect.
 ```
+
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```

@@ -73,3 +73,10 @@ All other numbers of buttons follow similar conventions as above.
 The button styling follows the same conventions as other CTA / Buttons (such as whether transparent or opaque buttons have been selected.)
 
 Please refer to the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html) for more info about button styling.
+
+
+
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```

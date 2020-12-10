@@ -59,3 +59,9 @@ You may customise the background colour shown when using 'scale down' as an imag
 - **Selected Dot Colour:** This allows you to change the colour of whichever dot corresponds to the image that is currently showing.
 
 - **Dot Rollover Colour:** This is the colour of any dot that the user's mouse is hovering over.
+
+
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```

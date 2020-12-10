@@ -58,3 +58,9 @@ Please copy the following number from your checkatrade profile here:
 
 
 - **Quote Accuracy:** Corresponds to this score on Checkatrade: ![Image of the checkatrade quote accuracy input](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/3_checkatrade_quote_accuracy_score_online.png)
+
+
+
+```tip
+Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
+```
