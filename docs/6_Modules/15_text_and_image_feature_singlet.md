@@ -20,7 +20,7 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 - **Image:** This controls the [image](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html) of the text module, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_panel.png)
 
-- **Desktop Image Side:** You can 'flip' the text and image video around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_on_right.png)
+- **Desktop Image Side:** You can 'flip' the text and image around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_on_right.png)
 
 - **Image Fit:** Because the images in this version of the Text and Image module are within a smaller space, we have added further controls over the 'image fit', which allows for two options, "Cover" and "Scale Down".
 

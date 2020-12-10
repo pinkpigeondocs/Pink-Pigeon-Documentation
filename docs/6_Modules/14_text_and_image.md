@@ -20,7 +20,7 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 - **Image:** This controls the [image](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html) of the text module, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_panel.png)
 
-- **Desktop Image Side:** You can 'flip' the text and image video around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_on_right.png)
+- **Desktop Image Side:** You can 'flip' the text and image around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_on_right.png)
 
 - **Vertical Alignment (%):** Because many images may not fit perfectly into the space reserved for them, you can control the vertical alignment, 'sliding' the image up or down within its space. Here is an example at 0% (Or "image should sit as far down as possible within its space):
 
