@@ -4,7 +4,7 @@ sort: 17
 
 # Text Only
 
-This module displays a text header, body text and button (also known as a CTA).
+This module displays a text header, body text and button (also known as a CTA). There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
 
 ![Image of the text only module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_online.png)
 
@@ -20,7 +20,7 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 This is the header text in the Text Only module. Here it is online:
 
-![Image of the Text Only module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_text_only_header_online.png)
+![Image of the Text Only module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_header_online.png)
 
 ## Body Text
 
