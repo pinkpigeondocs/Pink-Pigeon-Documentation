@@ -18,9 +18,9 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
-This is the header text in the bio module. Here it is online:
+This is the header text in the Text Only module. Here it is online:
 
-![Image of the bio module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_header_online.png)
+![Image of the Text Only module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_text_only_header_online.png)
 
 ## Body Text
 
@@ -30,7 +30,7 @@ This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_Ge
 
 Here it is in the module:
 
-![Image of the bio module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_body_text_online.png)
+![Image of the Text Only module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_body_text_online.png)
 
 ## Colours
 
