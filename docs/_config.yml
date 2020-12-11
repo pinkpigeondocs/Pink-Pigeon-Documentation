@@ -2,7 +2,7 @@ title: Pink Pigeon CMS
 lang: en
 description: This is the documentation for the Pink Pigeon CMS
 
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: pinkpigeondocs/jekyll-rtd-theme
 
 readme_index:
   with_frontmatter: true
