@@ -2,9 +2,9 @@
 sort: 1
 ---
 
-![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
-
 # Introduction
+
+![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
 
 Hello! We are Claire & Adrian, and our business is called [Pink Pigeon Digital Ltd][pp].
 

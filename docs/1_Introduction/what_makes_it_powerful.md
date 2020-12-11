@@ -2,9 +2,9 @@
 sort: 2
 ---
 
-![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
-
 # What makes your CMS stand out?
+
+![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
 
 ## In short
 
@@ -21,7 +21,7 @@ We are a small team, solving a very specific problem for our specific customers.
 
 ## Problem Solving
 
-The problem the big companies are solving is: "How do we make more money?". And that can only be achieved at the staggering "millions of users"-scales that these companies run on. This means there is no real support, unless you pay a fortune to be assigned a 'Support Agent', who is still dealing with hundreds, if not thousands of separate cases, and who will hand you off to someone else at the drop of a hat. This also means that their documentation will be complicated and all over the place. There is a reason why so many people have made it their only job to build Wordpress or Squarespace sites: It's still an entire, full-time job building and running these sites. 
+The problem the big companies are solving is: "How do we make more money?". And that can only be achieved at the staggering "millions of users"-scales that these companies run on. This means there is no real support, unless you pay a fortune to be assigned a 'Support Agent', who is still dealing with hundreds, if not thousands of separate cases, and who will hand you off to someone else at the drop of a hat. This also means that their documentation will be complicated and all over the place. There is a reason why so many people have made it their only job to build Wordpress or Squarespace sites: It's still an entire, full-time job building and running these sites.
 
 Wordpress, Squarespace, etc. have 'open signups', which means anyone can register an account and start working right away, whether they know what they are doing or not.
 

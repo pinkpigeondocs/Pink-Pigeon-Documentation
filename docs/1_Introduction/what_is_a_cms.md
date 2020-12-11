@@ -2,11 +2,11 @@
 sort: 1
 ---
 
-![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
-
 # What is a CMS?
 
-CMS stands for Content Management System. 
+![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
+
+CMS stands for Content Management System.
 
 This is the term commonly used for any type of software or application (most commonly used via the internet) which allows you to manage your website.
 
