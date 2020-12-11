@@ -1,7 +1,7 @@
 ---
 sort: 2
 ---
-
+![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
 # What makes your CMS stand out?
 
 ## In short
