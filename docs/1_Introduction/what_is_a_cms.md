@@ -1,7 +1,9 @@
 ---
 sort: 1
 ---
+
 ![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
+
 # What is a CMS?
 
 CMS stands for Content Management System. 
