@@ -1,7 +1,8 @@
 ---
 sort: 1
 ---
-![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
+
+
 # Awards
 
 The Awards module is very similar to the image-only module, but it allows switching between mobile and desktop images, to allow for specific designs / arrangements of many awards (as they are often awkward / very different shapes). Please see an example below:
