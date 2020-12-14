@@ -8,7 +8,7 @@ The Contact module turns into a contact form on your website:
 
 ![Image of the contact module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_online.png)
 
-When a visitor to your website fills in the form, you will receive an e-mail including all the info that was filled in on the form.
+When a visitor to your website fills in the form, you will receive an email including all the info that was filled in on the form.
 
 ## Enabling / Disabling
 
@@ -20,9 +20,9 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the contact module's form name input](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_name.png)
 
-You can name your forms (at pinkpigeon.co.uk, for example, we have 6 contact forms, one for each section). The CMS will include this name when e-mailing you, so you know what section of your website a visitor contacted you from.
+You can name your forms (at pinkpigeon.co.uk, for example, we have 6 contact forms, one for each section). The CMS will include this name when emailing you, so you know what section of your website a visitor contacted you from.
 
-When we e-mail you, the form name will be included in the message (please note that the originating URL is also included in the e-mail, so you know it came from us):
+When we email you, the form name will be included in the message (please note that the originating URL is also included in the email, so you know it came from us):
 
 ![Image of the email we send after a form has been submitted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_email.png)
 
@@ -79,7 +79,7 @@ Here it is online:
 ![Image of the contact module's contact method online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_preferred_method_online.png)
 
 ```tip
-If you have enabled the preferred contact method option, double check that you have form-fields corresponding to 'e-mail' and 'phone number'.
+If you have enabled the preferred contact method option, double check that you have form-fields corresponding to 'email' and 'phone number'.
 ```
 
 ## Legal Confirmations

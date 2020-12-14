@@ -20,12 +20,12 @@ Selecting "My Account" will take you to the "My Account" screen:
 
 ![Image of "My Account" opened](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/my_account_main.png)
 
-Here you will find the information you provided us with at the time of registration, along with the option to change your mobile phone number and an option to opt out of e-mail communications (though we discourage this, as we may communicate essential changes via e-mail and we do try to send e-mails very rarely).
+Here you will find the information you provided us with at the time of registration, along with the option to change your mobile phone number and an option to opt out of email communications (though we discourage this, as we may communicate essential changes via email and we do try to send emails very rarely).
 
-Please remember to select 'update' if you are changing your phone number or the e-mail opt-in / opt-out.
+Please remember to select 'update' if you are changing your phone number or the email opt-in / opt-out.
 
-Lastly, you may reset your password on this screen. We will show a confirmation prompt before sending you a confirmation e-mail with a link allowing you to reset your password. The steps are the same as item 1.) in [resetting your password][resetpw].
+Lastly, you may reset your password on this screen. We will show a confirmation prompt before sending you a confirmation email with a link allowing you to reset your password. The steps are the same as item 1.) in [resetting your password][resetpw].
 
-You do not need to select 'update' in order to change your password. If you change your mind and do not wish to amend your password, but have already asked us to send you a password-reset e-mail, then you can simply ignore the e-mail and your original password will remain valid.
+You do not need to select 'update' in order to change your password. If you change your mind and do not wish to amend your password, but have already asked us to send you a password-reset email, then you can simply ignore the email and your original password will remain valid.
 
 [resetpw]:https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/2_login.html#resetting-your-password

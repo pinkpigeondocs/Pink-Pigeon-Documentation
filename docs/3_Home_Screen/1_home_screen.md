@@ -10,7 +10,7 @@ We will be using our very own site [pinkpigeon.co.uk](https://pinkpigeon.co.uk) 
 
 ## Notifications
 
-Notifications are displayed at the top of the page. You can close them by selecting the "X". Once closed, they do not come back, so make sure to read these carefully. We will normally send an e-mail at the same time, with the same information in it, so that you are informed in multiple places.
+Notifications are displayed at the top of the page. You can close them by selecting the "X". Once closed, they do not come back, so make sure to read these carefully. We will normally send an email at the same time, with the same information in it, so that you are informed in multiple places.
 
 ![Image of the home screen, with a notification](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/images/notification.png)
 
