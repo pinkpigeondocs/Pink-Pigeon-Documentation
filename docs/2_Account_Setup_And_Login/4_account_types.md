@@ -14,8 +14,8 @@ Please see below for a comparison of features available to each account type. Th
 
 | Area of CMS  | Basic | Advanced (In addition to 'Basic') |
 | --- | --- | --- |
-| **Essentials** | - Favicon, <br>- Meta Description <br>- Company Details Lines 1 / 2 / 3 <br>- Download Link 1 / 2 / 3 | - Colour Palette <br>- Background Colour <br>- Text Options: Font / Scale Multiplier <br>- Buttons: Corner Style / Fill Transparency / Chevron / Font Case <br>- Footer: Font Colour / Rollover Colour <br>- Module Spacing |
-| **Menu & Navigation** | - Logo <br>- Menu Items: Label only <br>- Desktop Menu Style | - Font Colour<br>- Rollover Colour<br>- Nav Transparency <br>- Persistence <br>- Height<br>- Mobile Overlay: Background Colour / Font Colour, Rollover Colour |
+| **Essentials (Page)** | - Favicon, <br>- Meta Description <br>- Company Details Lines 1 / 2 / 3 <br>- Download Link 1 / 2 / 3 | - Colour Palette <br>- Background Colour <br>- Text Options: Font / Scale Multiplier <br>- Buttons: Corner Style / Fill Transparency / Chevron / Font Case <br>- Footer: Font Colour / Rollover Colour <br>- Module Spacing |
+| **Menu & Navigation (Page)** | - Logo <br>- Menu Items: Label only <br>- Desktop Menu Style | - Font Colour<br>- Rollover Colour<br>- Nav Transparency <br>- Persistence <br>- Height<br>- Mobile Overlay: Background Colour / Font Colour, Rollover Colour |
 | **Awards** | - Enable / Disable Module <br>- Header Text <br>- Desktop Image<br>- Mobile Image | - Background Colour <br>- Font Colour |
 | **Bio** | - Enable / Disable Module <br>- Header Text <br>- Body Text <br>- Bio Fields: Column 1 / 2, **moving only**<br>- Lower Body Text<br>- Social Icons | - Bio Fields: Adding / Deleting <br>- Background Colour <br>- Font Colour |
 | **Checkatrade** | - Enable / Disable Module <br>- # Recent Reviews <br>- # Total Reviews <br>- Scores: Average / Reliability / Courtesy / Tidiness / Workmanship / Quote Accuracy | **- Same as basic** |
