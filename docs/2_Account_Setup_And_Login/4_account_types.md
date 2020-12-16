@@ -14,5 +14,5 @@ Please see below for a comparison of features available to each account type. Th
 
 | Area of CMS  | Basic | Advanced |
 | --- | --- | --- |
-| Essentials | Favicon, Meta Description, Company Details, Download Link 1, 2 , 3 | Colour Palette |
-| Menu & Navigation | Some long data here | more data |
+| Essentials | Favicon, Meta Description, Company Details Lines 1 / 2 / 3, Download Link 1 / 2 / 3 | Colour Palette, Background Colour, Text Options: Font / Scale Multiplier, Buttons: Corner Style / Fill Transparency / Chevron / Font Case, Footer: Font Colour / Rollover Colour, Module Spacing |
+| Menu & Navigation | test | test |
