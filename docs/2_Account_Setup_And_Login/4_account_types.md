@@ -24,13 +24,13 @@ Please see below for a comparison of features available to each account type. Th
 | **Gallery** | - Enable / Disable Module <br>- Images: Add / Move / Delete <br>- Image Fit | - Background Colour <br>- Marker Background Style <br>- Marker Colours: Background / Dot / Selected Dot / Dot Rollover |
 | **Header (Text Overlay)** | - Enable / Disable Module <br>- Desktop Image <br>-Vertical Alignment <br>- Mobile Image <br>- Vertical Alignment <br>- Overlay: Enable / Text / Position | - Overlay Desktop Font Colour <br>- Tint Area <br>- Width Desktop <br>- Width Mobile <br>- Side Margin <br>- Top Margin <br>- Overlay Padding <br>- Tint Colour <br>- Tint Opacity <br>- Mobile Image Shape <br>- Mobile Background Colour <br>- Mobile Font Colour <br>- Chevron: Show / Colour / Rollover Colour |
 | **Header (Image Overlay)** | - Enable / Disable Module <br>- Desktop Image <br>- Vertical Alignment <br>- Mobile Image <br>- Vertical Alignment <br>- Overlay: Enable / Image / Position | - Overlay Image: Width Desktop / Width Mobile / Side Margin / Top Margin / Tint Colour / Tint Opacity <br>- Mobile Image Shape <br>- Mobile Background Colour <br>- Chevron: Enable / Colour / Rollover Colour |
-| **Image Only** | - Enable / Disable Module <br>- Image <br>- Vertical Alignment | **- Same as basic** |
+| **Image Only (inc. Grid)** | - Enable / Disable Module <br>- Image <br>- Vertical Alignment | **- Same as basic** |
 | **Instagram** | - Enable / Disable Module | - Background Colour <br>- Max Image to Show <br>- Max Columns <br>- Connect Instagram |
-| **Map** | - Enable / Disable Module <br>- Map Link | **- Same as basic** |
+| **Map (inc. Grid)** | - Enable / Disable Module <br>- Map Link | **- Same as basic** |
 | **Prices (Buttons)** | - Enable / Disable Module <br>- Header Text <br>- Body Text <br>- Price List Buttons: Label, File **moving only** | - Background Colour <br>- Font Colour <br>- Price List Buttons: **add / delete** <br>- Button Colours: Stroke / Fill / Font / Stroke Rollover / Fill Rollover / Font Rollover |
 | **Prices (List)** | - Enable / Disable Module <br>- Header Text <br>- Body Text <br>- Price List Items: Image / Title / Price / Description **add / move / delete** <br>- Lower Body Text <br>- Button: Enable / Text / Link | - Background Colour <br>- Font Colour <br>- With Images <br>- Image Outline <br>- Button Colours: Stroke / Fill / Font / Stroke Rollover / Fill Rollover / Font Rollover |
-| **Text and Image** | - Enable / Disable Module <br>-  |  |
-| **Text and Image (Feature Singlet)** | - Enable / Disable Module <br>-  |  |
-| **Text and Video** | - Enable / Disable Module <br>-  |  |
-| **Text Only** | - Enable / Disable Module <br>-  |  |
-| **Video Only** | - Enable / Disable Module <br>-  |  |
+| **Text and Image** | - Enable / Disable Module <br>- Image Panel: Image / Desktop Side / Vertical Alignment <br>- Text Panel: Header Text / Body Text <br>- Button: Enable / Text / Link | <br>- Text Panel: Background Colour / Font Colour <br>- Button Colours: Stroke / Fill / Font / Stroke Rollover / Fill Rollover / Font Rollover |
+| **Text and Image (Feature Singlet)** | - Enable / Disable Module <br>- Image Panel: Image / Desktop Side / Vertical Alignment / Image Fit <br>- Text Panel: Header Text / Body Text <br>- Button: Enable / Text / Link | <br>- Image Shape <br>- Text Panel: Background Colour / Font Colour <br>- Button Colours: Stroke / Fill / Font / Stroke Rollover / Fill Rollover / Font Rollover |
+| **Text and Video** | - Enable / Disable Module <br>- Video Panel: Type / ID / Desktop Side <br>- Text Panel: Header Text / Body Text <br>- Button: Enable / Text / Link | - Text Panel: Background Colour / Font Colour <br>- Button Colours: Stroke / Fill / Font / Stroke Rollover / Fill Rollover / Font Rollover |
+| **Text Only (inc. Grid)** | - Enable / Disable Module <br>- Header Text <br>- Body Text <br>- Button: Enable / Text / Link | - Background Colour <br>- Font Colour <br>- Button Colours: Stroke / Fill / Font / Stroke Rollover / Fill Rollover / Font Rollover  |
+| **Video Only** | - Enable / Disable Module <br>- Video Type <br>- Video ID <br>- Background Colour | **- Same as basic** |
