@@ -19,3 +19,18 @@ Please see below for a comparison of features available to each account type. Th
 | **Awards** | - Enable / Disable Module <br>- Header Text <br>- Desktop Image<br>- Mobile Image | - Background Colour <br>- Font Colour |
 | **Bio** | - Enable / Disable Module <br>- Header Text <br>- Body Text <br>- Bio Fields: Column 1 / 2, **moving only**<br>- Lower Body Text<br>- Social Icons | - Bio Fields: Adding / Deleting <br>- Background Colour <br>- Font Colour |
 | **Checkatrade** | - Enable / Disable Module <br>- # Recent Reviews <br>- # Total Reviews <br>- Scores: Average / Reliability / Courtesy / Tidiness / Workmanship / Quote Accuracy | **- Same as basic** |
+| **Contact** | - Enable / Disable Module <br>- Form Name <br>- Header Text <br>- Body Text <br>- Form Fields: Required / Label <br>- Contact Method <br>- Legal Confirmations: Text / Required **move only** <br>- Button: Text <br>- Confirmation Page: Header Text / Body Text | - Form Fields: Type / Width / Add / Delete / Move <br>- Legal Confirmations: Add / Delete <br>- Background Colour <br>- Font Colour <br>- Input Colours: Stroke / Fill / Active Stroke <br>- Button Colours: Stroke / Fill / Font / Stroke Rollover / Fill Rollover / Font Rollover|
+| **Find Us** | - Enable / Disable Module <br>-  |  |
+| **Gallery** | - Enable / Disable Module <br>-  |  |
+| **Header (Image Overlay)** | - Enable / Disable Module <br>-  |  |
+| **Header (Text Overlay)** | - Enable / Disable Module <br>-  |  |
+| **Image Only** | - Enable / Disable Module <br>-  |  |
+| **Instagram** | - Enable / Disable Module <br>-  |  |
+| **Map** | - Enable / Disable Module <br>-  |  |
+| **Prices (List)** | - Enable / Disable Module <br>-  |  |
+| **Prices (Buttons)** | - Enable / Disable Module <br>-  |  |
+| **Text and Image** | - Enable / Disable Module <br>-  |  |
+| **Text and Image (Feature Singlet)** | - Enable / Disable Module <br>-  |  |
+| **Text and Video** | - Enable / Disable Module <br>-  |  |
+| **Text Only** | - Enable / Disable Module <br>-  |  |
+| **Video Only** | - Enable / Disable Module <br>-  |  |
