@@ -10,7 +10,9 @@ In the documentation, functionality available for standard / advanced users is p
 
 If you are a standard user and would like to become an advanced one, we can switch your account, for a small increase in the monthly fee.
 
-| Module  | Basic | Advanced |
+Please see below for a comparison of features available to each account type. The 'Advanced' account includes all options from the 'Basic' account in the table.
+
+| Area of CMS  | Basic | Advanced |
 | --- | --- | --- |
-| Some data | Some more data | data |
-| data | Some long data here | more data |
+| Essentials | Favicon, Meta Description, Company Details, Download Link 1, 2 , 3 | Colour Palette |
+| Menu & Navigation | Some long data here | more data |
