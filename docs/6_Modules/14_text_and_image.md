@@ -8,13 +8,13 @@ The Text and Image module is one of our most used modules. That is because most 
 
 ![Image of the text and image module, feature singlet](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_online.png)
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Image Panel
+## (Standard Users) Image Panel
 
 ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_panel_all.png)
 
@@ -36,11 +36,11 @@ You may notice the locks in the image have moved up.
 
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel.png)
 
-- **Header Text:** This is the header within a text and image module:
+- **(Standard Users) Header Text:** This is the header within a text and image module:
 
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_header.png)
 
-- **Body Text:** This is the body text within a text and image module:
+- **(Standard Users) Body Text:** This is the body text within a text and image module:
 
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_body.png)
 
@@ -51,7 +51,7 @@ On desktop resolutons, this field has a height limitation, to ensure clean layou
 You can leave any text field blank, and the CMS will adjust the layout to make the remaining text elements fit. You could even leave all text out, if desired.
 ```
 
-- **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
+- **(Advanced Users) Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
 
 ```tip
 If a small or large module-gap was selected, the text and image module takes this into account, see [Module Spacing in Essentials](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/5_Pages/1_essentials.html#advanced-users-module-spacing) for more information.

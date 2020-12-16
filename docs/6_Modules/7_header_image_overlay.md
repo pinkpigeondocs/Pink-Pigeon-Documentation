@@ -14,20 +14,20 @@ The mobile version of the header allows for three different image heights, depen
 
 The header is traditionally the first module on a page with a header, but could be placed anywhere on a site also.
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Desktop Image
+## (Standard Users) Desktop Image
 
 ![Image of the header desktop image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_desktop_image.png)
 
 The header module's background image on desktop. This image will be shown at screen resolutions of 900px and above, typically laptops and desktop computers.
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
-## Vertical Alignment
+## (Standard Users) Vertical Alignment
 
 ![Image of the vertical alignment option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/vertical_alignment.png)
 
@@ -41,14 +41,14 @@ Here is an example at 100% (Or "image should sit as high up as possible within i
 
 You may notice the locks in the image have moved up.
 
-## Mobile Image
+## (Standard Users) Mobile Image
 
 ![Image of the header mobile image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image.png)
 
 The header module's background image on mobile. This option allows you to specify an image that is shown below 900px screen width (mobile / tablet devices). It is not necessary to define a different image here. In our example, we have decided to use the same background twice. In some cases, however, it can be beneficial to provide content for mobile devices that fits the space better. This is often a question of experimentation, to arrive at the best solution for your website.
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
-## Vertical Alignment (mobile)
+## (Standard Users) Vertical Alignment (mobile)
 
 ![Image of the vertical alignment option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/vertical_alignment.png)
 
@@ -60,7 +60,7 @@ The overlay element sits on top of the header's background image:
 
 ![Image of the image overlay of the header module, image overlay type, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_image_overlay_highlighted_online.png)
 
-## Enabling the Overlay
+## (Standard Users) Enabling the Overlay
 
 ![Image of the header option to enable overlay](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_enable.png)
 
@@ -74,7 +74,7 @@ Here, the overlay can be switched on or off.
 
 ![Image of the header-image module with overlay off online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_off_online.png)
 
-## Overlay Image
+## (Standard Users) Overlay Image
 
 ![Image of the header overlay image option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_image.png)
 
@@ -82,7 +82,7 @@ The header module's overlay image. Read up on changing images [here](https://pin
 For overlay images it is recommended to use image formats that support transparency, such as .PNG, .GIF or .SVG. (Our example uses a .PNG image)
 Overlaying an image with a filled block-colour type background would not look as well-designed.
 
-## Overlay Position
+## (Standard Users) Overlay Position
 
 ![Image of the header overlay position option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_position.png)
 
@@ -96,7 +96,7 @@ The overlay can be placed in any 9 sectors of the header. Please note that on mo
 
 ![Image of the header overlay position option, left middle](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_left_online.png)
 
-## Overlay Width - Desktop
+## (Advanced Users) Overlay Width - Desktop
 
 ![Image of the header overlay width option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width.png)
 
@@ -110,13 +110,13 @@ This determines the maximum width of the image overlaid on top of the header's b
 
 ![Image of the header overlay width option at 60 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_60_percent.png)
 
-## Overlay Width - Mobile
+## (Advanced Users) Overlay Width - Mobile
 
 ![Image of the header overlay width mobile option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_mobile.png)
 
 The overlay image can have a different width on mobile, as we have found that the smaller screen-sizes of mobile devices need special consideration, especially for finely detailed graphics.
 
-## Overlay Side Margin
+## (Advanced Users) Overlay Side Margin
 
 ![Image of the header overlay side margin option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_side_margin.png)
 
@@ -130,7 +130,7 @@ This determines how far the overlay image will be from the edge of the screen (a
 
 ![Image of the header overlay side margin option at 10 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_side_margin_10_percent.png)
 
-## Overlay Top Margin
+## (Advanced Users) Overlay Top Margin
 
 ![Image of the header overlay top margin option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_top_margin.png)
 
@@ -145,7 +145,7 @@ This determines how far the overlay image will be from the top / bottom of the s
 
 ![Image of the header overlay top margin option - 50px](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_top_margin_50px.png)
 
-## Tint Colour
+## (Advanced Users) Tint Colour
 
 ![Image of the header overlay tint colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_colour.png)
 
@@ -155,7 +155,7 @@ If your tint opacity is higher than 0, you may choose the colour of the tint to 
 
 ![Image of the header overlay tint colour option in green](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_colour_green.png)
 
-## Tint Opacity
+## (Advanced Users) Tint Opacity
 
 ![Image of the header overlay tint opacity option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity.png)
 
@@ -169,7 +169,7 @@ This determines whether you would like to apply a tint to the background image. 
 
 ![Image of the header overlay tint opacity at 0.8](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity_0_point_8.png)
 
-## Mobile Image Shape
+## (Advanced Users) Mobile Image Shape
 
 ![Image of the header mobile image shape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape.png)
 
@@ -187,13 +187,13 @@ Because mobile devices have such a wide range of screen sizes, and there is such
 
 ![Image of the header mobile image shape Landscape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape_landscape_online.png)
 
-## Mobile Background
+## (Advanced Users) Mobile Background
 
 ![Image of the header mobile background option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_background.png)
 
 If the mobile image shape option is set to either Landscape or Square, the "Mobile Background" option appears. With Landscape or Square mobile image shapes, the image overlay moves below the (mobile) header background image, into its own area with a customisable background colour.
 
-## Chevron Options
+## (Advanced Users) Chevron Options
 
 ![Image of the header chevron options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_chevron_options.png)
 

@@ -8,13 +8,13 @@ This module displays a text header, body text and button (also known as a CTA). 
 
 ![Image of the text only module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_online.png)
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Header Text
+## (Standard Users) Header Text
 
 ![Image of the header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
@@ -22,7 +22,7 @@ This is the header text in the Text Only module. Here it is online:
 
 ![Image of the Text Only module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_header_online.png)
 
-## Body Text
+## (Standard Users) Body Text
 
 ![Image of the body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/body_text.png)
 
@@ -32,7 +32,7 @@ Here it is in the module:
 
 ![Image of the Text Only module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_body_text_online.png)
 
-## Colours
+## (Advanced Users) Colours
 
 The Text Only module allows you to change the background colour and text colour of the module.
 

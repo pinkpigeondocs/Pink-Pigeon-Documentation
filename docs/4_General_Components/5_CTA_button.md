@@ -20,7 +20,7 @@ Once enabled, many options are revealed:
 
 - **Text:** This is the text or label for your CTA
 
-## CTA Links
+## (Basic Users) CTA Links
 
 The Link section has multiple options:
 
@@ -34,7 +34,7 @@ The Link section has multiple options:
 If you do upload the same file again, anywhere else, this will replace the previous file with this new one you have uploaded. Therefore, if you are linking to a menu, or price list (say, as a PDF file) and you would like to update it, just upload the file with the same name again. This will update the file everywhere you have linked to it on your site.
 ```
 
-## CTA Colours
+## (Advanced Users) CTA Colours
 
 The colours of your button behave differently, based on whether you have selected [transparent or opaque](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/5_Pages/1_essentials.html#advanced-users-buttons) buttons.
 

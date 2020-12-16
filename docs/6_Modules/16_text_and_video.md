@@ -8,13 +8,13 @@ This module functions similarly to the Text and Image modules, but with video in
 
 ![Image of the text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_online.png)
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Video Panel
+## (Standard Users) Video Panel
 
 ![Image of the video panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_video_panel.png)
 
@@ -31,11 +31,11 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the text panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel.png)
 
-- **Header Text:** This is the header within a text and video module:
+- **(Standard Users) Header Text:** This is the header within a text and video module:
 
 ![Image of the text panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_text_panel_header.png)
 
-- **Body Text:** This is the body text within a text and video module:
+- **(Standard Users) Body Text:** This is the body text within a text and video module:
 
 ![Image of the text panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_text_panel_body.png)
 

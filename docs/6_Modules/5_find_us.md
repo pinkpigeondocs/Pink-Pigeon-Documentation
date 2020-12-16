@@ -8,13 +8,13 @@ The 'Find Us' module allows you to put in opening times and / or an address for 
 Please note that this is not the [map](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/6_Modules/11_map.html) module, which is what you would use to put a map onto your website.
 
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Header Text
+## (Standard Users) Header Text
 
 ![Image of the contact module's header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
@@ -25,7 +25,7 @@ Here it is online:
 ![Image of the contact module's header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_header_online.png)
 
 
-## Body Text
+## (Standard Users) Body Text
 
 ![Image of the body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/body_text.png)
 
@@ -40,7 +40,7 @@ Here it is in the module:
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
 
-## Optional Columns
+## (Standard Users) Optional Columns
 
 ![Image of the find us module's optional columns](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_optional_columns.png)
 
@@ -52,7 +52,7 @@ Deleting lines from the optional columns is done via the checkboxes next to the 
 
 ![Image of the find us module's optional columns checkboxes checked and bin showing](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_optional_columns_checkbox_bin.png)
 
-## Social Icons:
+## (Standard Users) Social Icons:
 
 At the moment we support adding up to 6 different social icons. You have a choice of 19 platforms at the moment ("500px", "Behance", "Email", "Facebook", "Facebook Messenger", "IMDB", "Instagram", "LinkedIn", "Phone", "Pinterest", "Skype", "Spotlight", "Telegram", "Tripadvisor", "Twitter", "Vimeo", "Whatsapp", "Youtube").
 
@@ -64,7 +64,7 @@ At the moment we support adding up to 6 different social icons. You have a choic
 
 ![Image of the find us module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_social_icons.png)
 
-## Colours
+## (Advanced Users) Colours
 
 ![Image of the find us module colour options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_colours.png)
 

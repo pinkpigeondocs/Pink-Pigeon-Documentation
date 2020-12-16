@@ -10,13 +10,13 @@ The Contact module turns into a contact form on your website:
 
 When a visitor to your website fills in the form, you will receive an email including all the info that was filled in on the form.
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Form Name
+## (Standard Users) Form Name
 
 ![Image of the contact module's form name input](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_name.png)
 
@@ -26,7 +26,7 @@ When we email you, the form name will be included in the message (please note th
 
 ![Image of the email we send after a form has been submitted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_email.png)
 
-## Header Text
+## (Standard Users) Header Text
 
 ![Image of the contact module's header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
@@ -37,7 +37,7 @@ Here it is online:
 ![Image of the contact module's header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_header_text_online.png)
 
 
-## Body Text
+## (Standard Users) Body Text
 
 ![Image of the body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/body_text.png)
 
@@ -52,7 +52,7 @@ Here it is in the module:
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
 
-## Form Fields
+## (Standard Users) Form Fields
 
 ![Image of the contact module form fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_fields.png)
 
@@ -68,7 +68,7 @@ Each item consists of four items:
 ![Image of the contact module form fields online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_fields_highlighted.png)
 
 
-## Contact Method
+## (Standard Users) Contact Method
 
 ![Image of the contact module's contact method](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_method.png)
 
@@ -82,7 +82,7 @@ Here it is online:
 If you have enabled the preferred contact method option, double check that you have form-fields corresponding to 'email' and 'phone number'.
 ```
 
-## Legal Confirmations
+## (Standard Users) Legal Confirmations
 
 ![Image of the contact module's legal confirmations](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations.png)
 
@@ -94,13 +94,13 @@ The 'submit' button of the form will only become enabled once all required legal
 
 ![Image of the contact module's legal confirmations checked](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations_checked_online.png)
 
-## Colours
+## (Advanced Users) Colours
 
 The Contact module allows you to change the background colour and text colour of the module.
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
-## Input Options:
+## (Advanced Users) Input Options:
 
 ![Image of the contact module's form input options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_input_options.png)
 
@@ -114,7 +114,7 @@ The Contact module allows you to change the background colour and text colour of
 
 This is a special button / CTA section, as this button only submits the form. Therefore, fhe function of it cannot be customised (and file downloads, or external URLs are disabled). You can still customise the text of the button and all colours, as described in the [CTA / Button section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/5_CTA_button.html)
 
-## Confirmation Header Text
+## (Standard Users) Confirmation Header Text
 
 ![Image of the contact module's header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
@@ -122,7 +122,7 @@ The confirmation header text is shown on the 'Thank You'-screen, which follows a
 
 ![Image of the contact module's thank you screen header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_thankyou_header.png)
 
-## Confirmation Body Text
+## (Standard Users) Confirmation Body Text
 
 ![Image of the contact module's thank you body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_body.png)
 

@@ -13,31 +13,31 @@ The Instagram module is responsive; The number of columns is adjusted as the scr
 There can only ever be one Instagram module per page. This is due to how Instagram handles authenticating your website.
 ```
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Background Colour
+## (Advanced Users) Background Colour
 
 ![Image of the background colour component](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/general_components_background_colour.png)
 
 The Instagram module respects the [grid-gap value](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/5_Pages/1_essentials.html#advanced-users-module-spacing). Therefore, you can define a background colour to show behind your Instagram images.
 
-## Max Images to Show
+## (Advanced Users) Max Images to Show
 
 ![Image of the instagram module max images option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/10_instagram_max_images.png)
 
 You may limit the number of images to display from your feed. (Images are in most-recent to least-recent order.)
 
-## Max Columns
+## (Advanced Users) Max Columns
 
 ![Image of the instagram module max columns option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/10_instagram_max_columns.png)
 
 You can decide the number of columns the Instagram module shows at the largest screen-width (1200px and above). In this case, 6 columns.
 
-## Connect Instagram
+## (Advanced Users) Connect Instagram
 
 If you have not connected your Instagram feed, this is where you can do it. Here are the steps:
 

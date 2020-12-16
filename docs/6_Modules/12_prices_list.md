@@ -8,13 +8,13 @@ sort: 12
 
 The Prices - List module lets you compose a price list, either with images or without them.
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Header Text
+## (Standard Users) Header Text
 
 ![Image of the header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
@@ -22,7 +22,7 @@ This is the header text in the Prices - List module. Here it is online:
 
 ![Image of the prices list module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_header_text_online.png)
 
-## Body Text
+## (Standard Users) Body Text
 
 ![Image of the body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/body_text.png)
 
@@ -38,13 +38,13 @@ This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_Ge
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
 
-## Colours
+## (Advanced Users) Colours
 
 The Prices - List module allows you to change the background colour and text colour of the module.
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
-## With Images
+## (Advanced Users) With Images
 
 ![Image of the prices - list module 'with images' option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_option.png)
 
@@ -67,7 +67,7 @@ Here you can enable / disable images for your price list.
 ![Image of the prices - list module 'with images' images disabled online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_disabled_online.png)
 
 
-## Image Outline
+## (Advanced Users) Image Outline
 ![Image of the prices - list module 'with images' outline option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_image_outline.png)
 
 If you have enabled images, this option will allow you to add an outline around your image (which will be the same as the font colour you selected for the module).
@@ -82,7 +82,7 @@ If you have enabled images, this option will allow you to add an outline around 
 
 
 
-## Price List Items
+## (Standard Users) Price List Items
 
 ![Image of the prices - list module list items online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_items_online.png)
 
@@ -116,7 +116,7 @@ Which online is:
 
 
 
-## Lower Body Text
+## (Standard Users) Lower Body Text
 
 ![Image of the prices - list module list items lower body copy text option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_item_lower_body_text.png)
 

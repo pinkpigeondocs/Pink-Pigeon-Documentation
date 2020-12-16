@@ -8,7 +8,7 @@ This is a special version of the Text and Image module, called the "Feature Sing
 
 ![Image of the text and image module, feature singlet](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/15_text_and_image_feature_singlet.png)
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
@@ -18,9 +18,9 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/15_text_and_image_feature_singlet_image_panel.png)
 
-- **Image:** This controls the [image](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html) of the text module, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_panel.png)
+- **(Standard Users) Image:** This controls the [image](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html) of the text module, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_panel.png)
 
-- **Desktop Image Side:** You can 'flip' the text and image around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_on_right.png)
+- **(Standard Users) Desktop Image Side:** You can 'flip' the text and image around, for example: ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_image_on_right.png)
 
 - **Image Fit:** Because the images in this version of the Text and Image module are within a smaller space, we have added further controls over the 'image fit', which allows for two options, "Cover" and "Scale Down".
 
@@ -47,11 +47,11 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel.png)
 
-- **Header Text:** This is the header within a text and image module:
+- **(Standard Users) Header Text:** This is the header within a text and image module:
 
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_header.png)
 
-- **Body Text:** This is the body text within a text and image module:
+- **(Standard Users) Body Text:** This is the body text within a text and image module:
 
 ![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_body.png)
 
@@ -63,7 +63,7 @@ On desktop resolutons, this field has a height limitation, to ensure clean layou
 You can leave any text field blank, and the CMS will adjust the layout to make the remaining text elements fit. You could even leave all text out, if desired.
 ```
 
-- **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
+- **(Advanced Users) Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
 
 ## Button
 

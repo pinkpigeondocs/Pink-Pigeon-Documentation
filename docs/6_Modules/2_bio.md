@@ -8,13 +8,13 @@ The Bio module originated from the need to list attributes of actors, but is als
 
 ![Image of the bio module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_online.png)
 
-## Enabling / Disabling
+## (Standard Users) Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Header Text
+## (Standard Users) Header Text
 
 ![Image of the header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
@@ -22,7 +22,7 @@ This is the header text in the bio module. Here it is online:
 
 ![Image of the bio module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_header_online.png)
 
-## Body Text
+## (Standard Users) Body Text
 
 ![Image of the body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/body_text.png)
 
@@ -37,7 +37,7 @@ Here it is in the module:
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
 
-## Bio Fields
+## (Standard Users) Bio Fields
 
 These are the double columns within the Bio module. Here is the CMS view:
 
@@ -47,7 +47,7 @@ As you can see, these correspond to the text columns online:
 
 ![Image of the bio module fields online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_fields_online.png)
 
-## Lower Body Text
+## (Standard Users) Lower Body Text
 
 This is a second, lower [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html) body text input **without** a character limit. It provides the ability to add an outro-text below the two text columns.
 
@@ -60,7 +60,7 @@ Here it is in the module:
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
 
-## Social Icons:
+## (Standard Users) Social Icons:
 
 At the moment we support adding up to 6 different social icons. You have a choice of 19 platforms at the moment ("500px", "Behance", "Email", "Facebook", "Facebook Messenger", "IMDB", "Instagram", "LinkedIn", "Phone", "Pinterest", "Skype", "Spotlight", "Telegram", "Tripadvisor", "Twitter", "Vimeo", "Whatsapp", "Youtube").
 
@@ -73,7 +73,7 @@ At the moment we support adding up to 6 different social icons. You have a choic
 ![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_online.png)
 
 
-## Colours
+## (Advanced Users) Colours
 
 The Bio module allows you to change the background colour and text colour of the module.
 

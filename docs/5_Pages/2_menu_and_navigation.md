@@ -8,7 +8,7 @@ Here you can add, remove or change the items shown in the main navigation (or me
 
 ![Image of nav items on the Pink Pigeon website](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_menu_items_online.png)
 
-## (Standard users) Logo
+## (Standard Users) Logo
 
 This is the logo of your website. Typically situated in the top-left corner. Here you may upload images in .GIF, .SVG or .PNG format, with or without transparency (.JPG works as well, but this format does not support transparency at all). We recommend using .SVG, as this is a screen-resolution independent format which always looks good (say, on retina-style iPads, as well as 4k monitors or really low-resolution mobile phones.)
 
@@ -16,7 +16,7 @@ Image upload size is limited to 2MB, and images above 512kb will be compressed b
 
 ![Image of logo, within Menu and Navigation](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_logo.png)
 
-## (Standard users) Menu Items
+## (Standard Users) Menu Items
 
 Standard users may change the name of their menu items, as well as their order. All other options are disabled.
 
@@ -34,7 +34,7 @@ There is a suggested character limit of 12. You can exceed this limit as much as
 
 If you do not enter any text in this field, the navigation item will not be displayed (and all other navigation items will 'slot into place').
 
-## (Advanced users) Menu Items
+## (Advanced Users) Menu Items
 
 Advanced users may add / remove or re-order their navigation items. They can also determine which sections to link to and rename each navigation item.
 
@@ -52,7 +52,7 @@ The left field, when selected, will display a list of all Pages and Modules with
 
 Please view the ['General Components' - "Adding / Moving / Deleting"][genaddmove] section for instructions on how this component works.
 
-## (Standard users) Desktop Style
+## (Standard Users) Desktop Style
 
 The reason this item is called 'Desktop' Style, is that this option only affects how the menu is shown on larger browser window sizes (desktop computers, with the browser in full-screen for example).
 
