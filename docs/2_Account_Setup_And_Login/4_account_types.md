@@ -12,8 +12,10 @@ If you are a standard user and would like to become an advanced one, we can swit
 
 Please see below for a comparison of features available to each account type. The 'Advanced' account includes all options from the 'Basic' account in the table.
 
-| Area of CMS  | Basic | Advanced |
+| Area of CMS  | Basic | Advanced (In addition to 'Basic') |
 | --- | --- | --- |
 | **Essentials** | - Favicon, <br>- Meta Description <br>- Company Details Lines 1 / 2 / 3 <br>- Download Link 1 / 2 / 3 | - Colour Palette <br>- Background Colour <br>- Text Options: Font / Scale Multiplier <br>- Buttons: Corner Style / Fill Transparency / Chevron / Font Case <br>- Footer: Font Colour / Rollover Colour <br>- Module Spacing |
 | **Menu & Navigation** | - Logo <br>- Menu Items: Label only <br>- Desktop Menu Style | - Font Colour<br>- Rollover Colour<br>- Nav Transparency <br>- Persistence <br>- Height<br>- Mobile Overlay: Background Colour / Font Colour, Rollover Colour |
 | **Awards** | - Enable / Disable Module <br>- Header Text <br>- Desktop Image<br>- Mobile Image | - Background Colour <br>- Font Colour |
+| **Bio** | - Enable / Disable Module <br>- Header Text <br>- Body Text <br>- Bio Fields: Column 1 / 2, **moving only**<br>- Lower Body Text<br>- Social Icons | - Bio Fields: Adding / Deleting <br>- Background Colour <br>- Font Colour |
+| **Checkatrade** | - Enable / Disable Module <br>- # Recent Reviews <br>- # Total Reviews <br>- Scores: Average / Reliability / Courtesy / Tidiness / Workmanship / Quote Accuracy | **- Same as basic** |
