@@ -27,4 +27,8 @@ There are a few important things to be aware of when using a supported browser:
 
 We are unable to support screen resolutions below 320 pixels wide due to the quantity of content required by our clients. Our sites will display a horizontal scrollbar on sites under this width so you will still be able to interact with the site as normal.
 
+(With thanks to [rundocs][docslink], whose theme we have adapted)
+
+[docslink]:https://rundocs.io/
+
 {% include list.liquid %}
