@@ -2,6 +2,8 @@
 
 ![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
 
+This is the official public documentation for the Pink Pigeon CMS. Here you will find a description of all functionality available, along with visual guides, tips and tricks. Why not start with an introduction...
+
 Hello! We are Claire & Adrian, and our business is called [Pink Pigeon Digital Ltd][pp].....
 
 When all of this started, we really just wanted to run a [blog][ccc] online.
