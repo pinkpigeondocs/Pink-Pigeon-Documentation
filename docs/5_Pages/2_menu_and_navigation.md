@@ -52,8 +52,38 @@ The left field, when selected, will display a list of all Pages and Modules with
 
 Please view the ['General Components' - "Adding / Moving / Deleting"][genaddmove] section for instructions on how this component works.
 
+## (Advanced Users) Nav Transparency
+
+![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_transparency.png)
+
+You can define a transparent nav, which will sit 'on top' of whichever your first module is on your website. The 'opaque' nav will push your module down by the height of the nav.
+
+## Persistence
+
+![Image of nav Persistence option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_persistence.png)
+
+The nav can 'stay on top' at all times, as a floating element at the top of your page. This is useful for saving mobile users having to scroll back up to reach other sections of your website.
+
+## Height
+
+![Image of nav Height option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_height.png)
+
+The nav can be slim or tall, depending on your preference.
+
 ## (Standard Users) Desktop Style
 
 The reason this item is called 'Desktop' Style, is that this option only affects how the menu is shown on larger browser window sizes (desktop computers, with the browser in full-screen for example).
 
 [genaddmove]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/1_adding_moving_deleting.html
+
+## Mobile Overlay
+
+![Image of nav Mobile Overlay option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/mobile_overlay.png)
+
+You may define three colour options for the mobile overlay (which is the menu shown when users select the menu via the 'burger' style).
+
+- **Background Colour:**
+
+- **Font Colour:**
+
+- **Rollover Colour:**
