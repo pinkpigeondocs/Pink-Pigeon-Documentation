@@ -22,6 +22,8 @@ And we wanted all of that to be secure, accessible and affordable. Turns out tha
 
 If that sounds good to you, then let us tell you all about it on the following pages, starting right at the beginning:
 
+[What is a CMS?](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/1_Introduction/what_is_a_cms.html)
+
 [pp]:https://pinkpigeon.co.uk/
 [ccc]:https://www.citycitycountry.co.uk/
 
