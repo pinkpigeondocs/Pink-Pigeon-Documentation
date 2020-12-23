@@ -52,6 +52,18 @@ The left field, when selected, will display a list of all Pages and Modules with
 
 Please view the ['General Components' - "Adding / Moving / Deleting"][genaddmove] section for instructions on how this component works.
 
+## (Advanced Users) Font Colour
+
+![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_font_colour.png)
+
+This is the colour of your nav items.
+
+## (Advanced Users) Rollover Colour
+
+![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_rollover_colour.png)
+
+This is the rollover colour of your nav items (when someone hovers their mouse cursor over them on desktop, does not apply on mobile devices).
+
 ## (Advanced Users) Nav Transparency
 
 ![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_transparency.png)
