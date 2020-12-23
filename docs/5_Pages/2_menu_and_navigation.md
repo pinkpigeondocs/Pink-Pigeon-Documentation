@@ -85,6 +85,9 @@ The nav can be slim or tall, depending on your preference.
 ## (Standard Users) Desktop Style
 
 The reason this item is called 'Desktop' Style, is that this option only affects how the menu is shown on larger browser window sizes (desktop computers, with the browser in full-screen for example).
+If you pick the 'burger' style, the menu will always look the way it would normally just look on mobile devices, like so:
+
+![Image of burger nav](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_burger_style.png)
 
 [genaddmove]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/1_adding_moving_deleting.html
 
@@ -96,6 +99,11 @@ You may define three colour options for the mobile overlay (which is the menu sh
 
 - **Background Colour:**
 
+![Image of burger nav](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_mobile_overlay_background.png)
+
 - **Font Colour:**
 
-- **Rollover Colour:**
+![Image of burger nav](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_mobile_overlay_font_colour.png)
+
+
+- **Rollover Colour:** This is the colour of a nav item in the mobile overlay, when hovered over with a mouse cursor (only on desktop, does not apply on mobile devices).
