@@ -17,10 +17,12 @@ Here you may define up to 12 colours to be used with your website. If you change
 
 ## (Standard Users) Favicon
 
+![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon.png)
+
 The so-called 'Favicon' is a small logo, which will show up in browser tabs, or on the home-screen of mobile devices (if someone was to add a shortcut to your website on their mobile phone, for example).
 Supported formats are .png, .jpeg / .jpg, .gif format. Technically, .ico, .svg and .bmp are supported by some browsers, but can't be guaranteed to work universally.
 
-![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon.png)
+**Example:**
 
 ![Image of favicon on a Mac tab](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon_mac_tab.png)
 
