@@ -22,7 +22,7 @@ We wanted direct, immediate feedback for any changes we made to our websites. Fa
 
 **Full video:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P9sQcqZDMrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/P9sQcqZDMrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 And we wanted all of that to be secure, accessible and affordable. Turns out that that did not exist. Not the way we wanted to do it. So we made our own website platform, according to our needs and we hope that our approach stands out from 'quick and easy', making it 'just right' instead.
 
