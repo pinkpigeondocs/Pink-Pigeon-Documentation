@@ -15,3 +15,6 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+
+google:
+  gtag: G-YH5CH80ZEP
