@@ -16,7 +16,9 @@ After trying Wix, Squarespace, Wordpress, Netlify, Github (Pages), Heroku, etc. 
 
 We wanted a way to update our websites quickly, on the go, **via our mobile phones, without losing functionality**. We wanted our sites to load quickly, without delays. No wasted data, no wasted time waiting for unoptimised code to load.
 
-We wanted direct, immediate feedback for any changes we made to our websites. Fast iteration, playful interaction with content, to be able to try a few different things and see how it works, right there and then.
+We wanted direct, immediate feedback for any changes we made to our websites. Fast iteration, playful interaction with content, to be able to try a few different things and see how it works, right there and then, like so:
+
+![Image of the Pink Pigeon CMS iterating fast](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/demo.gif)
 
 And we wanted all of that to be secure, accessible and affordable. Turns out that that did not exist. Not the way we wanted to do it. So we made our own website platform, according to our needs and we hope that our approach stands out from 'quick and easy', making it 'just right' instead.
 
