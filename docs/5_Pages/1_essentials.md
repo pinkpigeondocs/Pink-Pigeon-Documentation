@@ -22,7 +22,7 @@ Supported formats are .png, .jpeg / .jpg, .gif format. Technically, .ico, .svg a
 
 ![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon.png)
 
-![Image of favicon on a Firefox tab](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/pp_website_favicon.png)
+![Image of favicon on a Mac tab](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon_mac_tab.png)
 
 ## (Advanced Users) Text Options:
 
