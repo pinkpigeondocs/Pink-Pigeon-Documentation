@@ -42,6 +42,18 @@ The image fit option allows you to specify whether your gallery should try to 'f
 
 ![Image of the gallery module, scale-down option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_scaledown.png)
 
+## (Standard Users) Auto Scroll
+
+![Image of the gallery module's auto scroll option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_autoscroll.png)
+
+By default, a gallery automatically scrolls through its images at a set interval.
+
+## (Standard Users) Scroll Interval
+
+![Image of the gallery module's scroll interval option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_interval.png)
+
+You can define how quickly the images of the gallery change, in milliseconds. Therefore, 4000, for example, is equivalent to 4 seconds.
+
 ## (Advanced Users) Background Colour
 
 ![Image of the gallery module's background colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_background_colour.png)

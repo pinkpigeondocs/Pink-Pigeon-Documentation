@@ -28,7 +28,13 @@ Supported formats are .png, .jpeg / .jpg, .gif format. Technically, .ico, .svg a
 
 ## (Advanced Users) Text Options:
 
+![Image of text options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_text_options.png)
+
 Within the text options you may choose the font for your website. We offer 9 different fonts at the moment (and may offer more in the future). Fonts have very different levels of legibility, making it very important to ensure your website is easy to read. Often, unless needed specifically for artistic purposes, it is best to choose a simple, plain font (for example, Lato, Raleway, Montserrat, Roboto or Open Sans). There is an additional option called "Scale Multiplier", which allows you to make the font on your website bigger or smaller.
+
+```tip
+It's best to experiment with the different fonts, which is easily done thanks to the realtime feedback our previews offer.
+```
 
 ## (Advanced Users) Buttons:
 

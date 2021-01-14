@@ -10,7 +10,7 @@ Hello! We are Claire & Adrian, and our business is called [Pink Pigeon Digital L
 
 When all of this started, we really just wanted to run a [blog][ccc] online.
 
-We quickly noticed that running a blog was neither cheap, nor intuitive, nor quick & easy to do.
+We quickly noticed that running a blog (that looked the way we wanted it to look) was neither cheap, nor intuitive, nor quick & easy to do.
 
 That came as a surprise, as a blog _looks_ like a simple thing to do. It's _just_ a website, right?
 
@@ -27,7 +27,7 @@ We wanted direct, immediate feedback for any changes we made to our websites. Fa
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/P9sQcqZDMrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-And we wanted all of the above to be secure, accessible and affordable. Turns out that that did not exist. Not the way we wanted to do it. So we made our own website platform, according to our needs and we hope that our approach stands out from 'quick and easy', making it 'just right' instead.
+And we wanted all of the above to be secure, accessible and affordable. Turns out that that did not exist. Not the way we wanted to do it. So we made our own website platform, combining 20+ years of combined advertising industry experience, bringing knowledge that's usually reserved for giant corporate budgets to smaller businesses.
 
 If that sounds good to you, then let us tell you all about it on the following pages, starting right at the beginning:
 
