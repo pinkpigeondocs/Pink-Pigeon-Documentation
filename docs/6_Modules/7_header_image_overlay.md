@@ -27,32 +27,12 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 The header module's background image on desktop. This image will be shown at screen resolutions of 900px and above, typically laptops and desktop computers.
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
-## (Standard Users) Vertical Alignment
-
-![Image of the vertical alignment option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/vertical_alignment.png)
-
-Because many images may not fit perfectly into the space reserved for them, you can control the vertical alignment, 'sliding' the image up or down within its space. Here is an example. Here is an example at 0% (Or "image should sit as far down as possible within its space):
-
-![Image of the image panel of a text and image module at 0% alignment](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_0_percent.png)
-
-Here is an example at 100% (Or "image should sit as high up as possible within its space):
-
-![Image of the image panel of a text and image module at 100% alignment](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_text_and_image_100_percent.png)
-
-You may notice the locks in the image have moved up.
-
 ## (Standard Users) Mobile Image
 
 ![Image of the header mobile image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image.png)
 
 The header module's background image on mobile. This option allows you to specify an image that is shown below 900px screen width (mobile / tablet devices). It is not necessary to define a different image here. In our example, we have decided to use the same background twice. In some cases, however, it can be beneficial to provide content for mobile devices that fits the space better. This is often a question of experimentation, to arrive at the best solution for your website.
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
-
-## (Standard Users) Vertical Alignment (mobile)
-
-![Image of the vertical alignment option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/vertical_alignment.png)
-
-This is the same option as [above](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/6_Modules/7_header_image_overlay.html#vertical-alignment), but for mobile images.
 
 ## Overlay Element
 
