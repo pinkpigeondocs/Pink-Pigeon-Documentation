@@ -36,7 +36,7 @@ This will open a file browser (which will be different for every operating syste
 
 ## Cropping an image
 
-Here we will describe how to crop an image. Here.
+Here we will describe how to crop an image.
 
 ## Alt text
 
