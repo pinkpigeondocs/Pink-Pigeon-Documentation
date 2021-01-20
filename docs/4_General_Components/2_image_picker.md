@@ -34,6 +34,10 @@ From within the image library overlay, you may also upload images directly. To d
 
 This will open a file browser (which will be different for every operating system / device), where you may select an image up to 2MB big. We support .JPG, .SVG, .GIF and .PNG images. Any image above 512kb will be compressed, to ensure your website stays fast for your visitors.
 
+## Cropping an image
+
+Here we will describe how to crop an image.
+
 ## Alt text
 
 ![Image of the alt text field for the image picker](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_alt_text.png)
