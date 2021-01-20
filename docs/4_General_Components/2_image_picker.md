@@ -36,7 +36,9 @@ This will open a file browser (which will be different for every operating syste
 
 ## Cropping an image
 
-Here we will describe how to crop an image.
+![Image of crop insert](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_crop_insert.png)
+
+If you want to define a new crop for an image, you may select 'crop insert', to define an area of the image to use within your module.
 
 ## Alt text
 
