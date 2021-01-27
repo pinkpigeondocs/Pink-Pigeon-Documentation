@@ -75,9 +75,11 @@ At the moment we support adding up to 6 different social icons. You have a choic
 
 ## (Advanced Users) Colours
 
-The Bio module allows you to change the background colour and text colour of the module.
+The Bio module allows you to change the background colour and text colour of the module, as well as the rollover colour of the social icons.
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
+![Image of the bio module social icons rollover colour in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icon_rollover.png)
+
 
 
 ```tip
