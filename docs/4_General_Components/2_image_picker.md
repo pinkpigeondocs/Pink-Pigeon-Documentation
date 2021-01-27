@@ -40,6 +40,9 @@ This will open a file browser (which will be different for every operating syste
 
 If you want to define a new crop for an image, you may select 'crop insert', to define an area of the image to use within your module.
 
+![Image of crop screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_crop_screen.png)
+
+
 ## Alt text
 
 ![Image of the alt text field for the image picker](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_alt_text.png)
