@@ -80,13 +80,6 @@ The Text Only module allows you to change the background colour and text colour 
 
 - **Dot Rollover Colour:** This is the colour of any dot that the user's mouse is hovering over.
 
-## On Mobile
-
-The testimonials module changes shape on mobile, to stack vertically, with the markers being placed in the middle.
-
-![Image of the testimonial module on mobile resolution](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_mobile_version_online.png)
-
-
 
 ```tip
 Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
