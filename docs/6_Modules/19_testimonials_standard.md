@@ -50,21 +50,52 @@ The image alt text is a placeholder, which is shown if the image can't be displa
 
 ## Image Fit
 
+![Image of the testimonial module's image fit option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_image_fit_cms.png)
+
 - **Cover:** For
 
 - **Scale-down:** For
 
 ## Auto Scroll:
 
+![Image of the testimonial module's auto scroll option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_auto_scroll_cms.png)
+
 The testimonials module scrolls through testimonials at a 4 second interval by default. This can be turned off.
 
 ## Scroll Interval:
+
+![Image of the testimonial module's scroll interval option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_scroll_interval_cms.png)
 
 This is the scroll interval in milliseconds.
 
 ## Quotation Marks
 
+![Image of the testimonial module's quotation marks option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_quotation_marks_cms.png)
+
 This allows for control over the quotation marks, shown here:
+
+## (Advanced Users) Colours
+
+The Text Only module allows you to change the background colour and text colour of the module.
+
+![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
+
+## (Advanced Users) Marker Options
+
+![Image of the module's marker options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_marker_options.png)
+
+- **Background Style:** There are three options for the marker backgrounds. None: ![Image of the module's marker option 'transparent background'](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_markers_transparent_background.png) / opaque (with a customisable background colour): ![Image of the module's marker option 'transparent background'](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_markers_opaque_background.png) and 'gradient', which you can see above.
+
+- **Dot Colour:** This allows you to change the colour of the dots in their initial state (in above images, that is white).
+
+- **Selected Dot Colour:** This allows you to change the colour of whichever dot corresponds to the image that is currently showing.
+
+- **Dot Rollover Colour:** This is the colour of any dot that the user's mouse is hovering over.
+
+## On Mobile
+
+The testimonials module changes shape on mobile, to stack vertically, with the markers being placed in the middle.
+
 
 
 
