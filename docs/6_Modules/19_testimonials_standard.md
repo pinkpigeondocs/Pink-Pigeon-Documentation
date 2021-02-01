@@ -98,6 +98,7 @@ The Text Only module allows you to change the background colour and text colour 
 
 The testimonials module changes shape on mobile, to stack vertically, with the markers being placed in the middle.
 
+![Image of the testimonial module on mobile resolution](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_mobile_version_online.png)
 
 
 
