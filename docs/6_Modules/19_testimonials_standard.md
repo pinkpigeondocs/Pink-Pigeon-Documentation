@@ -76,6 +76,8 @@ This is the scroll interval in milliseconds.
 
 This allows for control over the quotation marks, shown here:
 
+![Image of the testimonial module's quotation marks online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_quotation_marks.png)
+
 ## (Advanced Users) Colours
 
 The Text Only module allows you to change the background colour and text colour of the module.
