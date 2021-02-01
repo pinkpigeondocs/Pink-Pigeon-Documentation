@@ -52,9 +52,11 @@ The image alt text is a placeholder, which is shown if the image can't be displa
 
 ![Image of the testimonial module's image fit option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_image_fit_cms.png)
 
-- **Cover:** For
+- **Cover:** This option will ensure that the image is always filling the space it sits within, at the cost of some of the edges being cut off for certain screen resolutions. This is the option used throughout this page.
 
-- **Scale-down:** For
+- **Scale-down:** This option will always make the whole image visible (which is useful for portrait or very wide images), but it means that there will be a visible background colour in areas of the module that the image does not cover, as shown:
+
+![Image of the testimonial module's image fit option - scale down online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_image_fit_scale_down_online.png)
 
 ## Auto Scroll:
 
