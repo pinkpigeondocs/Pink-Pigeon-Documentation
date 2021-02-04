@@ -18,11 +18,7 @@ We wanted a way to update our websites quickly, on the go, **via our mobile phon
 
 We wanted direct, immediate feedback for any changes we made to our websites. Fast iteration, playful interaction with content, to be able to try a few different things and see how it works, right there and then, like so:
 
-![Image of the Pink Pigeon CMS iterating fast](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/demo.gif)
-
-**Full video:**
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/P9sQcqZDMrY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/508484632?autoplay=1&loop=1" width="800" height="600" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 And we wanted all of the above to be secure, accessible and affordable. Turns out that that did not exist. Not the way we wanted to do it. So we made our own website platform, combining 20+ years of combined advertising industry experience, bringing knowledge that's usually reserved for giant corporate budgets to smaller businesses.
 
