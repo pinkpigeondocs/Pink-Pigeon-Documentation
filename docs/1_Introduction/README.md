@@ -20,7 +20,7 @@ We wanted a way to update our websites quickly, on the go, **via our mobile phon
 
 We wanted direct, immediate feedback for any changes we made to our websites. Fast iteration, playful interaction with content, to be able to try a few different things and see how it works, right there and then, like so:
 
-![Image of the Pink Pigeon CMS iterating fast](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/demo.gif)
+<iframe src="https://player.vimeo.com/video/508484632?autoplay=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 **Full video:**
 
