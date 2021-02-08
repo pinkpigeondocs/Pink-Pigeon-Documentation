@@ -20,7 +20,7 @@ We wanted a way to update our websites quickly, on the go, **via our mobile phon
 
 We wanted direct, immediate feedback for any changes we made to our websites. Fast iteration, playful interaction with content, to be able to try a few different things and see how it works, right there and then, like so:
 
-<iframe class="vimeo_player" src="https://player.vimeo.com/video/509726423?autoplay=1&loop=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeo_player" width="100%" height="100%" src="https://player.vimeo.com/video/509726423?autoplay=1&loop=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 And we wanted all of the above to be secure, accessible and affordable. Turns out that that did not exist. Not the way we wanted to do it. So we made our own website platform, combining 20+ years of combined advertising industry experience, bringing knowledge that's usually reserved for giant corporate budgets to smaller businesses.
 
