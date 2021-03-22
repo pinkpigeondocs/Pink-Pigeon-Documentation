@@ -2,6 +2,6 @@
 sort: 5
 ---
 
-# Domain Registrars
+# Changing Nameservers
 
 This will be the documentation for changing your nameservers at your domain name registrar.
