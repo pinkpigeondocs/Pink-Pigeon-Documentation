@@ -8,13 +8,13 @@ sort: 11
 
 The Map module lets you add a map to your site. There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
 
-## (Standard Users) Enabling / Disabling
+## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## (Standard Users) Map Link
+## Map Link
 
 ![Image of the image map module link](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/11_map_link.png)
 

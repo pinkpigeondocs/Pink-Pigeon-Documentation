@@ -6,7 +6,7 @@ sort: 2
 
 The website essentials are a collection of settings that affect the most basic parts of your website. Depending on the type of access you have, you can change many of the fundamental visual attributes of your website here.
 
-## (Advanced Users) Colour Palette
+## Colour Palette
 
 Here you may define up to 12 colours to be used with your website. If you change a colour, it will automatically be changed on the whole website. For example, where it says "ffffff", this is the so-called [hex-code][hex] for the colour white. (You can read more about hex codes [here][hex]. If you want to find hex colours, [this website][hexweb] is quite useful), if you were to change this to another colour, all parts of the website using this white field, will change to the new colour you have assigned. (If you have two white fields in your colour palette, only the one specifically assigned to elements in the CMS changes.)
 
@@ -15,7 +15,7 @@ Here you may define up to 12 colours to be used with your website. If you change
 [hex]: https://en.wikipedia.org/wiki/Web_colors
 [hexweb]: https://www.color-hex.com/
 
-## (Standard Users) Favicon
+## Favicon
 
 ![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon.png)
 
@@ -26,7 +26,7 @@ Supported formats are .png, .jpeg / .jpg, .gif format. Technically, .ico, .svg a
 
 ![Image of favicon on a Mac tab](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon_mac_tab.png)
 
-## (Advanced Users) Text Options:
+## Text Options:
 
 ![Image of text options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_text_options.png)
 
@@ -36,7 +36,7 @@ Within the text options you may choose the font for your website. We offer 9 dif
 It's best to experiment with the different fonts, which is easily done thanks to the realtime feedback our previews offer.
 ```
 
-## (Advanced Users) Buttons:
+## Buttons:
 
 All buttons on your website can be customised. Any setting here will affect all buttons at once, not individual buttons.
 
@@ -45,7 +45,7 @@ All buttons on your website can be customised. Any setting here will affect all 
 - **Chevron:** All buttons can have a so-called chevron, which is a visual element to indicate that the button is a link leading somewhere else. ![Image of a button with chevron](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_buttons_chevron.png)
 - **Font Case:** You can pick between all buttons being labelled with lowercase letters (as shown above) or uppercase letters, like this: ![Image of an all caps button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_buttons_allcaps.png)
 
-## (Standard Users) Footer
+## Footer
 
 The footer section looks as follows:
 
@@ -61,7 +61,7 @@ The footer section allows you to edit:
 
 - **Download Links 1-3:** Here, using the up-arrow icon (![Image of the up-arrow for file uploads](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/up_arrow_icon.png)) you may upload a .PDF (recommended) or .TXT file (you can upload other file types) up to 2MB big. For larger files you will have to contact us. The files will be shown using the description you enter into the left field. See here how "Special Thanks", "Privacy Policy" and "Cookie Policy" are displayed on our own website: ![Image of the download links section, within the footer section within Essentials, but on the pink pigeon website](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_download_links_on_pp_website.png)
 
-## (Advanced Users) Footer
+## Footer
 
 Advanced users get some additional options to edit within the footer section:
 
@@ -73,7 +73,7 @@ Advanced users get some additional options to edit within the footer section:
 
 ![Image of the footer section within Essentials, rollover colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rollover_colour.png)
 
-## (Advanced Users) Module Spacing:
+## Module Spacing:
 
 The modules on your website can have:
 

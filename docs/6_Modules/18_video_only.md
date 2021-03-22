@@ -8,25 +8,25 @@ This module displays a video and nothing else. There is a [grid](https://pinkpig
 
 ![Image of the video only module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/18_video_only_online.png)
 
-## (Standard Users) Enabling / Disabling
+## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## (Standard Users) Video Type
+## Video Type
 
 ![Image of the text and video module - video type option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/18_video_only_video_type.png)
 
 You may choose between YouTube and Vimeo.
 
-## (Standard Users) Video ID
+## Video ID
 
 - **Youtube:** For Youtube, you need to copy this part of the URL (they can look different at times, but there is always an ID somewhere in the URL): ![Image of the youtube url example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_youtube_url.png).
 
 - **Vimeo:** For Vimeo, you need to copy this part of the URL: ![Image of the vimeo url example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_vimeo_url.png).
 
-## (Advanced Users) Background Colour
+## Background Colour
 
 The Video Only module allows you to change the background colour of the module (as videos do not necessarily fit the module perfectly).
 

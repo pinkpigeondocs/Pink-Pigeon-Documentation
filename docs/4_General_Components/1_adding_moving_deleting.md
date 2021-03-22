@@ -21,13 +21,13 @@ All of our components have a slightly different look on mobile devices. This is 
 ![Image of Menu Items, within Menu and Navigation, for advanced users, on mobile](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_mobile.png)
 
 
-## (Advanced Users) Adding
+## Adding
 
 ![Image of the add / move / remove component, for advanced users, 'add' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_add_highlighted.png)
 
 Selecting the 'Add' button will immediately create a new list item, which will not have any information pre-filled. Most of the time, this item will not be shown by the CMS until its most essential information has been filled in.
 
-## (Basic Users) Moving
+## Moving
 
 ![Image of the add / move / remove component, for advanced users, 'move' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_move_highlighted.png)
 
@@ -47,7 +47,7 @@ You may accept your changes by selecting the 'back' button:
 Your changes have not been saved yet. This only happens once you select one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons.
 ```
 
-## (Advanced Users) Removing
+## Removing
 
 ![Image of the add / move / remove component, for advanced users, 'remove' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_remove_highlighted.png)
 

@@ -9,13 +9,13 @@ The Awards module is very similar to the image-only module, but it allows switch
 
 ![Image of the awards module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_online.png)
 
-## (Standard Users) Enabling / Disabling
+## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## (Standard Users) Header Text
+## Header Text
 
 ![Image of the awards module header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_text.png)
 
@@ -23,13 +23,13 @@ This is the header text in the awards module. Here it is online:
 
 ![Image of the awards module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_online.png)
 
-## (Standard Users) Desktop / Mobile Image
+## Desktop / Mobile Image
 
 ![Image of the awards module images](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_images.png)
 
 Here you may define a desktop image, which will be shown from screen widths 900px and above (common tablet resolution), and a tablet / mobile image, showing below 900px screen width. For more information on picking images, see [this section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
-## (Advanced Users) Colours
+## Colours
 
 The Awards module allows you to change the background colour and text colour of the module.
 

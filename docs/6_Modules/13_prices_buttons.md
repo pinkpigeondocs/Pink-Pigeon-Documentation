@@ -8,13 +8,13 @@ sort: 13
 
 The Prices - Buttons module lets you compose a list of downloadable files, such as .PDF menus or price lists.
 
-## (Standard Users) Enabling / Disabling
+## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## (Standard Users) Header Text
+## Header Text
 
 ![Image of the header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
@@ -22,7 +22,7 @@ This is the header text in the Prices - Buttons module. Here it is online:
 
 ![Image of the prices buttons module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_header_text_online.png)
 
-## (Standard Users) Body Text
+## Body Text
 
 ![Image of the body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/body_text.png)
 
@@ -38,13 +38,13 @@ This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_Ge
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
 
-## (Advanced Users) Colours
+## Colours
 
 The Prices - Buttons module allows you to change the background colour and text colour of the module.
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
-## (Standard Users) Price List Buttons
+## Price List Buttons
 
 ![Image of the Prices - Buttons module list items in cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_cms.png)
 

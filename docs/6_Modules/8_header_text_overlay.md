@@ -14,13 +14,13 @@ The mobile version of the header allows for three different image heights, depen
 
 The header is traditionally the first module on a page with a header, but could be placed anywhere on a site also.
 
-## (Standard Users) Enabling / Disabling
+## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## (Standard Users) Desktop Image
+## Desktop Image
 
 ![Image of the header desktop image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_desktop_image.png)
 
@@ -28,7 +28,7 @@ The header module's background image on desktop. This image will be shown at scr
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
 
-## (Standard Users) Mobile Image
+## Mobile Image
 
 ![Image of the header mobile image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_mobile_image.png)
 
@@ -36,13 +36,13 @@ The header module's background image on mobile. This option allows you to specif
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
 
-## (Standard Users) Overlay Element
+## Overlay Element
 
 The overlay element sits on top of the header's background image:
 
 ![Image of the header text overlay, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_text_overlay_highlighted_online.png)
 
-## (Standard Users) Enabling the Overlay
+## Enabling the Overlay
 
 ![Image of the header option to enable overlay](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_enable.png)
 
@@ -56,7 +56,7 @@ Here, the overlay can be switched on or off.
 
 ![Image of the header-image module with overlay off online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_off_online.png)
 
-## (Standard Users) Overlay Text
+## Overlay Text
 
 ![Image of the header overlay text option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_text.png)
 
@@ -66,13 +66,13 @@ The header module's overlay text. Please note that this is a rich text field. Mo
 The character limit for this rich text field is 100 (most rich text fields are not this limited), due to the amount of space in the header being quite limited.
 ```
 
-## (Advanced Users) Desktop Font Colour
+## Desktop Font Colour
 
 ![Image of the header overlay desktop font colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_desktop_font_colour.png)
 
 You may customise the font colour of the overlay text.
 
-## (Standard Users) Overlay Position
+## Overlay Position
 
 ![Image of the header overlay position option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_position.png)
 
@@ -86,7 +86,7 @@ The overlay can be placed in any 9 sectors of the header. Please note that on mo
 
 ![Image of the header overlay position option, left middle](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_left_online.png)
 
-## (Advanced Users) Tint Area
+## Tint Area
 
 ![Image of the header overlay tint area option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_area.png)
 
@@ -96,7 +96,7 @@ In order to increase the legibility of your text overlay, you can add a tint imm
 
 ![Image of the header overlay tint area behind text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_behind_text.png)
 
-## (Advanced Users) Overlay Width - Desktop
+## Overlay Width - Desktop
 
 ![Image of the header overlay width option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width.png)
 
@@ -110,13 +110,13 @@ This determines the maximum width of the text overlaid on top of the header's ba
 
 ![Image of the header overlay width option at 60 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_width_60_percent.png)
 
-## (Advanced Users) Overlay Width - Mobile
+## Overlay Width - Mobile
 
 ![Image of the header overlay width mobile option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_mobile.png)
 
 The overlay text can have a different width on mobile, as we have found that the smaller screen-sizes of mobile devices need special consideration.
 
-## (Advanced Users) Overlay Side Margin
+## Overlay Side Margin
 
 ![Image of the header overlay side margin option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_side_margin.png)
 
@@ -134,7 +134,7 @@ This determines how far the overlay text will be from the edge of the screen (as
 This option takes into account the width of the overlay tint, so long as the tint is just behind the text (with the 'overlay padding' option set to something greater than 0)
 ```
 
-## (Advanced Users) Overlay Top Margin
+## Overlay Top Margin
 
 ![Image of the header overlay top margin option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_top_margin.png)
 
@@ -149,7 +149,7 @@ This determines how far the overlay text will be from the top / bottom of the sc
 
 ![Image of the header overlay top margin option - 50px](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_top_margin_100px.png)
 
-## (Advanced Users) Overlay Padding
+## Overlay Padding
 
 ![Image of the header overlay padding option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_padding.png)
 
@@ -163,7 +163,7 @@ The overlay's tint can have its padding customised, so long as the 'sits behind 
 
 ![Image of the header overlay padding option - 2_percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_padding_2_percent_example.png)
 
-## (Advanced Users) Tint Colour
+## Tint Colour
 
 ![Image of the header overlay tint colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_colour.png)
 
@@ -173,7 +173,7 @@ If your tint opacity is higher than 0, you may choose the colour of the tint to 
 
 ![Image of the header overlay tint colour option in green](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_colour_green.png)
 
-## (Advanced Users) Tint Opacity
+## Tint Opacity
 
 ![Image of the header overlay tint opacity option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_tint_opacity.png)
 
@@ -187,7 +187,7 @@ This determines whether you would like to apply a tint to the background image. 
 
 ![Image of the header overlay tint opacity at 0.8](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_opacity_0_point_8.png)
 
-## (Advanced Users) Mobile Image Shape
+## Mobile Image Shape
 
 ![Image of the header mobile image shape option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image_shape.png)
 
@@ -209,19 +209,19 @@ Because mobile devices have such a wide range of screen sizes, and there is such
 The Square and Landscape options take into account the module gap value (between the header background image and the text part below), [as defined in Essentials](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/5_Pages/1_essentials.html#advanced-users-module-spacing).
 ```
 
-## (Advanced Users) Mobile Background
+## Mobile Background
 
 ![Image of the header mobile background option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_background.png)
 
 If the mobile image shape option is set to either Landscape or Square, the "Mobile Background" option appears. With Landscape or Square mobile image shapes, the text overlay moves below the (mobile) header background image, into its own area with a customisable background colour.
 
-## (Advanced Users) Mobile Font Colour
+## Mobile Font Colour
 
 ![Image of the header mobile font colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_mobile_font_colour.png)
 
 If the mobile image shape option is set to either Landscape or Square, the "Mobile Font Colour" option appears. With Landscape or Square mobile image shapes, the text overlay moves below the (mobile) header background image, into its own area with a customisable font colour.
 
-## (Advanced Users) Chevron Options
+## Chevron Options
 
 ![Image of the header chevron options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_chevron_options.png)
 

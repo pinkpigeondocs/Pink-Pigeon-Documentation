@@ -8,13 +8,13 @@ sort: 6
 
 The gallery module lets you add up to 8 images into a so-called image carousel, which can be swiped on mobile (or visitors to your site can use the provided buttons to select the images).
 
-## (Standard Users) Enabling / Disabling
+## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## (Standard Users) Images
+## Images
 
 ![Image of the gallery module's images](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_images.png)
 
@@ -28,7 +28,7 @@ These items expand when clicked:
 
 Selecting the 'collapse'-button will make the item compact again. ![Image of the collapse button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/collapse_button.png)
 
-## (Standard Users) Image Fit
+## Image Fit
 
 ![Image of the gallery module's image fit option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_image_fit.png)
 
@@ -42,25 +42,25 @@ The image fit option allows you to specify whether your gallery should try to 'f
 
 ![Image of the gallery module, scale-down option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_scaledown.png)
 
-## (Standard Users) Auto Scroll
+## Auto Scroll
 
 ![Image of the gallery module's auto scroll option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_autoscroll.png)
 
 By default, a gallery automatically scrolls through its images at a set interval.
 
-## (Standard Users) Scroll Interval
+## Scroll Interval
 
 ![Image of the gallery module's scroll interval option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_interval.png)
 
 You can define how quickly the images of the gallery change, in milliseconds. Therefore, 4000, for example, is equivalent to 4 seconds.
 
-## (Advanced Users) Background Colour
+## Background Colour
 
 ![Image of the gallery module's background colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_background_colour.png)
 
 You may customise the background colour shown when using 'scale down' as an image fit option.
 
-## (Advanced Users) Marker Options
+## Marker Options
 
 ![Image of the gallery module's marker options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_marker_options.png)
 

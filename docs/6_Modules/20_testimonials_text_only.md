@@ -8,13 +8,13 @@ The text only variation of the testimonials module consists of just a text panel
 
 ![Image of the standard testimonials module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_online.png)
 
-## (Standard Users) Enabling / Disabling
+## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## (Standard Users) Testimonials Panel
+## Testimonials Panel
 
 ![Image of the text only testimonials module - testimonials panel](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_testimonials_panel.png)
 
@@ -62,13 +62,13 @@ This allows for control over the quotation marks, shown here:
 
 ![Image of the testimonial module's quotation marks online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_quotation_marks.png)
 
-## (Advanced Users) Colours
+## Colours
 
 The Text Only module allows you to change the background colour and text colour of the module.
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
-## (Advanced Users) Marker Options
+## Marker Options
 
 ![Image of the module's marker options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_marker_options.png)
 
