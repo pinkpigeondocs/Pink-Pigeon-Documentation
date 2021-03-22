@@ -18,6 +18,9 @@ When you click the link in the email, you will be taken to the registration page
 ![Image of the registration screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/registration_screen.png)
 
 This screen should show the email address that you have provided to us. (For this example, we are using one of our online projects, citycitycountry@gmail.com).
+
+## Strong passwords
+
 We normally recommend to make passwords into a short, easy to remember sentence, which contains upper and lower-case letters, as well as a number and a special symbol. Here is an example: "MyHouse!sY3llow". We have setup our system so that we will NEVER be able to see your password. Should you ever forget, you may reset the password at any time [here][resetpw].
 
 ## Privacy & Cookies
