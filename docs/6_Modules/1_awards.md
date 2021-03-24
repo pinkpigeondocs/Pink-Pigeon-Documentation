@@ -17,7 +17,7 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ## Header Text
 
-![Image of the awards module header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/1_awards_header_text.png)
+![Image of the awards module header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
 
 This is the header text in the awards module. Here it is online:
 
