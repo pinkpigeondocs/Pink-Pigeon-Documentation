@@ -16,9 +16,16 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ## Image
 
-![Image of the header desktop image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_desktop_image.png)
+![Image of the image only image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_desktop_image.png)
 
 Here you can select the image for your module.
+
+
+## Height Constrained
+
+![Image of the image only height constrained option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/9_image_only_height_constrained.png)
+
+Normally, the image only module will have a maximum height, to fit in with the other modules' heights on your site. In some situations, you may need to be able to display the whole image's height, which this option allows.
 
 
 ```tip
