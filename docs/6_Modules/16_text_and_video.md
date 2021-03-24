@@ -22,6 +22,8 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 - **Video ID (YouTube):** For Youtube, you need to copy this part of the URL (they can look different at times, but there is always an ID somewhere in the URL): ![Image of the text and video module - youtube url example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_youtube_url.png).
 
+- **Autoplay:** Vimeo videos can auto-play, so long as the video has no sound: ![Image of the text and video module - autoplay example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_vimeo_autoplay.png).
+
 - **Video ID (Vimeo):** For Vimeo, you need to copy this part of the URL: ![Image of the text and video module - vimeo url example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_vimeo_url.png).
 
 - **Desktop Video Side:** You can 'flip' the text and video around, for example: ![Image of the video panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_video_on_right.png)
