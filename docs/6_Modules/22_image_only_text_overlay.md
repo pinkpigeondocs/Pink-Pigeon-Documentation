@@ -25,12 +25,11 @@ This module includes a standard file upload / site anchor / external link compon
 
 ![Image of the header desktop image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_image_only_image.png)
 
-The header module's background image on desktop. This image will be shown at screen resolutions of 900px and above, typically laptops and desktop computers.
-Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
+The image only text overlay module's background image. Read more about changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
 ## Overlay Element
 
-The overlay element sits on top of the header's background image:
+The overlay element sits on top of the image module's background image:
 
 ![Image of the header text overlay, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_image_only_text_overlay_online_highlighted.png)
 
@@ -50,7 +49,7 @@ Here, the overlay can be switched on or off.
 
 ## Overlay Text
 
-![Image of the image only text overlay rich text component](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/rich_text.png)
+![Image of the rich text component](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/rich_text.png)
 
 The header module's overlay text. Please note that this is a rich text field. More info on that [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html).
 

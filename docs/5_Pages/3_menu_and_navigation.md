@@ -18,9 +18,7 @@ Image upload size is limited to 2MB, and images above 512kb will be compressed b
 
 ## Menu Items
 
-Standard users may change the name of their menu items, as well as their order. All other options are disabled.
-
-![Image of Menu Items, within Menu and Navigation, for standard users](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_menu_items_standard_user.png)
+![Image of Menu Items, within Menu and Navigation, for advanced users](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_menu_items_advanced_user.png)
 
 As you can see by the red outline around "Other Services", we have decided to exceed the character-limit in this one instance, as it did not negatively affect the design of the navigation items on our site. Generally we would discourage this, as we have set these limits to ensure that all menu items fit. (For example, if your menu items contained a lot of wide letters, like 'w', especially in upper-case, the design, or layout of the nav will reach its limits much sooner. That is the limit we have defined using our green character count indicators.)
 
@@ -33,14 +31,6 @@ Any text you enter in the highlighted field will be the name / label of your nav
 There is a suggested character limit of 12. You can exceed this limit as much as you like, but we cannot guarantee design consistency if exceeded.
 
 If you do not enter any text in this field, the navigation item will not be displayed (and all other navigation items will 'slot into place').
-
-## Menu Items
-
-Advanced users may add / remove or re-order their navigation items. They can also determine which sections to link to and rename each navigation item.
-
-![Image of Menu Items, within Menu and Navigation, for advanced users](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_menu_items_advanced_user.png)
-
-As you can see by the red outline around "Other Services", we have decided to exceed the character-limit in this one instance, as it did not negatively affect the design of the navigation items on our site. Generally we would discourage this, as we have set these limits to ensure that all menu items fit. (For example, if your menu items contained a lot of wide letters, like 'w', especially in upper-case, the design, or layout of the nav will reach its limits much sooner. That is the limit we have defined using our green character count indicators.)
 
 - Changing what a nav item links to:
 
