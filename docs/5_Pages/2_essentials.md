@@ -47,6 +47,9 @@ All buttons on your website can be customised. Any setting here will affect all 
 
 ## Footer
 
+
+![Image of the footer section within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/cms_footer_position.png)
+
 The footer section looks as follows:
 
 ![Image of the footer section within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer.png)
