@@ -4,7 +4,7 @@ sort: 1
 
 # Adding / Moving / Removing
 
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/528254297?autoplay=1&loop=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/528254297?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 This component deals with all pages and modules that offer the functionality to add, move or remove an item. For example, you can find it at the top the 'Menu and Navigation' section, and it looks like this:
 
