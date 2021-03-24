@@ -26,6 +26,11 @@ You may choose between YouTube and Vimeo.
 
 - **Vimeo:** For Vimeo, you need to copy this part of the URL: ![Image of the vimeo url example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_vimeo_url.png).
 
+## (Vimeo) Autoplay
+![Image of the vimeo autoplay option example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/18_video_only_vimeo_autoplay.png)
+
+Vimeo videos can play automatically, if there is no sound on the video.
+
 ## Background Colour
 
 The Video Only module allows you to change the background colour of the module (as videos do not necessarily fit the module perfectly).
