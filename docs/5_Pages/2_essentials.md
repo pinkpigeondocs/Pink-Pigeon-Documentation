@@ -26,7 +26,7 @@ Supported formats are .png, .jpeg / .jpg, .gif format. Technically, .ico, .svg a
 
 ![Image of favicon on a Mac tab](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon_mac_tab.png)
 
-## Text Options:
+## Text Options
 
 ![Image of text options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_text_options.png)
 
@@ -36,7 +36,7 @@ Within the text options you may choose the font for your website. We offer 9 dif
 It's best to experiment with the different fonts, which is easily done thanks to the realtime feedback our previews offer.
 ```
 
-## Buttons:
+## Buttons
 
 All buttons on your website can be customised. Any setting here will affect all buttons at once, not individual buttons.
 
@@ -73,7 +73,7 @@ Advanced users get some additional options to edit within the footer section:
 
 ![Image of the footer section within Essentials, rollover colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rollover_colour.png)
 
-## Module Spacing:
+## Module Spacing
 
 The modules on your website can have:
 
