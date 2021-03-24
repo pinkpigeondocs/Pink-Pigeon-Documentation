@@ -27,6 +27,13 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 The header module's background image on desktop. This image will be shown at screen resolutions of 900px and above, typically laptops and desktop computers.
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
+## Double Desktop Image
+
+![Image of the header desktop double image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_double_image.png)
+
+There is a double-image variation of this header, where two images can be used as the background to a header, sitting side by side.
+Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
+
 ## Mobile Image
 
 ![Image of the header mobile image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image.png)

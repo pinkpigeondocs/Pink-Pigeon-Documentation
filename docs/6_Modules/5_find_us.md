@@ -52,7 +52,7 @@ Deleting lines from the optional columns is done via the checkboxes next to the 
 
 ![Image of the find us module's optional columns checkboxes checked and bin showing](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_optional_columns_checkbox_bin.png)
 
-## Social Icons:
+## Social Icons
 
 At the moment we support adding up to 6 different social icons. You have a choice of 19 platforms at the moment ("500px", "Behance", "Email", "Facebook", "Facebook Messenger", "IMDB", "Instagram", "LinkedIn", "Phone", "Pinterest", "Skype", "Spotlight", "Telegram", "Tripadvisor", "Twitter", "Vimeo", "Whatsapp", "Youtube").
 
