@@ -100,7 +100,7 @@ The Contact module allows you to change the background colour and text colour of
 
 ![Image of the standard colours](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/standard_colours.png)
 
-## Input Options:
+## Input Options
 
 ![Image of the contact module's form input options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_input_options.png)
 
