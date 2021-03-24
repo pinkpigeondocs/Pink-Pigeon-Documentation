@@ -62,7 +62,7 @@ It is still a good idea to limit the amount of text somewhat, as the design of t
 
 ## Social Icons:
 
-At the moment we support adding up to 6 different social icons. You have a choice of 19 platforms at the moment ("500px", "Behance", "Email", "Facebook", "Facebook Messenger", "IMDB", "Instagram", "LinkedIn", "Phone", "Pinterest", "Skype", "Spotlight", "Telegram", "Tripadvisor", "Twitter", "Vimeo", "Whatsapp", "Youtube").
+At the moment we support adding up to 6 different social icons. You have a choice of 18 platforms at the moment ("500px", "Behance", "Email", "Facebook", "Facebook Messenger", "IMDB", "Instagram", "LinkedIn", "Phone", "Pinterest", "Skype", "Spotlight", "Telegram", "Tripadvisor", "Twitter", "Vimeo", "Whatsapp", "Youtube").
 
 **Here they are in the CMS:**
 
@@ -71,6 +71,116 @@ At the moment we support adding up to 6 different social icons. You have a choic
 **Here they are online:**
 
 ![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_online.png)
+
+- **500px:**
+
+This is what a 500px link should look like: https://500px.com/p/[your profile name]?view=photos
+
+[your profile name] would be replaced with your profile, for example: https://500px.com/p/citycitycountry?view=photos
+
+- **Behance:**
+
+This is what a Behance link should look like: https://www.behance.net/[your profile name]
+
+[your profile name] would be replaced with your profile, for example:  https://www.behance.net/ganderdesign
+
+
+- **Email:**
+
+This just needs to be your e-mail address, such as: name@example.com
+
+
+- **Facebook:**
+
+This is what a Facebook link should look like: https://www.facebook.com/[your profile name]
+
+[your profile name] would be replaced with your profile, for example: https://www.facebook.com/wikipedia (sometimes these include a number like https://www.facebook.com/wikipedia.47583 )
+
+- **Facebook Messenger:**
+
+This is what a Facebook Messenger link should look like: http://m.me/[your profile name]
+
+[your profile name] would be replaced with your profile, for example: http://m.me/wikipedia (sometimes these include a number like http://m.me/wikipedia.47583 )
+
+- **IMDB:**
+
+This is what a IMDB link should look like: https://www.imdb.com/name/[your name code]/
+
+IMDB uses name codes, so your profile would have one, that you need to replace on the link above. For example: https://www.imdb.com/name/nm0001772/
+
+- **Instagram:**
+
+This is what a Instagram link should look like: https://www.instagram.com/[your profile name]/
+
+[your profile name] would be replaced with your profile, for example: https://www.instagram.com/citycitycountry/
+
+
+- **LinkedIn:**
+
+This is what a LinkedIn link should look like: https://www.linkedin.com/company/[your profile name]
+
+[your profile name] would be replaced with your profile, for example: https://www.linkedin.com/company/wikipedia-the-free-encyclopedia
+
+- **Phone:**
+
+This can be any phone number, for example, a standard UK mobile number has 11 digits: 01234567890
+
+
+- **Pinterest:**
+
+This is what a Pinterest link should look like: https://www.pinterest.com/[your profile name]/
+
+[your profile name] would be replaced with your profile, for example: https://www.pinterest.com/wikipedia/
+
+- **Skype:**
+
+This is just your skype username.
+
+
+- **Spotlight:**
+
+This is what a Spotlight link should look like: www.spotlight.com/profile/[your profile code]
+
+[your profile code] needs to be replaced with the code that spotlight have given you for your profile.
+
+- **Telegram:**
+
+This is what a Telegram link should look like: https://msng.link/o/?[your profile name]/=tg
+
+[your profile name] would be replaced with your profile, for example: https://msng.link/o/?example=tg
+
+- **Tripadvisor:**
+
+This is what a Tripadvisor link should look like: https://www.tripadvisor.com/[your tripadvisor page]
+
+[your tripadvisor page] needs to be replaced with your page on tripadvisor, like https://www.tripadvisor.com/Attraction_Review-g186338-d211709-Reviews-Big_Ben-London_England.html
+
+- **Twitter:**
+
+This is what a Twitter link should look like: https://twitter.com/[your profile name]
+
+[your profile name] would be replaced with your profile, for example: https://twitter.com/Wikipedia
+
+- **Vimeo:**
+
+This is what a Vimeo link should look like: https://vimeo.com/[your user code]
+
+[your user code] should be replaced with your vimeo user code, like so: https://vimeo.com/user123307721
+
+- **Whatsapp:**
+
+This is what a Whatsapp link should look like: https://api.whatsapp.com/send?phone=[your phone number]
+
+[your phone number] needs to be replaced with your whatsapp account's phone number, including area code, but without any +, or spaces: https://web.whatsapp.com/send?phone=441234567890
+
+Alternatively you can use a whatsapp link generator: https://create.wa.link/
+
+- **Youtube:**
+
+This is what a Youtube link should look like: https://www.youtube.com/channel/[your channel code]
+
+[your channel code] becomes your channel code (which can be an account name or a code), for example: https://www.youtube.com/channel/UCggSLFihh1vUBMG7IA_lGrg
+
 
 
 ## Colours

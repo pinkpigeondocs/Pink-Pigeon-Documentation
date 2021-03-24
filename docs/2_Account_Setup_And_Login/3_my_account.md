@@ -28,4 +28,41 @@ Lastly, you may reset your password on this screen. We will show a confirmation 
 
 You do not need to select 'update' in order to change your password. If you change your mind and do not wish to amend your password, but have already asked us to send you a password-reset email, then you can simply ignore the email and your original password will remain valid.
 
+## Billing / Upgrading Your Subscription
+
+You can manage your payment preferences (card details, subscription type, cancelling subscriptions) here:
+
+![Image of manage payments](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/manage_payments.png)
+
+Once you click, you will be taken to the Stripe Billing portal, which looks like this:
+
+![Image of stripe billing portal](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/stripe_billing_portal.png)
+
+Here you can update your payment details and if you are a Bronze or Silver user, upgrade your subscription to a higher type.
+
+```tip
+You can't downgrade easily once you have upgraded your account. If you need to do this, please contact us and we will review whether it is possible to do this with you.
+```
+
+You can also cancel your subscription. If you do so, you will keep access to the CMS until the end of your billing period (this can mean that you may lose access within a day, if your billing period ends the next day). While your billing period has not ended, you can come here to re-activate your subscription.
+
+## Missed Payments
+
+If you miss a payment, we will let you know to update your payment details. You will have 7 days to do so, after which we will lock your account. Your website will remain online for another 30 days, after which we will take it offline.
+
+## Notifications
+
+We will send you an email every month (coming from support@mail.pinkpigeon.co.uk - a non-monitored email address), confirming that we have received your payment. We will also email you if you update / cancel your subscription. We do not send out automated emails for any other billing events.
+
+**Payment Received Email Example**
+
+![Image of payment received email](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/payment_received_email.png)
+
+
+**Subscription Updated Email Example**
+
+![Image of subscription updated email](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/subscription_updated_email.png)
+
+
+
 [resetpw]:https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/2_login.html#resetting-your-password
