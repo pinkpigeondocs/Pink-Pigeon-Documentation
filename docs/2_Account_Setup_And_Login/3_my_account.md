@@ -20,7 +20,7 @@ Selecting "My Account" will take you to the "My Account" screen:
 
 ![Image of "My Account" opened](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/my_account_main.png)
 
-Here you will find the information you provided us with at the time of registration, along with the option to change your mobile phone number and an option to opt out of email communications (though we discourage this, as we may communicate essential changes via email and we do try to send emails very rarely).
+Here you will find the information you provided us with at the time of registration, along with the option to change your name, email, mobile phone number and an option to opt out of email communications (though we discourage this, as we may communicate essential changes via email and we do try to send emails very rarely).
 
 Please remember to select 'update' if you are changing your phone number or the email opt-in / opt-out.
 
