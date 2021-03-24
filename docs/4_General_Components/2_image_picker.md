@@ -6,7 +6,7 @@ sort: 2
 
 Image pickers come in a few varieties. One of the most common ones is the standalone image picker component. For example, the 'Logo' picker within 'Menu and Navigation':
 
-![Image of logo, within Menu and Navigation](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_logo.png)
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/528259810?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Another image picker exists within list items, such as the Price List module:
 
