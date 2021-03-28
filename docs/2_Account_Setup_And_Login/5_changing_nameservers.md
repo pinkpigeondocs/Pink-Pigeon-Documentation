@@ -37,6 +37,7 @@ Note: In step 5, it's "Enter my own nameservers" that you need.
 
 - **Wordpress:** [Tutorial](https://wordpress.com/support/move-domain/change-name-servers/)
 
+Almost every registrar has their own tutorial, which can be found by looking up their name and 'changing nameservers' in [DuckDuckGo](https://duckduckgo.com).
 
 ## Pending Site
 
