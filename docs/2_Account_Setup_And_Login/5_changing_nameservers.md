@@ -9,6 +9,8 @@ To do this, we will need you to change something called the nameservers of your 
 
 Don't worry, this is only two small bits of text to copy and paste and we will show you how to do this for the biggest domain name registrars.
 
+Please note that this means we will be responsible for administering your DNS changes. If, for example, you wanted to use a custom email provider with your domain, you would have to let us know that you would like to make this change. In the future we plan to suppport DNS editing as part of our platform, but that is not yet the case.
+
 ## Entering your Domain
 
 ![Image of the 'enter domain' popup](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/enter_domain_name.png)
@@ -23,17 +25,17 @@ Once you have entered your domain name, we will set your site to 'pending'.
 
 Now you have to go to your registrar and change your nameservers within 6 hours.
 
-- **Namecheap:** https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/
+- **Namecheap:** [Tutorial](https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/)
 Note: It's "CustomDNS" that you are after in this guide.
 
-- **GoDaddy:** https://uk.godaddy.com/help/change-nameservers-for-my-domains-664
+- **GoDaddy:** [Tutorial](https://uk.godaddy.com/help/change-nameservers-for-my-domains-664)
 Note: In step 5, it's "Enter my own nameservers" that you need.
 
-- **123reg:** https://www.123-reg.co.uk/support/domains/how-do-i-change-the-nameservers-for-my-domain-name/
+- **123reg:** [Tutorial](https://www.123-reg.co.uk/support/domains/how-do-i-change-the-nameservers-for-my-domain-name/)
 
-- **Strato:** https://technical-tips.com/blog/internet/strato-nameserver-change--how-25362
+- **Strato:** [Tutorial](https://technical-tips.com/blog/internet/strato-nameserver-change--how-25362)
 
-- **Wordpress:** https://wordpress.com/support/move-domain/change-name-servers/
+- **Wordpress:** [Tutorial](https://wordpress.com/support/move-domain/change-name-servers/)
 
 
 ## Pending Site
