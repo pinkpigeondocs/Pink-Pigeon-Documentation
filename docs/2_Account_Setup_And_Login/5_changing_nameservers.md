@@ -23,6 +23,19 @@ Once you have entered your domain name, we will set your site to 'pending'.
 
 Now you have to go to your registrar and change your nameservers within 6 hours.
 
+- **Namecheap:** https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-to-change-dns-for-a-domain/
+Note: It's "CustomDNS" that you are after in this guide.
+
+- **GoDaddy:** https://uk.godaddy.com/help/change-nameservers-for-my-domains-664
+Note: In step 5, it's "Enter my own nameservers" that you need.
+
+- **123reg:** https://www.123-reg.co.uk/support/domains/how-do-i-change-the-nameservers-for-my-domain-name/
+
+- **Strato:** https://technical-tips.com/blog/internet/strato-nameserver-change--how-25362
+
+- **Wordpress:** https://wordpress.com/support/move-domain/change-name-servers/
+
+
 ## Pending Site
 
 When your site is 'pending', you will see a notification at the top of the page and the 'publish' button will display 'pending...'
