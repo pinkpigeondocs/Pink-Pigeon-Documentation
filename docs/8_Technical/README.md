@@ -12,10 +12,10 @@ You can use the CMS and your website across the following browsers and devices:
 
 - Chrome - Supported for Windows, Mac and Linux, from version 80 upwards
 - Firefox - Supported for Windows, Mac and Linux, from version 72 upwards
-- Safari - Supported for Mac only, from version 12 upwards
+- Safari - Supported for Mac only, from version 14 upwards
 - Microsoft Edge - Supported for Windows only, from version 80 upwards
 - Android Browser - Support for Android devices, from version 76 upwards
-- iOS Safari - Supported for iOS devices, from version 13 upwards
+- iOS Safari - Supported for iOS devices, from version 14 upwards
 
 We do not support Internet Explorer as Microsoft no longer support it (as it has been superseded by Edge).
 
