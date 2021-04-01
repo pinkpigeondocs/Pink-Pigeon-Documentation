@@ -4,7 +4,7 @@ sort: 1
 
 # Above The Footer
 
-We will be using our very own site [pinkpigeon.co.uk](https://pinkpigeon.co.uk) for all of our examples. Here is the home screen (which will be the first screen you see after logging in):
+Here is the home screen (which will be the first screen you see after logging in):
 
 ![Image of the home screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/images/home_main.png)
 
