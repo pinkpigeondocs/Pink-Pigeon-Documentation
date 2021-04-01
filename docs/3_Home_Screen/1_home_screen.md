@@ -28,13 +28,13 @@ Immediately below, you can see your website's name:
 
 This is where you can rename your site by clicking on its title, or access your website's settings, by clicking on the settings cog next to your site's title.
 
-This will allow you to change your website's name, where contact forms are sent, add an analytics code, if you are a [Silver][accounttypes] or [Gold][accounttypes] user, and you will be able to see statistics on your website's size, or the number of modules and pages you are using:
+This will allow you to change your website's name, where contact forms are sent, [add an analytics code](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/8_Technical/3_analytics.html), if you are a [Silver][accounttypes] or [Gold][accounttypes] user, and you will be able to see statistics on your website's size, or the number of modules and pages you are using:
 
 ![Image of the home screen, site settings opened](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/images/home_main_site_settings_opened.png)
 
 If you are a [Bronze][accounttypes] or [Silver][accounttypes] user, you can upgrade your account from here as well, if you need either added analytics features, higher account limits or faster support.
 
-[accounttypes]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/2_login.html#resetting-your-password
+[accounttypes]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/4_account_types.html
 
 ## Essentials and Navigation
 
