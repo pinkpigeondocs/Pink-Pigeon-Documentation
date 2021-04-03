@@ -34,7 +34,7 @@ This will allow you to change your website's name, where contact forms are sent,
 
 If you are a [Bronze][accounttypes] or [Silver][accounttypes] user, you can upgrade your account from here as well, if you need either added analytics features, higher account limits or faster support.
 
-[accounttypes]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/4_account_types.html
+[accounttypes]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/5_account_types.html
 
 ## Essentials and Navigation
 
