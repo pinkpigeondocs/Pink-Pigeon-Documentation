@@ -10,6 +10,8 @@ The website essentials are a collection of settings that affect the most basic p
 
 Here you may define up to 12 colours to be used with your website. If you change a colour, it will automatically be changed on the whole website. For example, where it says "ffffff", this is the so-called [hex-code][hex] for the colour white. (You can read more about hex codes [here][hex]. If you want to find hex colours, [this website][hexweb] is quite useful), if you were to change this to another colour, all parts of the website using this white field, will change to the new colour you have assigned. (If you have two white fields in your colour palette, only the one specifically assigned to elements in the CMS changes.)
 
+If you are interested in getting colour palettes, [this site](https://coolors.co/) is a great resource.
+
 ![Image of the colour palette within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_colour_palette.png)
 
 [hex]: https://en.wikipedia.org/wiki/Web_colors
