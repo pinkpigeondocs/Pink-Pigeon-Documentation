@@ -6,6 +6,8 @@ sort: 1
 
 ![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
 
+This is the official public documentation for the Pink Pigeon Website Builder, or CMS (Content Management System). Here you will find a description of all functionality available, along with visual guides, tips and tricks. Why not start with an introduction...
+
 Hello! We are Claire & Adrian, and our business is called [Pink Pigeon Digital Ltd][pp].....
 
 When all of this started, we really just wanted to run a [blog][ccc] online.
@@ -20,11 +22,13 @@ We wanted a way to update our websites quickly, on the go, **via our mobile phon
 
 We wanted direct, immediate feedback for any changes we made to our websites. Fast iteration, playful interaction with content, to be able to try a few different things and see how it works, right there and then, like so:
 
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/509726423?autoplay=1&loop=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/509726423?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 And we wanted all of the above to be secure, accessible and affordable. Turns out that that did not exist. Not the way we wanted to do it. So we made our own website platform, combining 20+ years of combined advertising industry experience, bringing knowledge that's usually reserved for giant corporate budgets to smaller businesses.
 
 If that sounds good to you, then let us tell you all about it on the following pages, starting right at the beginning:
+
+[What is a CMS?](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/1_Introduction/what_is_a_cms.html)
 
 [pp]:https://pinkpigeon.co.uk/
 [ccc]:https://www.citycitycountry.co.uk/

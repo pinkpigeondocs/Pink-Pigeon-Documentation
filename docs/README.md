@@ -1,8 +1,8 @@
-# Pink Pigeon CMS Documentation
+# Pink Pigeon Website Builder Documentation
 
 ![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
 
-This is the official public documentation for the Pink Pigeon CMS. Here you will find a description of all functionality available, along with visual guides, tips and tricks. Why not start with an introduction...
+This is the official public documentation for the Pink Pigeon Website Builder, or CMS (Content Management System). Here you will find a description of all functionality available, along with visual guides, tips and tricks. Why not start with an introduction...
 
 Hello! We are Claire & Adrian, and our business is called [Pink Pigeon Digital Ltd][pp].....
 
