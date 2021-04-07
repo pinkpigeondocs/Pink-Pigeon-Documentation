@@ -1,4 +1,4 @@
-# Pink Pigeon Website Builder Documentation
+# Pink Pigeon Website Builder & CMS Documentation
 
 ![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
 
