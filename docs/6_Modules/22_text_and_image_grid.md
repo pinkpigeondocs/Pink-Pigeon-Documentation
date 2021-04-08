@@ -41,11 +41,11 @@ Here, the overlay can be switched on or off.
 
 **on**
 
-![Image of a header-text module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_text_online.png)
+![Image of the text and image - grid module with overlays enabled](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_with_overlays_on.png)
 
 **off**
 
-![Image of a header-image module with overlay off online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_off_online.png)
+![Image of the text and image - grid module with overlays disabled](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_with_overlays_off.png)
 
 ## Overlay Text
 
