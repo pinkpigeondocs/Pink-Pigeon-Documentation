@@ -71,7 +71,7 @@ In order to increase the legibility of your text overlay, you can add a tint imm
 
 **Sits behind text example**
 
-![Image of a tint area behind text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_image_only_text_overlay_online.png)
+![Image of a tint area behind text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_with_overlays_on.png)
 
 **Covers entire module / image example**
 
