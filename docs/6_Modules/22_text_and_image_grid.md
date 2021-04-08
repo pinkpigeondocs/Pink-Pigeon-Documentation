@@ -2,12 +2,12 @@
 sort: 22
 ---
 
-# Image Only (Text Overlay)
+# Text and Image - Grid
 
 
 ![Image of the image only text overlay module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_image_only_text_overlay_online.png)
 
-This is a variation of the image-only module, which includes a clickable text overlay.
+This is the grid variation of the text and image module, which includes a clickable text overlay.
 
 ## Enabling / Disabling
 
@@ -131,6 +131,9 @@ This determines whether you would like to apply a tint to the background image. 
 
 ![Image of an overlay tint opacity at 0.8](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_opacity_0_point_8.png)
 
+## Image Zoom
+
+This enables the zoom-on-hover functionality of the text and image - grid module.
 
 ```tip
 Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
