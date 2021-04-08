@@ -32,6 +32,19 @@ Here it is in the module:
 
 ![Image of the Text Only module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_body_text_online.png)
 
+## Text Alignment
+
+There are two options:
+
+- **Left:**
+
+This aligns all text to the left.
+
+- **Centre:**
+
+This aligns all text to the centre, except for bullet points, which remain left-aligned.
+
+
 ## Colours
 
 The Text Only module allows you to change the background colour and text colour of the module.

@@ -14,6 +14,19 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
+## Text Alignment
+
+There are two options:
+
+- **Left:**
+
+This aligns all text to the left.
+
+- **Centre:**
+
+This aligns all text to the centre, except for bullet points, which remain left-aligned.
+
+
 ## Image Panel
 
 ![Image of the image panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/15_text_and_image_feature_singlet_image_panel.png)
