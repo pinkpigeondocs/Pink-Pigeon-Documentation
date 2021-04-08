@@ -122,13 +122,9 @@ If your tint opacity is higher than 0, you may choose the colour of the tint to 
 
 This determines whether you would like to apply a tint to the background image. In our example, we have chosen a black tint at 0.4 opacity (maximum is 1, minimum is 0, i.e. no tint), to 'fade' the background somewhat, giving more contrast to the overlaid logo.
 
-**0.4 Example**
+**Examples**
 
-![Image of an overlay tint opacity at 0.4](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_opacity_0_point_4.png)
-
-**0.8 Example**
-
-![Image of an overlay tint opacity at 0.8](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_opacity_0_point_8.png)
+![Image of an overlay tint opacity at 0.4](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_with_tint_opacity_examples.png)
 
 ## Image Zoom
 
