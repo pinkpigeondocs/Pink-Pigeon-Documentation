@@ -69,9 +69,14 @@ You may customise the font colour of the overlay text.
 
 In order to increase the legibility of your text overlay, you can add a tint immediately behind the text, or covering the entire background image.
 
-**Sits behind overlay example**
+**Sits behind text example**
 
-![Image of a tint area behind text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_behind_text.png)
+![Image of a tint area behind text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_image_only_text_overlay_online.png)
+
+**Covers entire module / image example**
+
+![Image of a tint area behind text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_with_overlay_cover_entire_image.png)
+
 
 ## Overlay Width - Desktop
 
