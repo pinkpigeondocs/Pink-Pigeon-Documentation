@@ -5,7 +5,7 @@ sort: 22
 # Text and Image - Grid
 
 
-![Image of the image only text overlay module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_image_only_text_overlay_online.png)
+![Image of the image only text overlay module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_online.png)
 
 This is the grid variation of the text and image module, which includes a clickable text overlay.
 
@@ -31,7 +31,7 @@ The image only text overlay module's background image. Read more about changing 
 
 The overlay element sits on top of the image module's background image:
 
-![Image of the header text overlay, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_image_only_text_overlay_online_highlighted.png)
+![Image of the header text overlay, online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_online_highlighted.png)
 
 ## Enabling the Overlay
 
