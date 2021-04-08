@@ -112,9 +112,9 @@ The overlay's tint can have its padding customised, so long as the 'sits behind 
 
 If your tint opacity is higher than 0, you may choose the colour of the tint to apply to the background image. This feature exists, as some text colours need additional contrast to the background they sit on top of. Here, you can define a tint colour to 'knock back' the background image, giving more emphasis to the overlay.
 
-**Green Tint Example:**
+**Tint Examples:**
 
-![Image of an overlay tint colour option in green](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_tint_colour_green.png)
+![Image of an overlay tint colour option in green](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_with_tint_colour_examples.png)
 
 ## Tint Opacity
 
