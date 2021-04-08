@@ -101,13 +101,10 @@ The overlay text can have a different width on mobile, as we have found that the
 
 The overlay's tint can have its padding customised, so long as the 'sits behind overlay' option has been selected. This is a percentage of the total screen width.
 
-**0% Example**
+**Examples**
 
-![Image of an overlay padding option - 0_percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_padding_0_percent_example.png)
+![Image of an overlay padding option - 0_percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_with_overlay_padding_examples.png)
 
-**2% Example**
-
-![Image of an overlay padding option - 2_percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_padding_2_percent_example.png)
 
 ## Tint Colour
 
