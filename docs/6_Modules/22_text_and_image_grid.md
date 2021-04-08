@@ -82,15 +82,12 @@ In order to increase the legibility of your text overlay, you can add a tint imm
 
 ![Image of an overlay width option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width.png)
 
-This determines the maximum width of the text overlaid on top of the header's background image (as percentage of the total screen width). The height of the overlay is determined by the amount of text.
+This determines the maximum width of the text overlaid on top of the module's background image (as percentage of the total screen width). The height of the overlay is determined by the amount of text.
 
-**20% Example**
+**Example**
 
-![Image of an overlay width option at 20 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_width_20_percent.png)
+![Image of an overlay width options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/22_text_and_image_grid_with_overlay_width_examples.png)
 
-**60% Example**
-
-![Image of an overlay width option at 60 percent](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_overlay_width_60_percent.png)
 
 ## Overlay Width - Mobile
 
