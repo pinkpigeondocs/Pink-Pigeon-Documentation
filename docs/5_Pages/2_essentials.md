@@ -47,6 +47,23 @@ All buttons on your website can be customised. Any setting here will affect all 
 - **Chevron:** All buttons can have a so-called chevron, which is a visual element to indicate that the button is a link leading somewhere else. ![Image of a button with chevron](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_buttons_chevron.png)
 - **Font Case:** You can pick between all buttons being labelled with lowercase letters (as shown above) or uppercase letters, like this: ![Image of an all caps button](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_buttons_allcaps.png)
 
+## Search Engine Settings
+
+- **Site Title:**
+
+Here you can define a site title, which will be used by search engines (like Google). This will be the name of your site, shown in browser tabs, throughout:
+
+![Image of site title](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_site_title.png)
+
+For any pages of your site, the page's name will be appended to the site title.
+
+![Image of page title](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_page_title.png)
+
+
+- **Meta Description:**
+
+This is a (short) bit of copy, which is used by Google and other search engines to show what your page is about in the search results. For our own website, it looks like this on Google (This bit of text will never be visible to visitors of your website, it is exclusively used by search engines.): ![Image of meta description from the footer section within Essentials, on Google](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_meta_description.png)
+
 ## Footer
 
 
@@ -57,9 +74,6 @@ The footer section looks as follows:
 ![Image of the footer section within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer.png)
 
 The footer section allows you to edit:
-
-- **Meta Description:** This is a (short) bit of copy, which is used by Google and other search engines to show what your page is about in the search results. For our own website, it looks like this on Google (This bit of text will never be visible to visitors of your website, it is exclusively used by search engines.): ![Image of meta description from the footer section within Essentials, on Google](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_meta_description.png)
-
 
 - **Company Details:** In the UK, these are the typical three pieces of information, included on most companies' websites. E.g. the company name, which countries the company was incorporated in and what the company number is. If either of these fields does not contain any text, the CMS will remove that line and close the space it left automatically. The final result online looks like this: ![Image of the company details section, within the footer section within Essentials, but on the pink pigeon website](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_company_details_on_pp_website.png)
 
