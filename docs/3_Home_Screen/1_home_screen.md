@@ -8,6 +8,10 @@ Here is the home screen (which will be the first screen you see after logging in
 
 ![Image of the home screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/images/home_main.png)
 
+There is also a video introducing this part of the CMS:
+
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/539243236?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Notifications
 
 Notifications are displayed at the top of the page. You can close them by selecting the "X". All notifications except the one for pending websites will disappear forever once closed, so make sure to read these carefully.
