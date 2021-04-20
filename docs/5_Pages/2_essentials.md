@@ -74,7 +74,15 @@ The footer section looks as follows:
 ![Image of the footer section within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer.png)
 
 
-The footer section allows you to edit:
+**The footer section allows you to edit:**
+
+- **Font colour:** Controls the colour of the text within the footer.
+
+![Image of the footer section within Essentials, font colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/font_colour.png)
+
+- **Rollover colour:** Controls the rollover colour of the text within the footer.
+
+![Image of the footer section within Essentials, rollover colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rollover_colour.png)
 
 - **Company Details:** In the UK, these are the typical three pieces of information, included on most companies' websites. E.g. the company name, which countries the company was incorporated in and what the company number is. If either of these fields does not contain any text, the CMS will remove that line and close the space it left automatically. The final result online looks like this: ![Image of the company details section, within the footer section within Essentials, but on the pink pigeon website](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_company_details_on_pp_website.png)
 
@@ -84,13 +92,7 @@ The footer section allows you to edit:
 
 - **Download Links 1-3:** Here, using the up-arrow icon (![Image of the up-arrow for file uploads](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/up_arrow_icon.png)) you may upload a .PDF (recommended) or .TXT file (you can upload other file types) up to 2MB big. For larger files you will have to contact us. The files will be shown using the description you enter into the left field. See here how "Special Thanks", "Privacy Policy" and "Cookie Policy" are displayed on our own website: ![Image of the download links section, within the footer section within Essentials, but on the pink pigeon website](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_download_links_on_pp_website.png)
 
-- **Font colour:** Controls the colour of the text within the footer.
 
-![Image of the footer section within Essentials, font colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/font_colour.png)
-
-- **Rollover colour:** Controls the rollover colour of the text within the footer.
-
-![Image of the footer section within Essentials, rollover colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rollover_colour.png)
 
 ## Module Spacing
 
