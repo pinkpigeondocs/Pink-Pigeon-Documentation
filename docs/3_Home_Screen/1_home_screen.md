@@ -4,7 +4,7 @@ sort: 1
 
 # Above The Footer
 
-Here is a video introducing the home screen, or if text is more your thing, please read on below for the same information.
+Here is a video introducing the home screen, or if text is more your thing, please read on below for more in depth information.
 
 <iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/539243236?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
