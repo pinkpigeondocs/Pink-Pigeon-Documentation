@@ -6,6 +6,8 @@ sort: 2
 
 The website essentials are a collection of settings that affect the most basic parts of your website. Depending on the type of access you have, you can change many of the fundamental visual attributes of your website here.
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/539615465?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Colour Palette
 
 Here you may define up to 12 colours to be used with your website. If you change a colour, it will automatically be changed on the whole website. For example, where it says "ffffff", this is the so-called [hex-code][hex] for the colour white. (You can read more about hex codes [here][hex]. If you want to find hex colours, [this website][hexweb] is quite useful), if you were to change this to another colour, all parts of the website using this white field, will change to the new colour you have assigned. (If you have two white fields in your colour palette, only the one specifically assigned to elements in the CMS changes.)
