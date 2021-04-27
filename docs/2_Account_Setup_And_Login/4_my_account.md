@@ -28,6 +28,14 @@ Lastly, you may reset your password on this screen. We will show a confirmation 
 
 You do not need to select 'update' in order to change your password. If you change your mind and do not wish to amend your password, but have already asked us to send you a password-reset email, then you can simply ignore the email and your original password will remain valid.
 
+## Buying Additional Sites
+
+You can buy additional sites by selecting the plus-button here:
+
+![Image highlighting plus-button under 'sites' in 'my account'](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/my_account_buy_another_site.png)
+
+This will take you to Stripe, for payment, and following your subscription being activated, will lead you through the [site-selection](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/2_select_site.html) process which you used for your first site.
+
 ## Billing / Upgrading Your Subscription
 
 You can manage your payment preferences (card details, subscription type, cancelling subscriptions) here:
