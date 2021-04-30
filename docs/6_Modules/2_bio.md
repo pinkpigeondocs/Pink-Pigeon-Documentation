@@ -8,6 +8,8 @@ The Bio module originated from the need to list attributes of actors, but is als
 
 ![Image of the bio module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_online.png)
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/543626478?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
