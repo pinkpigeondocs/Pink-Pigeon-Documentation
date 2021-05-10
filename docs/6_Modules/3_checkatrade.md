@@ -4,11 +4,11 @@ sort: 3
 
 # Checkatrade
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/543640339?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 The Checkatrade module allows you to add your checkatrade stats to your website. Please make sure to accurately reflect your scores and update them as soon as any of the numbers change.
 
 ![Image of the checkatrade module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/3_checkatrade_online.png)
-
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/543640339?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Enabling / Disabling
 
