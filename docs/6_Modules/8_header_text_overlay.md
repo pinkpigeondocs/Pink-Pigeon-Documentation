@@ -2,9 +2,9 @@
 sort: 8
 ---
 
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/551975289?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 # Header (Text Overlay)
+
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/551975289?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ![Image of the header-text module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_text_online.png)
 
