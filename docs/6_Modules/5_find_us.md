@@ -4,6 +4,9 @@ sort: 5
 
 # Find Us
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/552984755?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
 The 'Find Us' module allows you to put in opening times and / or an address for your business (or any other information that fits the format).
 Please note that this is not the [map](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/6_Modules/11_map.html) module, which is what you would use to put a map onto your website.
 
