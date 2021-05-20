@@ -4,6 +4,9 @@ sort: 6
 
 # Gallery
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/552993618?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+
 ![Image of the gallery module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_online.png)
 
 The gallery module lets you add up to 8 images into a so-called image carousel, which can be swiped on mobile (or visitors to your site can use the provided buttons to select the images).
