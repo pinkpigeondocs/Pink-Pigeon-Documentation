@@ -4,6 +4,8 @@ sort: 7
 
 # Header (Image Overlay)
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/552061838?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ![Image of the header-image module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_image_online.png)
 
 The header is a slightly more complex module. It allows for the displaying of two images, one for mobile, one for desktop resolutions (as this may work better than trying to make just one image fit such different screen sizes), though this is not mandatory.
