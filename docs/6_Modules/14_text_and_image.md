@@ -8,6 +8,10 @@ The Text and Image module is one of our most used modules. That is because most 
 
 ![Image of the text and image module, feature singlet](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_online.png)
 
+## Grid Version
+
+There is a variant of this module.
+
 ## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
