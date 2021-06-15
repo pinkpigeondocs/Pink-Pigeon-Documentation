@@ -4,7 +4,7 @@ sort: 8
 
 # Header (Text Overlay)
 
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/551975289?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/551975289?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ![Image of the header-text module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/8_header_text_online.png)
 
@@ -30,6 +30,8 @@ The header module's background image on desktop. This image will be shown at scr
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
 ## Double Desktop Image
+
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/552057314?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ![Image of the header desktop double image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_double_image.png)
 

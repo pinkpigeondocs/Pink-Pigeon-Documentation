@@ -8,7 +8,7 @@ sort: 1
 
 Welcome to the Pink Pigeon Website Builder & CMS. If you are just getting started, this intro video will show you the basics. It's worth listening to with sound on, for the explanations.
 
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/539243236?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/539243236?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 If you are interested in the background behind this CMS, or to find out what a CMS is, you can find more about that here:
 

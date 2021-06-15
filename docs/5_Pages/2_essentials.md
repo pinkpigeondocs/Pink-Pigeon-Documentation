@@ -6,7 +6,7 @@ sort: 2
 
 The website essentials are a collection of settings that affect the most basic parts of your website. Depending on the type of access you have, you can change many of the fundamental visual attributes of your website here.
 
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/539615465?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/539615465?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Colour Palette
 

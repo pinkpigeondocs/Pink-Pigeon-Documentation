@@ -5,7 +5,7 @@ sort: 1
 
 # Awards
 
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/541752668?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/541752668?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 The Awards module is very similar to the image-only module, but it allows switching between mobile and desktop images, to allow for specific designs / arrangements of many awards (as they are often awkward / very different shapes). Please see an example below:
 

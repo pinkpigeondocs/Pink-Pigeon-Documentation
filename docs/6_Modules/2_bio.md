@@ -4,7 +4,7 @@ sort: 2
 
 # Bio
 
-<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/543626478?autoplay=1&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/543626478?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 The Bio module originated from the need to list attributes of actors, but is also suitable as a general CV module. Please see an example below:
 
