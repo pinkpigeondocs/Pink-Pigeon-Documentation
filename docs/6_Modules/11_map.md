@@ -6,7 +6,11 @@ sort: 11
 
 ![Image of the image map module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/11_map_online.png)
 
-The Map module lets you add a map to your site. There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
+The Map module lets you add a map to your site.
+
+## Grid Version
+
+There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
 
 ## Enabling / Disabling
 
