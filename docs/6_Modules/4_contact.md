@@ -22,7 +22,7 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ![Image of the contact module's form name input](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_name.png)
 
-You can name your forms (at pinkpigeon.co.uk, for example, we have 6 contact forms, one for each section). The CMS will include this name when emailing you, so you know what section of your website a visitor contacted you from.
+You can name your forms (at pinkpigeon.co.uk, for example, we have 6 contact forms, one for each section). The website builder will include this name when emailing you, so you know what section of your website a visitor contacted you from.
 
 When we email you, the form name will be included in the message (please note that the originating URL is also included in the email, so you know it came from us):
 

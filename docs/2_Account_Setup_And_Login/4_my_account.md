@@ -52,7 +52,7 @@ Here you can update your payment details and if you are a Bronze or Silver user,
 You can't downgrade easily once you have upgraded your account. If you need to do this, please contact us and we will review whether it is possible to do this with you.
 ```
 
-You can also cancel your subscription. If you do so, you will keep access to the CMS until the end of your billing period (this can mean that you may lose access within a day, if your billing period ends the next day). While your billing period has not ended, you can come here to re-activate your subscription.
+You can also cancel your subscription. If you do so, you will keep access to the website builder until the end of your billing period (this can mean that you may lose access within a day, if your billing period ends the next day). While your billing period has not ended, you can come here to re-activate your subscription.
 
 ## Missed Payments
 

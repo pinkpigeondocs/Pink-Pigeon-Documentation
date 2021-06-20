@@ -31,7 +31,7 @@ Your preview site will update itself as soon as you modify your site. For exampl
 
 It will do this on all devices that you are currently viewing your site on. This allows for very rapid development of your websites on multiple devices. For example, you could open your preview site on a mobile, tablet and a desktop computer at the same time, and immediately see your changes happening on all devices in realtime. 
 
-Even when editing your website on just one screen, you could have the CMS in one narrow browser window, and your website next to it, like this:
+Even when editing your website on just one screen, you could have the website builder in one narrow browser window, and your website next to it, like this:
 
-![Image of the preview side by side with cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/7_Previews/images/preview_side_by_side.png)
+![Image of the preview side by side with website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/7_Previews/images/preview_side_by_side.png)
 

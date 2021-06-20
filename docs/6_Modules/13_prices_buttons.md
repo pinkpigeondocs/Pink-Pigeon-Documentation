@@ -48,7 +48,7 @@ The Prices - Buttons module allows you to change the background colour and text 
 
 ## Price List Buttons
 
-![Image of the Prices - Buttons module list items in cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_cms.png)
+![Image of the Prices - Buttons module list items in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_cms.png)
 
 You may add up to 8 buttons to your price list. Items without either a description or file will not show.
 

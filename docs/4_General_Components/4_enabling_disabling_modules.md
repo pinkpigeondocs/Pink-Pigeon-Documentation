@@ -13,5 +13,5 @@ Don't forget to save your module, otherwise the change will not apply.
 ```
 
 ```tip
-Keep a window with your website's preview open next to your window with the CMS in it and see this change happen in realtime!
+Keep a window with your website's preview open next to your window with the website builder in it and see this change happen in realtime!
 ```

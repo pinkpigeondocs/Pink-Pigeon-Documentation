@@ -24,7 +24,7 @@ The registration email will include a registration link, but you should already 
 
 Here you are also able to opt in or out of future email communications. By signing up you will receive the latest Pink Pigeon information and special offers. Don't worry, we will never share your details with a third party, and you can unsubscribe at any time.
 
-Once you have registered, the system will automatically log you in and you can get started using the CMS right away!
+Once you have registered, the system will automatically log you in and you can get started using the website builder right away!
 
 Next, we will show you the login screen.
 

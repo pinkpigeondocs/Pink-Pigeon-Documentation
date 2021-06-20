@@ -10,7 +10,7 @@ The website essentials are a collection of settings that affect the most basic p
 
 ## Colour Palette
 
-Here you may define up to 12 colours to be used with your website. If you change a colour, it will automatically be changed on the whole website. For example, where it says "ffffff", this is the so-called [hex-code][hex] for the colour white. (You can read more about hex codes [here][hex]. If you want to find hex colours, [this website][hexweb] is quite useful), if you were to change this to another colour, all parts of the website using this white field, will change to the new colour you have assigned. (If you have two white fields in your colour palette, only the one specifically assigned to elements in the CMS changes.)
+Here you may define up to 12 colours to be used with your website. If you change a colour, it will automatically be changed on the whole website. For example, where it says "ffffff", this is the so-called [hex-code][hex] for the colour white. (You can read more about hex codes [here][hex]. If you want to find hex colours, [this website][hexweb] is quite useful), if you were to change this to another colour, all parts of the website using this white field, will change to the new colour you have assigned. (If you have two white fields in your colour palette, only the one specifically assigned to elements in the website builder changes.)
 
 If you are interested in getting colour palettes, [this site](https://coolors.co/) is a great resource.
 
@@ -86,7 +86,7 @@ The footer section looks as follows:
 
 ![Image of the footer section within Essentials, rollover colour](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/rollover_colour.png)
 
-- **Company Details:** In the UK, these are the typical three pieces of information, included on most companies' websites. E.g. the company name, which countries the company was incorporated in and what the company number is. If either of these fields does not contain any text, the CMS will remove that line and close the space it left automatically. The final result online looks like this: ![Image of the company details section, within the footer section within Essentials, but on the pink pigeon website](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_company_details_on_pp_website.png)
+- **Company Details:** In the UK, these are the typical three pieces of information, included on most companies' websites. E.g. the company name, which countries the company was incorporated in and what the company number is. If either of these fields does not contain any text, the website builder will remove that line and close the space it left automatically. The final result online looks like this: ![Image of the company details section, within the footer section within Essentials, but on the pink pigeon website](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_company_details_on_pp_website.png)
 
 - **(Gold Users Only) PP Footer Credit:** If you are a gold user, you can choose to remove the Pink Pigeon Site Builder note in your site's footer.
 

@@ -73,7 +73,7 @@ On desktop resolutons, this field has a height limitation, to ensure clean layou
 
 
 ```tip
-You can leave any text field blank, and the CMS will adjust the layout to make the remaining text elements fit. You could even leave all text out, if desired.
+You can leave any text field blank, and the website builder will adjust the layout to make the remaining text elements fit. You could even leave all text out, if desired.
 ```
 
 - **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.

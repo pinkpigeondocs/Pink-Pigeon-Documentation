@@ -18,4 +18,4 @@ You may save your changes by selecting one of the 'save' buttons.
 
 "Save & Exit" will take you back to the page you were on prior to selecting a module to edit.
 
-"Save" will save the module with all recent changes made, while staying on the same page, which is very useful if you are using the CMS in one window, while having your website preview open in another window, allowing for realtime feedback on your edits.
+"Save" will save the module with all recent changes made, while staying on the same page, which is very useful if you are using the website builder in one window, while having your website preview open in another window, allowing for realtime feedback on your edits.

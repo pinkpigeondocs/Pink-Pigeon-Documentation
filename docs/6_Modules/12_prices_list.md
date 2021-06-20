@@ -52,13 +52,13 @@ The Prices - List module allows you to change the background colour and text col
 
 Here you can enable / disable images for your price list.
 
-**Images Enabled - CMS Example**
+**Images Enabled - Website Builder Example**
 
-![Image of the prices - list module 'with images' images enabled in CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_enabled.png)
+![Image of the prices - list module 'with images' images enabled in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_enabled.png)
 
-**Images Disabled - CMS Example**
+**Images Disabled - Website Builder Example**
 
-![Image of the prices - list module 'with images' images disabled in CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_disabled.png)
+![Image of the prices - list module 'with images' images disabled in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_with_images_disabled.png)
 
 **Images Enabled - Online Example**
 

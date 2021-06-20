@@ -42,7 +42,7 @@ Please note that this is a rich text field. More info on that [here](https://pin
 On desktop resolutons, this field has a height limitation, to ensure clean layouts, which is why the character limit is 450.
 
 ```tip
-You can leave any text field blank, and the CMS will adjust the layout to make the remaining text elements fit. You could even leave all text out, if desired.
+You can leave any text field blank, and the website builder will adjust the layout to make the remaining text elements fit. You could even leave all text out, if desired.
 ```
 
 - **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.

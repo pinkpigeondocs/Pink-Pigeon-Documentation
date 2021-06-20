@@ -16,7 +16,7 @@ Notifications are displayed at the top of the page. You can close them by select
 
 ## The Pink Pigeon Logo
 
-In the top left corner you can see our Pink Pigeon logo, which will always take you back to this screen, from anywhere within the CMS.
+In the top left corner you can see our Pink Pigeon logo, which will always take you back to this screen, from anywhere within the website builder.
 
 ![Image of the home screen, Pink Pigeon highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/images/home_pink_pigeon_logo.png)
 
@@ -51,7 +51,7 @@ Please note that "Home" is a mandatory page, as every website needs to have a "H
 
 ![Image of the pink pigeon website, page names highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/3_Home_Screen/images/pp_website_nav_example.png)
 
-As you can see, neither their order, nor whether the item is shown at all, matches with what the CMS shows. That is because these items are fully configurable. For a how-to, feel free to go to [the navigation section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#menu-and-navigation).
+As you can see, neither their order, nor whether the item is shown at all, matches with what the website builder shows. That is because these items are fully configurable. For a how-to, feel free to go to [the navigation section](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/#menu-and-navigation).
 
 ## The preview button
 

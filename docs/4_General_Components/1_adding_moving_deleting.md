@@ -13,7 +13,7 @@ This component deals with all pages and modules that offer the functionality to 
 
 ## On Mobile
 
-All of our components have a slightly different look on mobile devices. This is necessary due to the limited screen size available on mobiles. We never remove any functionality, meaning the CMS stays just as functional on mobile as it is on desktop, but things will shift around to accommodate this:
+All of our components have a slightly different look on mobile devices. This is necessary due to the limited screen size available on mobiles. We never remove any functionality, meaning the website builder stays just as functional on mobile as it is on desktop, but things will shift around to accommodate this:
 
 ![Image of Menu Items, within Menu and Navigation, for advanced users, on mobile](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_mobile.png)
 
@@ -22,7 +22,7 @@ All of our components have a slightly different look on mobile devices. This is 
 
 ![Image of the add / move / remove component, 'add' highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_nav_example_add_highlighted.png)
 
-Selecting the 'Add' button will immediately create a new list item, which will not have any information pre-filled. Most of the time, this item will not be shown by the CMS until its most essential information has been filled in.
+Selecting the 'Add' button will immediately create a new list item, which will not have any information pre-filled. Most of the time, this item will not be shown by the website builder until its most essential information has been filled in.
 
 ## Moving
 
@@ -69,5 +69,5 @@ Once you have chosen your items to delete, select the (now enabled) delete butto
 ![Image of the 'delete' state, delete enabled](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_delete_enabled.png)
 
 ```danger
-The CMS will not warn you before deleting list items, so make sure you really want to delete them
+The website builder will not warn you before deleting list items, so make sure you really want to delete them
 ```

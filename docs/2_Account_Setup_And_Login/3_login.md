@@ -10,7 +10,7 @@ If you are not already logged into the system, the first thing you will see at h
 
 ![Image of the login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/2_Account_Setup_And_Login/images/login_screen.png)
 
-Once you have completed registration (as described above), you may use the email address for your account and the password you chose, to login. Once logged in, your login is valid indefinitely (and therefore it is important to not forget to logout when using public computers, or any device that is not your own personal device) and in one place only. Thus, should you login on your desktop computer and shortly after on your mobile phone, the desktop will be logged out once you come back to the CMS on there.
+Once you have completed registration (as described above), you may use the email address for your account and the password you chose, to login. Once logged in, your login is valid indefinitely (and therefore it is important to not forget to logout when using public computers, or any device that is not your own personal device) and in one place only. Thus, should you login on your desktop computer and shortly after on your mobile phone, the desktop will be logged out once you come back to the website builder on there.
 
 Should you have forgotten your password, you may reset it by selecting ["Forgot your password?"](https://cms.pinkpigeon.co.uk/forgot).
 

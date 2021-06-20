@@ -59,13 +59,13 @@ Deleting lines from the optional columns is done via the checkboxes next to the 
 
 At the moment we support adding up to 6 different social icons. You have a choice of 18 platforms at the moment ("500px", "Behance", "Email", "Facebook", "Facebook Messenger", "IMDB", "Instagram", "LinkedIn", "Phone", "Pinterest", "Skype", "Spotlight", "Telegram", "Tripadvisor", "Twitter", "Vimeo", "Whatsapp", "Youtube").
 
-**Here they are in the CMS:**
+**Here they are in the website builder:**
 
-![Image of the find us module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_cms.png)
+![Image of the find us module social icons in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_cms.png)
 
 **Here they are online:**
 
-![Image of the find us module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_social_icons.png)
+![Image of the find us module social icons in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/5_find_us_social_icons.png)
 
 - **500px:**
 

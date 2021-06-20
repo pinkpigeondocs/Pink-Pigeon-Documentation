@@ -4,11 +4,9 @@ sort: 1
 
 # What is a CMS?
 
-CMS stands for Content Management System.
+A CMS is a website builder. CMS stands for Content Management System.
 
 This is the term commonly used for any type of software or application (most commonly used via the internet) which allows you to manage your website.
-
-Sometimes we call it the Pink Pigeon Website Builder & CMS, as that more accurately describes what we are providing to our customers.
 
 The following documentation aims to describe every bit of functionality we offer.
 

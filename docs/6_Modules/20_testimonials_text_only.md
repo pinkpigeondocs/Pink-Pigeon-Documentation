@@ -24,39 +24,39 @@ A testimonial item consists of the following items:
 
 - **Header**
 
-![Image of a testimonials item - header text in cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_header_text_cms.png)
+![Image of a testimonials item - header text in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_header_text_cms.png)
 
 ![Image of a testimonials item - header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_header_text_online.png)
 
 
 - **Body Text**
 
-![Image of a testimonials item - body text in cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_body_text_cms.png)
+![Image of a testimonials item - body text in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_body_text_cms.png)
 
 ![Image of a testimonials item - body text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_body_text_online.png)
 
 
 - **Customer**
 
-![Image of a testimonials item - customer text in cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_customer_text_cms.png)
+![Image of a testimonials item - customer text in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_customer_text_cms.png)
 
 ![Image of a testimonials item - customer text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/20_testimonials_text_only_customer_text_online.png)
 
 ## Auto Scroll:
 
-![Image of the testimonial module's auto scroll option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_auto_scroll_cms.png)
+![Image of the testimonial module's auto scroll option in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_auto_scroll_cms.png)
 
 The testimonials module scrolls through testimonials at a 4 second interval by default. This can be turned off.
 
 ## Scroll Interval:
 
-![Image of the testimonial module's scroll interval option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_scroll_interval_cms.png)
+![Image of the testimonial module's scroll interval option in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_scroll_interval_cms.png)
 
 This is the scroll interval in milliseconds.
 
 ## Quotation Marks
 
-![Image of the testimonial module's quotation marks option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_quotation_marks_cms.png)
+![Image of the testimonial module's quotation marks option in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_quotation_marks_cms.png)
 
 This allows for control over the quotation marks, shown here:
 

@@ -41,9 +41,9 @@ It is still a good idea to limit the amount of text somewhat, as the design of t
 
 ## Bio Fields
 
-These are the double columns within the Bio module. Here is the CMS view:
+These are the double columns within the Bio module. Here is the website builder view:
 
-![Image of the bio module fields in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_fields_cms.png)
+![Image of the bio module fields in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_fields_cms.png)
 
 As you can see, these correspond to the text columns online:
 
@@ -66,13 +66,13 @@ It is still a good idea to limit the amount of text somewhat, as the design of t
 
 At the moment we support adding up to 6 different social icons. You have a choice of 18 platforms at the moment ("500px", "Behance", "Email", "Facebook", "Facebook Messenger", "IMDB", "Instagram", "LinkedIn", "Phone", "Pinterest", "Skype", "Spotlight", "Telegram", "Tripadvisor", "Twitter", "Vimeo", "Whatsapp", "Youtube").
 
-**Here they are in the CMS:**
+**Here they are in the website builder:**
 
-![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_cms.png)
+![Image of the bio module social icons in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_cms.png)
 
 **Here they are online:**
 
-![Image of the bio module social icons in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_online.png)
+![Image of the bio module social icons in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icons_online.png)
 
 - **500px:**
 
@@ -193,7 +193,7 @@ The Bio module allows you to change the background colour and text colour of the
 
 ...as well as the rollover colour of the social icons.
 
-![Image of the bio module social icons rollover colour in the CMS](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icon_rollover.png)
+![Image of the bio module social icons rollover colour in the website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/2_bio_social_icon_rollover.png)
 
 
 

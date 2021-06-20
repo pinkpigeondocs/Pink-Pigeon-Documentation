@@ -2,16 +2,16 @@
 sort: 2
 ---
 
-# What makes our CMS stand out?
+# What makes our Website Builder stand out?
 
 ![Image of the Pink Pigeon logo](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/pp_logo.png)
 
 ## In short
 
 - [Realtime, multi-device previews](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/1_guide_to_previews.html#realtime-previews)
-- Safety (as per Mozilla Observatory)
+- Safety (No databases here)
 - Speed (our sites are leaner, faster, more optimised than what any other website builder can achieve)
-- Mobile optimised ease of use (Squarespace, Wix, Wordpress and the likes will tell you they about mobile optimisations, but they are just not as usable as our CMS)
+- Mobile optimised ease of use (Squarespace, Wix, Wordpress and the likes will tell you they about mobile optimisations, but they are just not as usable as ours)
 
 ## How are you different from Wordpress, etc.?
 

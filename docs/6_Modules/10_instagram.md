@@ -52,7 +52,7 @@ If you have not connected your Instagram feed, this is where you can do it. Here
 - If everything went well, your Instagram module's edit page will show you the token that has been exchanged with Instagram: ![Image of the instagram token](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/10_instagram_token.png)
 
 ```tip
-Once this connection has been made, you do not need to do anything else to 'refresh' the connection. The CMS handles this automatically. Additionally, if you delete and add another Instagram module, the CMS will remember the original connection, so you do not have to reconnect.
+Once this connection has been made, you do not need to do anything else to 'refresh' the connection. The website builder handles this automatically. Additionally, if you delete and add another Instagram module, the website builder will remember the original connection, so you do not have to reconnect.
 ```
 
 

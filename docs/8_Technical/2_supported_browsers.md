@@ -8,7 +8,7 @@ We support most desktop and mobile web browsers for viewing and editing your sit
 
 Our fully supported browser list means your site will work for most people, however anyone on an older browser will receive a prompt to update their browser to something that we do support (which is safer and better for them for all online browsing).
 
-You can use the CMS and your website across the following browsers and devices:
+You can use the website builder and your website across the following browsers and devices:
 
 - **Chrome:** Supported for Windows, Mac and Linux, from version 80 upwards
 - **Firefox:** Supported for Windows, Mac and Linux, from version 72 upwards
