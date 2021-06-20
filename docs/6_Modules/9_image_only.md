@@ -4,6 +4,8 @@ sort: 9
 
 # Image Only
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/563894285?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ![Image of the image only module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/9_image_only_online.png)
 
 This module displays one image, nothing else.
@@ -12,6 +14,7 @@ This module displays one image, nothing else.
 
 There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/563890684?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Enabling / Disabling
 

@@ -4,6 +4,8 @@ sort: 10
 
 # Instagram
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/563888498?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ![Image of the instagram module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/10_instagram_online.png)
 
 This is an unlimited-height module, which can be used as a full-page image gallery, connecting via your Instagram feed.

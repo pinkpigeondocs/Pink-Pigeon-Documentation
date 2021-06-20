@@ -4,6 +4,8 @@ sort: 11
 
 # Map
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/563886561?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ![Image of the image map module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/11_map_online.png)
 
 The Map module lets you add a map to your site.
@@ -11,6 +13,8 @@ The Map module lets you add a map to your site.
 ## Grid Version
 
 There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
+
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/563885777?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ## Enabling / Disabling
 

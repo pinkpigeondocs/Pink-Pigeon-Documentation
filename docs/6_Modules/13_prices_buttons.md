@@ -4,6 +4,8 @@ sort: 13
 
 # Prices - Buttons
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/563883852?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ![Image of the prices buttons module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/13_prices_buttons_online.png)
 
 The Prices - Buttons module lets you compose a list of downloadable files, such as .PDF menus or price lists.

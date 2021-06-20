@@ -4,6 +4,8 @@ sort: 12
 
 # Prices - List
 
+<iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/563882507?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ![Image of the prices list module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/12_prices_list_online.png)
 
 The Prices - List module lets you compose a price list, either with images or without them.
