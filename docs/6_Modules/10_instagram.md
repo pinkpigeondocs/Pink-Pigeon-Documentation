@@ -33,11 +33,11 @@ The Instagram module respects the [grid-gap value](https://pinkpigeondocs.github
 
 You may limit the number of images to display from your feed. (Images are in most-recent to least-recent order.)
 
-## Max Columns
+<!-- ## Max Columns
 
 ![Image of the instagram module max columns option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/10_instagram_max_columns.png)
 
-You can decide the number of columns the Instagram module shows at the largest screen-width (1200px and above). In this case, 6 columns.
+You can decide the number of columns the Instagram module shows at the largest screen-width (1200px and above). In this case, 6 columns. -->
 
 ## Connect Instagram
 
