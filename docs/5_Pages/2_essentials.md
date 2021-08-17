@@ -66,6 +66,31 @@ For any pages of your site, the page's name will be appended to the site title.
 
 This is a (short) bit of copy, which is used by Google and other search engines to show what your page is about in the search results. For our own website, it looks like this on Google (This bit of text will never be visible to visitors of your website, it is exclusively used by search engines.): ![Image of meta description from the footer section within Essentials, on Google](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_meta_description.png)
 
+## Social Share Settings
+
+![Image of social share settings in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_social_share_settings.png)
+
+- **Social Share Image:**
+
+This is the image which is shown when someone shares your site on Facebook, Twitter, Telegram, etc.
+Here is an example of what this looks like on a few different platforms:
+
+![Image of a social share on Facebook](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_og_share.png)
+
+- **OG Title:**
+
+This is the title to be shown as part of social shares:
+
+![Image of a social share on Facebook, showing title](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_og_share_title.png)
+
+
+- **OG Description:**
+
+This is the description to be shown as part of social shares:
+
+![Image of a social share on Facebook, showing description](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_og_share_description.png)
+
+
 ## Footer
 
 
