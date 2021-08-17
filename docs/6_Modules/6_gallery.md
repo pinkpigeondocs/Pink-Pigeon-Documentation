@@ -11,6 +11,10 @@ sort: 6
 
 The gallery module lets you add up to 8 images into a so-called image carousel, which can be swiped on mobile (or visitors to your site can use the provided buttons to select the images).
 
+## Grid Version
+
+There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
+
 ## Enabling / Disabling
 
 Like all modules, this module can be enabled / disabled. Please see the [corresponding section of the documentation][endis] to find out more about this functionality.
@@ -67,6 +71,8 @@ You may customise the background colour shown when using 'scale down' as an imag
 
 ![Image of the gallery module's marker options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_marker_options.png)
 
+- **Enabled / Disabled:** You can turn off the markers entirely, if desired.
+
 - **Background Style:** There are three options for the marker backgrounds. None: ![Image of the gallery module's marker option 'transparent background'](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_markers_transparent_background.png) / opaque (with a customisable background colour): ![Image of the gallery module's marker option 'transparent background'](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_markers_opaque_background.png) and 'gradient', which you can see above.
 
 - **Dot Colour:** This allows you to change the colour of the dots in their initial state (in above images, that is white).
@@ -75,7 +81,20 @@ You may customise the background colour shown when using 'scale down' as an imag
 
 - **Dot Rollover Colour:** This is the colour of any dot that the user's mouse is hovering over.
 
+## Arrow Options
 
+![Image of the gallery module's navigation arrow options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_arrows.png)
+
+- **Show Arrows:**
+
+You can enable or disable the arrows. Here is an example without arrows:
+
+![Image of the gallery module with disabled arrows](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_online_no_arrows.png)
+
+
+- **Arrow Colour:**
+
+![Image of the gallery module's navigation arrows online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_online_arrows.png)
 
 ```tip
 Please do not forget to hit one of the [save](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/3_bottom_bar_modules.html#saving-changes) buttons, to make sure the changes you have made are actually saved. Why not keep a window with your [preview](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/7_Previews/) open, to see the changes in realtime?
