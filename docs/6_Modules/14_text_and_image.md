@@ -10,7 +10,7 @@ The Text and Image module is one of our most used modules. That is because most 
 
 ## Grid Version
 
-There is a variant of this module.
+There is a [grid](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/7_grids.html) variant of this module.
 
 ## Enabling / Disabling
 

@@ -4,13 +4,9 @@ sort: 25
 
 # Text and Gallery
 
-The Text and Image module is one of our most used modules. That is because most content online is just that: Pictures with accompanying text. Please see an example below:
+The Text and Gallery module combines an image gallery with a text panel. The images change, but the text remains the same. See an example below:
 
-![Image of the text and image module, feature singlet](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_online.png)
-
-## Grid Version
-
-There is a variant of this module.
+![Image of the text and gallery module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/25_text_and_gallery_online.png)
 
 ## Enabling / Disabling
 
@@ -20,15 +16,15 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 ## Text Panel
 
-![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel.png)
+![Image of the text panel of a text and gallery module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel.png)
 
-- **Header Text:** This is the header within a text and image module:
+- **Header Text:** This is the header within a text and gallery module:
 
-![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_header.png)
+![Image of the text panel of a text and gallery module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_header.png)
 
-- **Body Text:** This is the body text within a text and image module:
+- **Body Text:** This is the body text within a text and gallery module:
 
-![Image of the text panel of a text and image module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_body.png)
+![Image of the text panel of a text and gallery module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/14_text_and_image_text_panel_body.png)
 
 Please note that this is a rich text field. More info on that [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html).
 On desktop resolutons, this field has a height limitation, to ensure clean layouts, which is why the character limit is 450.
@@ -37,10 +33,10 @@ On desktop resolutons, this field has a height limitation, to ensure clean layou
 You can leave any text field blank, and the website builder will adjust the layout to make the remaining text elements fit. You could even leave all text out, if desired.
 ```
 
-- **Background / Font Colour:** You can control the background colour and text colour of text and image modules using these controls.
+- **Background / Font Colour:** You can control the background colour and text colour of text and gallery modules using these controls.
 
 ```tip
-If a small or large module-gap was selected, the text and image module takes this into account, see [Module Spacing in Essentials](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/5_Pages/1_essentials.html#advanced-users-module-spacing) for more information.
+If a small or large module-gap was selected, the text and gallery module takes this into account, see [Module Spacing in Essentials](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/5_Pages/1_essentials.html#advanced-users-module-spacing) for more information.
 ```
 
 
