@@ -126,7 +126,7 @@ Here you may define a date range for when your properties are not available. The
 ![Image of the calendar - hotel bookings module, showing the colour options in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_colours_in_cms_2.png)
 ![Image of the calendar - hotel bookings module, showing the colour options in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_colours_in_cms_3.png)
 
-There are
+There are 14 customisable colour options available for the calendar module.
 
 - **Sidebar Background:**
 ![Image of the calendar - hotel bookings module, showing the sidebar background colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_sidebar_background.png)
