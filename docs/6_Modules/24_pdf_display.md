@@ -47,46 +47,52 @@ The PDF List module allows you to change the background colour and text colour o
 
 ## With Images
 
-![Image of the  PDF List module connect calendar option in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the PDF List module 'with images' option in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
 
 
 ## Show Blurb
 
-![Image of the  PDF List module, showing the property type option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the PDF List module, showing the 'show blurb' option in the cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
 
 
 
 ## Image Outline
 
-![Image of the  PDF List module, showing the calendars in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the PDF List module, showing the image outline option in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
 
 ## PDF List Items
 
-- **Calendar Name:**
+![Image of the  PDF List module, showing the list items in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
 
-![Image of the  PDF List module, showing the calendar name in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+- **Image:**
 
+- **Select File:**
+
+- **Item Name:**
+
+- **Full Text:**
+
+- **Image Alt Text:**
 
 ## Image Outline Colours
 
-![Image of the  PDF List module, showing the checkin days in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
-
+![Image of the PDF List module, showing the image outline colours in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
 
 
 ## List Item Colours
 
-![Image of the  PDF List module, showing the unavailable dates in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the  PDF List module, showing the list item colours in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
 
 
 ## Chevron Colours
 
-![Image of the  PDF List module, showing the colour options in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the  PDF List module, showing the chevron colour options in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
 
 
 
 ## Search Bar Colours
 
-![Image of the  PDF List module, showing the lower body text in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the  PDF List module, showing the search bar colours in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
 
 
 
