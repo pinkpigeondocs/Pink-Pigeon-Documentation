@@ -139,12 +139,15 @@ This is the image alt text, which should be an accurate, short description of th
 ![Image of the PDF List module, showing the search bar colour settings in cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/24_pdf_list_cms_search_bar_colours.png)
 
 - **Search Bar Font Colour:**
+
 ![Image of the PDF List module, showing the search bar font colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/24_pdf_list_online_search_bar_font.png)
 
 - **Search Bar Outline Colour:**
+
 ![Image of the PDF List module, showing the search bar outline colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/24_pdf_list_online_search_bar_outline.png)
 
 - **Search Bar Outline Selected Colour:**
+
 ![Image of the PDF List module, showing the search bar outline selected colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/24_pdf_list_online_search_bar_outline_focus.png)
 
 
