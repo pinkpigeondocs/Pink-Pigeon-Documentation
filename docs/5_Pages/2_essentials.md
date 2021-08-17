@@ -64,7 +64,9 @@ For any pages of your site, the page's name will be appended to the site title.
 
 - **Meta Description:**
 
-This is a (short) bit of copy, which is used by Google and other search engines to show what your page is about in the search results. For our own website, it looks like this on Google (This bit of text will never be visible to visitors of your website, it is exclusively used by search engines.): ![Image of meta description from the footer section within Essentials, on Google](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_meta_description.png)
+This is a (short) bit of copy, which is used by Google and other search engines to show what your page is about in the search results. For our own website, it looks like this on Google (This bit of text will never be visible to visitors of your website, it is exclusively used by search engines.):
+
+![Image of meta description from the footer section within Essentials, on Google](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_footer_meta_description.png)
 
 ## Social Share Settings
 
