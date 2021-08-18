@@ -105,15 +105,13 @@ You may choose whether to indicate required fields with the asterisk, or not.
 
 ## Legal Confirmations
 
-![Image of the contact module's legal confirmations](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations.png)
+![Image of the email signup module's legal confirmations](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations.png)
 
-The legal confirmations are part required (for GDPR reasons) and part optional. Legally, you cannot gather the information people submit as part of contact forms without first making your visitors confirm that they are happy for you to do so.
+The legal confirmations are part required (for GDPR reasons) and part optional. Legally, you cannot gather the information people submit as part of email signup forms without first making your visitors confirm that they are happy for you to do so.
 
-![Image of the contact module's legal confirmations online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations_online.png)
+![Image of the email signup module's legal confirmations online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_online_legal_confirmation.png)
 
 The 'submit' button of the form will only become enabled once all required legal confirmations have been checked. (The opacity of the submit button changes, to indicate this to your visitors.)
-
-![Image of the contact module's legal confirmations checked](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations_checked_online.png)
 
 
 ## Input Field Colours

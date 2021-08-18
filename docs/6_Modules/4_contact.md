@@ -84,6 +84,12 @@ Here it is online:
 If you have enabled the preferred contact method option, double check that you have form-fields corresponding to 'email' and 'phone number'.
 ```
 
+## Requirement Asterisk
+
+![Image of the email signup module's form input options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_form_fields_in_cms_requirement_asterisk.png)
+
+You may choose whether to indicate required fields with the asterisk, or not.
+
 ## Legal Confirmations
 
 ![Image of the contact module's legal confirmations](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_legal_confirmations.png)
