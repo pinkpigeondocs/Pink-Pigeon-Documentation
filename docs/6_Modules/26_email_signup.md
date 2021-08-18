@@ -6,7 +6,7 @@ sort: 26
 
 The email signup module allows you to connect your mailchimp account with your website, so that visitors can signup to your newsletter.
 
-![Image of the email signup module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the email signup module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_online.png)
 
 ## Enabling / Disabling
 
@@ -15,10 +15,23 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
 ## (Re-)Connect
+![Image of the email signup module's reconnect option in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_reconnect_in_cms.png)
 
 In order to connect your mailchimp account with the CMS, you will need to follow the login steps which are shown once you click 'Open Connection Window'.
 
+- **Mailchimp Login Screen:**
+
+![Image of the email signup module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_reconnect_mailchimp_one.png)
+
+- **Mailchimp Authorisation Screen:**
+
+![Image of the email signup module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_reconnect_mailchimp_two.png)
+
+Here you will need to select 'Allow', for the website builder to connect with your MailChimp account. After this, you will be taken back to the website builder.
+
 ## Form Name
+
+![Image of the email signup module's form name option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_form_name_in_cms.png)
 
 This lets you define a name for your newsletter signup form. When the website builder sends you an email to tell you that someone signed up, this is the form name that will be included in the email. If, for example, you had a newsletter signup in multiple places, you could then differentiate between the different email signup modules by giving them individual names.
 
@@ -28,7 +41,7 @@ This lets you define a name for your newsletter signup form. When the website bu
 
 This is the header text in the Email Signup module. Here it is online:
 
-![Image of the prices list module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the prices list module header text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_online_header_text.png)
 
 ## Body Text
 
@@ -38,7 +51,7 @@ This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_Ge
 
 Here it is in the module:
 
-![Image of the prices list module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+![Image of the prices list module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_online_body_text.png)
 
 This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html) body text input **without** a character limit.
 
@@ -48,18 +61,34 @@ It is still a good idea to limit the amount of text somewhat, as the design of t
 
 ## Form Fields
 
-![Image of the contact module form fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_form_fields.png)
+![Image of the contact module form fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_form_fields_in_cms.png)
 
-**Each item consists of four items:**
+Each item has four fields:
 
-- The type of form field, which can be Name, Email, Phone Number, Date, Message, Optional (Text), Time.
-- Whether the field will be required (marked by an asterisk), or not. ![Image of the email signup module asterisks online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+- **Type:**
 
+![Image of the contact module form fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_form_fields_type_in_cms.png)
 
-- Whether the field will be half-width or full-width. The form in this tutorial has two half-width fields (Name / Email) and two full-width fields (Phone / Message). This allows for composing fields according to the amount of text they are expected to hold, or simply aesthetics.
-- The label of the field, e.g. what it will be called in the form, visible to the user.
+This can be Email, First Name, Last Name, Phone Number, Address.
 
-![Image of the email signup fields online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/.png)
+- **Optional / Required:**
+
+![Image of the contact module form fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_form_fields_optional_in_cms.png)
+
+This lets you mark a field with an asterisk (\*) to show it is required.
+
+- **Width:**
+
+![Image of the contact module form fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_form_fields_width_in_cms.png)
+
+Any input fields can be defined as half or full-width. With half-width fields, make sure to have two of them next to each other, otherwise the other half will be empty in the module.
+
+- **Label:**
+
+![Image of the contact module form fields](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/26_email_signup_form_fields_label_in_cms.png)
+
+You can give your fields custom names here.
+
 
 ## Colours
 
