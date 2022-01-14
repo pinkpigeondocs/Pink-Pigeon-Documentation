@@ -66,6 +66,46 @@ Next, Google will ask for permissions. Please make sure to mark each checkbox as
 
 ![Image of the calendar - hotel bookings module, showing the permissions screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_connect_calendar_google_two.png)
 
+## Adding Calendars
+
+Go to https://calendar.google.com/ and open the settings menu
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_settings_btn.png)
+
+Click 'settings'
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_settings_menu_item.png)
+
+Within settings, click on 'Add calendar' and then 'Create new calendar'. Add a name and description, then click 'create calendar'
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_create_new_calendar.png)
+
+### Adding Bookings
+
+On the same view, click in the area marked in red for any day that you would like to create a booking for.
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_click_to_add_new.png)
+
+This opens a dialog for creating new events. Click on the indicated area below to open additional options for the event.
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_expand_options.png)
+
+ First assign the event to the right calendar, by clicking the list of calendars.
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_select_calendar.png)
+
+Next, click on the item that says 'free'
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_click_free.png)
+
+Here, select 'busy'. This is very important, otherwise the event won't show in the availability module.
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_click_busy.png)
+
+Enter a name for your event and click 'save'. This will automatically show the event within the module. (The events are updated twice a day, so it can take a little while to show.)
+
+![Image of the calendar - hotel bookings module, showing Google's login screen](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_enter_name_save.png)
+
 
 ## Property Type
 
