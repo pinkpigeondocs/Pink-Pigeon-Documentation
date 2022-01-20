@@ -161,11 +161,13 @@ Here you may define a date range for when your properties are not available. The
 
 ## Weekend Options
 
-### **Show:**
+![Image of the calendar - hotel bookings module, showing the weekend options in cms](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_weekend_options.png)
+
+### Show:
 
 You can turn the option to show weekends on or off.
 
-### **Weekend Colour:**
+### Weekend Colour:
 
 ![Image of the calendar - hotel bookings module, showing the weekend colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_weekend_colour.png)
 
