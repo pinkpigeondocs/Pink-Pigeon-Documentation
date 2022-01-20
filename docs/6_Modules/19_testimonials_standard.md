@@ -96,6 +96,17 @@ The Text Only module allows you to change the background colour and text colour 
 
 - **Dot Rollover Colour:** This is the colour of any dot that the user's mouse is hovering over.
 
+## Navigation Arrows
+
+![Image of the module's arrow options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_navigation_arrows_cms.png)
+
+- **Show Arrows:** This option allows you to turn on or off the navigation arrows of the testimonial module.
+
+![Image of the module's arrow options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_navigation_arrows_online.png)
+
+- **Arrow Colour:** You may specify the colour of the arrows to your liking.
+
+
 ## On Mobile
 
 The testimonials module changes shape on mobile, to stack vertically, with the markers being placed in the middle.
