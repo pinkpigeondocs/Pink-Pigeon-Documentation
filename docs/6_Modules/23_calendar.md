@@ -159,6 +159,17 @@ Here you may define a date range for when your properties are not available. The
 
 ![Image of the calendar - hotel bookings module, showing the unavailable dates online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_unavailable_online.png)
 
+## Weekend Options
+
+### **Show:**
+
+You can turn the option to show weekends on or off.
+
+### **Weekend Colour:**
+
+![Image of the calendar - hotel bookings module, showing the weekend colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_weekend_colour.png)
+
+You can define the colour that weekends are highlighted with.
 
 ## Calendar Grid Colours
 
@@ -205,26 +216,16 @@ There are 14 customisable colour options available for the calendar module.
 ![Image of the calendar - hotel bookings module, showing the date bar background colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_date_bar_background.png)
 
 
-
 - **Date Bar Font:**
 ![Image of the calendar - hotel bookings module, showing the date bar font colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_date_bar_font.png)
-
-
 
 
 - **Booked Colour:**
 ![Image of the calendar - hotel bookings module, showing the booked colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_booked_colour.png)
 
 
-
 - **Available Colour:**
 ![Image of the calendar - hotel bookings module, showing the available colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_available_colour.png)
-
-
-
-- **Weekend Colour:**
-![Image of the calendar - hotel bookings module, showing the weekend colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_weekend_colour.png)
-
 
 
 - **Check-in Colour:**
