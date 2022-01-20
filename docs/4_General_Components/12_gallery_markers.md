@@ -20,18 +20,15 @@ sort: 12
 
 ## Navigation Arrows
 
-![Image of the gallery module's navigation arrow options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_arrows.png)
+Below is an example of what the navigation arrows may look like for the testimonials module. The mechanics are the same for all gallery-based modules.
 
-- **Show Arrows:**
+![Image of the module's arrow options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_navigation_arrows_cms.png)
 
-You can enable or disable the arrows. Here is an example without arrows:
+- **Show Arrows:** This option allows you to turn on or off the navigation arrows of the testimonial module.
 
-![Image of the gallery module with disabled arrows](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_online_no_arrows.png)
+![Image of the module's arrow options](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/19_testimonials_standard_navigation_arrows_online.png)
 
-
-- **Arrow Colour:**
-
-![Image of the gallery module's navigation arrows online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/6_gallery_online_arrows.png)
+- **Arrow Colour:** You may specify the colour of the arrows to your liking.
 
 
 
