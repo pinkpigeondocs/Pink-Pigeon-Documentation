@@ -153,11 +153,26 @@ Here you may define a day for checkin times. If you do not choose one, the eleme
 
 ## Unavailable Dates
 
-![Image of the calendar - hotel bookings module, showing the unavailable dates in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_unavailable_in_cms.png)
+![Image of the calendar - hotel bookings module, showing the unavailable dates in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_unavailable_options.png)
 
 Here you may define a date range for when your properties are not available. The selected date range will be highlighted with a customised colour.
 
 ![Image of the calendar - hotel bookings module, showing the unavailable dates online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_unavailable_online.png)
+
+### Show Unavailable Days
+
+This option turns on or off the ability to display unavailable days.
+
+### Unavailable Dates
+
+You may add multiple ranges of dates when you are not available for bookings.
+
+### Unavailable Colour
+
+You may define the colour for your unavailable dates.
+
+![Image of the calendar - hotel bookings module, showing the unavailable colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_unavailable_colour.png)
+
 
 ## Weekend Options
 
@@ -184,59 +199,38 @@ There are 14 customisable colour options available for the calendar module.
 - **Sidebar Background:**
 ![Image of the calendar - hotel bookings module, showing the sidebar background colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_sidebar_background.png)
 
-
-
 - **Sidebar Font Colour:**
 ![Image of the calendar - hotel bookings module, showing the sidebar font colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_sidebar_font.png)
-
-
 
 - **Grid Line Colour:**
 ![Image of the calendar - hotel bookings module, showing the grid line colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_grid_colour.png)
 
-
-
 - **Month Bar Background:**
 ![Image of the calendar - hotel bookings module, showing the month bar background colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_month_bar_background.png)
-
-
 
 - **Month Bar Font:**
 ![Image of the calendar - hotel bookings module, showing the month bar font colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_month_bar_font.png)
 
-
 - **Day Bar Background:**
 ![Image of the calendar - hotel bookings module, showing the day bar background colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_day_bar_background.png)
-
-
 
 - **Day Bar Font:**
 ![Image of the calendar - hotel bookings module, showing the day bar font colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_day_bar_font.png)
 
-
 - **Date Bar Background:**
 ![Image of the calendar - hotel bookings module, showing the date bar background colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_date_bar_background.png)
-
 
 - **Date Bar Font:**
 ![Image of the calendar - hotel bookings module, showing the date bar font colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_date_bar_font.png)
 
-
 - **Booked Colour:**
 ![Image of the calendar - hotel bookings module, showing the booked colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_booked_colour.png)
-
 
 - **Available Colour:**
 ![Image of the calendar - hotel bookings module, showing the available colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_available_colour.png)
 
-
 - **Check-in Colour:**
 ![Image of the calendar - hotel bookings module, showing the check-in colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_checkin_colour.png)
-
-
-
-- **Unavailable Colour:**
-![Image of the calendar - hotel bookings module, showing the unavailable colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_unavailable_colour.png)
 
 
 
