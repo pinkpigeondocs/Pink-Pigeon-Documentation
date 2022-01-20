@@ -46,16 +46,21 @@ Here it is in the module:
 
 ## Text Alignment
 
+![Image of columns 1 and 2](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_text_alignment_cms.png)
+
 There are two options:
 
 - **Left:**
 
 This aligns all text to the left.
 
+![Image of the Text Only module with left-aligned text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_left_aligned_online.png)
+
 - **Centre:**
 
 This aligns all text to the centre, except for bullet points, which remain left-aligned.
 
+![Image of the Text Only module with centre-aligned text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_centre_aligned_online.png)
 
 ## Colours
 
