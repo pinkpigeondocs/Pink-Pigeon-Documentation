@@ -31,6 +31,12 @@ You may choose between YouTube and Vimeo.
 
 Vimeo videos can play automatically, if there is no sound on the video.
 
+## (Vimeo) Video Quality
+![Image of the vimeo autoplay option example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/18_video_only_vimeo_video_quality.png)
+
+For desktop video only, you can define a starting video quality. Please bear in mind that very high quality video can use up a lot of bandwidth, so for some users this may incur unforeseen costs.
+For mobile videos, Vimeo will always judge the default video quality by itself.
+
 ## Background Colour
 
 The Video Only module allows you to change the background colour of the module (as videos do not necessarily fit the module perfectly).
