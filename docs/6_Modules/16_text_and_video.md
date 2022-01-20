@@ -28,6 +28,11 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 - **Desktop Video Side:** You can 'flip' the text and video around, for example: ![Image of the video panel of a text and video module](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/16_text_and_video_video_on_right.png)
 
+## (Vimeo) Video Quality
+![Image of the vimeo autoplay option example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/18_video_only_vimeo_video_quality.png)
+
+For desktop video only, you can define a starting video quality. Please bear in mind that very high quality video can use up a lot of bandwidth, so for some users this may incur unforeseen costs.
+For mobile videos, Vimeo will always judge the default video quality by itself.
 
 ## Text Panel
 
