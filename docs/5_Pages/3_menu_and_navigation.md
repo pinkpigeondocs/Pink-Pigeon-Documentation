@@ -66,18 +66,40 @@ The last option is 'gradient', which is functionally the same as a transparent n
 
 ## Gradient Colour
 
-![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_colour.png)
+![Image of nav gradient colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_colour.png)
 
+The colour of the nav gradient can be defined, here, a green gradient:
+
+![Image of nav gradient colour option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_green_gradient_online.png)
 
 ## Gradient Opacity
 
-![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_opacity.png)
+![Image of nav gradient opacity option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_opacity.png)
+
+The opacity of your gradient can be set between 0 and 1 in 0.1 increments:
+
+Opacity 0.3:
+
+![Image of nav gradient height option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_white_gradient_transparency_0_3.png)
+
+Opacity 0.7:
+
+![Image of nav gradient height option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_white_gradient_transparency_0_7.png)
 
 
 ## Gradient Height
 
-![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_height.png)
+![Image of nav gradient height option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_height.png)
 
+The height of your gradient can also be defined, as a multiple of the original nav height. This accepts values of 1-10.
+
+Height 1:
+
+![Image of nav gradient height option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_white_gradient_height_1.png)
+
+Height 3:
+
+![Image of nav gradient height option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_white_gradient_height_3.png)
 
 ## Persistence
 
