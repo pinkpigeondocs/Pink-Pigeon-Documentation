@@ -22,7 +22,7 @@ Image upload size is limited to 2MB, and images above 512kb will be compressed b
 
 As you can see by the red outline around "Other Services", we have decided to exceed the character-limit in this one instance, as it did not negatively affect the design of the navigation items on our site. Generally we would discourage this, as we have set these limits to ensure that all menu items fit. (For example, if your menu items contained a lot of wide letters, like 'w', especially in upper-case, the design, or layout of the nav will reach its limits much sooner. That is the limit we have defined using our green character count indicators.)
 
-- Changing the name (or label) of a navigation item:
+- **Changing the name (or label) of a navigation item:**
 
 ![Image of a Menu Item, within Menu and Navigation, for advanced users, right text input highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_menu_items_right_input.png)
 
@@ -32,13 +32,13 @@ There is a suggested character limit of 12. You can exceed this limit as much as
 
 If you do not enter any text in this field, the navigation item will not be displayed (and all other navigation items will 'slot into place').
 
-- Changing what a nav item links to:
+- **Changing what a nav item links to:**
 
 ![Image of a Menu Item, within Menu and Navigation, for advanced users, left select highlighted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_menu_items_left_select.png)
 
 The left field, when selected, will display a list of all Pages and Modules within your website. You may link to any of them from the navigation of your website. The navigation does not allow linking of downloadable files or external URLs, as this goes against best practices for websites (which in turn can result in reductions of your page rank by the likes of Google).
 
-- Adding / removing / re-ordering nav items
+- **Adding / removing / re-ordering nav items:**
 
 Please view the ['General Components' - "Adding / Moving / Deleting"][genaddmove] section for instructions on how this component works.
 
@@ -58,7 +58,26 @@ This is the rollover colour of your nav items (when someone hovers their mouse c
 
 ![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_transparency.png)
 
-You can define a transparent nav, which will sit 'on top' of whichever your first module is on your website. The 'opaque' nav will push your module down by the height of the nav.
+When your navigation is transparent, the first module of your website will sit behind the nav, making the nav become superimposed on that module. When this option is selected, the nav cannot be 'fixed' or 'stuck' to the top, which is sometimes referred to as a 'sticky nav'.
+
+When you set the transparency to 'opaque', the first module of your website will start exactly where the nav ends. So, in this configuration the module is 'pushed down'. An opaque nav can be configured to remain at the top of your website as all times, as so-called 'sticky nav'. This can be particularly useful on long pages.
+
+The last option is 'gradient', which is functionally the same as a transparent nav, but a gradient can be configured for the nav items, to increase their legibility.
+
+## Gradient Colour
+
+![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_colour.png)
+
+
+## Gradient Opacity
+
+![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_opacity.png)
+
+
+## Gradient Height
+
+![Image of nav transparency option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/nav_gradient_height.png)
+
 
 ## Persistence
 
