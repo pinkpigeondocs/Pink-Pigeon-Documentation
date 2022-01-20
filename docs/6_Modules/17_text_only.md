@@ -32,6 +32,18 @@ Here it is in the module:
 
 ![Image of the Text Only module body text online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_body_text_online.png)
 
+## Double Column Variant
+
+There is a layout variant of this module with two text columns side by side.
+
+![Image of columns 1 and 2](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_double_column_cms.png)
+
+Both are [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/6_rich_text_editing.html) text inputs **without** a character limit.
+
+Here it is in the module:
+
+![Image of the Text Only double column module columns 1 and 2 online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/17_text_only_double_column_online.png)
+
 ## Text Alignment
 
 There are two options:
