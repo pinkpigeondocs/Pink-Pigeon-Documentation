@@ -145,11 +145,24 @@ If you add a URL to a calendar, it automatically becomes underlined and clickabl
 
 ## Check-in Days
 
-![Image of the calendar - hotel bookings module, showing the checkin days in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_checkin_days_in_cms.png)
+![Image of the calendar - hotel bookings module, showing the checkin days in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_checkin_options.png)
 
-Here you may define a day for checkin times. If you do not choose one, the element will disappear from your module. Each selected day will be highlighted with a customised colour.
+Here you may define one or multiple days for check-in. If you do not choose one, the element will disappear from your module. Each selected day will be highlighted with a customised colour.
+
+### Show Check-in Days
+
+This allows you to turn check-in on or off.
+
+### Days
+
+The selection for which days you would like to show check-in highlights for.
+
+### Checkin Colour
+
+The colour for your check-in days can be defined here.
 
 ![Image of the calendar - hotel bookings module, showing the checkin days online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_checkin_days_in_online.png)
+
 
 ## Unavailable Dates
 
@@ -228,9 +241,6 @@ There are 14 customisable colour options available for the calendar module.
 
 - **Available Colour:**
 ![Image of the calendar - hotel bookings module, showing the available colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_available_colour.png)
-
-- **Check-in Colour:**
-![Image of the calendar - hotel bookings module, showing the check-in colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_checkin_colour.png)
 
 
 
