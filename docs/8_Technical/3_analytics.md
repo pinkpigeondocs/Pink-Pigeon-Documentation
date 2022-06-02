@@ -23,14 +23,3 @@ And adding your code here:
 
 You should be able to see traffic come through to your site, so long as someone visits your site without an adblocker (or adblocking browser like Firefox or Brave).
 
-## Gold Users
-
-At this level, you will receive special events for button clicks, which will inform you of where on your site users have clicked, including form submissions and a check for whether a link returns a 404 (which means the link does not work).
-
-- **The events will show here (old GA interface):**
-
-![Image of google analytics traffic sources in old interface](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/8_Technical/images/ga_traffic_sources.png)
-
-- **Or here (new GA interface):**
-
-![Image of google analytics traffic sources in new interface](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/8_Technical/images/ga_traffic_sources_new.png)
