@@ -28,6 +28,10 @@ When we email you, the form name will be included in the message (please note th
 
 ![Image of the email we send after a form has been submitted](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/4_contact_email.png)
 
+## Contact Email
+
+
+
 ## Header Text
 
 ![Image of the contact module's header text](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/common_elements_images/header_text.png)
