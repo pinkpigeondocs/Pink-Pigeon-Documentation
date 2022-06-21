@@ -29,7 +29,11 @@ As soon as you have defined a colour template and saved the 'Essentials' module,
 
 ### Template Name
 
+Before a colour template can be saved, it needs to be given a name. We tend to use this functionality for having different font and background colours, so templates are often called something like 'Red background, white font' and then the reverse.
+
 ### Colour Values
+
+These colour values correspond to the same values in each module that has these values available. If a partial match is found, only those colours will be applied when selecting the template.
 
 ## Favicon
 
