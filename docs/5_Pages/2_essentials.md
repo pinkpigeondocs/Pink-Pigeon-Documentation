@@ -80,21 +80,21 @@ This is a (short) bit of copy, which is used by Google and other search engines 
 
 ![Image of social share settings in website builder](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_social_share_settings.png)
 
-- **Social Share Image:**
+### Social Share Image
 
 This is the image which is shown when someone shares your site on Facebook, Twitter, Telegram, etc.
 Here is an example of what this looks like on a few different platforms:
 
 ![Image of a social share on Facebook](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_og_share.png)
 
-- **OG Title:**
+### OG Title
 
 This is the title to be shown as part of social shares:
 
 ![Image of a social share on Facebook, showing title](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_og_share_title.png)
 
 
-- **OG Description:**
+### OG Description
 
 This is the description to be shown as part of social shares:
 
