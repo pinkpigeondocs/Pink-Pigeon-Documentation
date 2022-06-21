@@ -34,6 +34,10 @@ This will allow you to change your website's name, where contact forms are sent,
 
 If you are a [Bronze][accounttypes] or [Silver][accounttypes] user, you can upgrade your account from here as well, if you need either added analytics features, higher account limits or faster support.
 
+### Adding Email Addresses
+
+You may add a number of email addresses via your site settings. Different account tiers get different numbers of email addresses (Bronze 1, Silver 2, Gold 3).
+
 [accounttypes]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/2_Account_Setup_And_Login/5_account_types.html
 
 ## Essentials and Navigation
