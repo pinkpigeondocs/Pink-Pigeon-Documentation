@@ -19,6 +19,14 @@ If you are interested in getting colour palettes, [this site](https://coolors.co
 [hex]: https://en.wikipedia.org/wiki/Web_colors
 [hexweb]: https://www.color-hex.com/
 
+## Colour Templates
+
+A colour template records a specific setting for various standard module colours, such as font, background and CTA (button) colours.
+
+This can reduce a lot of the effort in creating websites with alternating colour styles, as you now only need to select the colour template, instead of setting all colours individually.
+
+As soon as you have defined a colour template and saved the 'Essentials' module, all modules will show the colour template options available.
+
 ## Favicon
 
 ![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon.png)
