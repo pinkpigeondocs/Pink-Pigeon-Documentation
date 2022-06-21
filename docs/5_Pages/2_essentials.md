@@ -154,3 +154,6 @@ The modules on your website can have:
 **No gaps:**
 
 ![Image of a large gaps example](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_no_gaps.png)
+
+## Fade In
+
