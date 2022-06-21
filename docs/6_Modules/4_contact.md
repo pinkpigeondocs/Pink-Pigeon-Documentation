@@ -30,7 +30,8 @@ When we email you, the form name will be included in the message (please note th
 
 ## Contact Email
 
-
+Here you may select from one of the [pre-defined]() email addresses you would like to use for the contact module.
+Different tiers of users get access to different numbers of email addresses.
 
 ## Header Text
 
