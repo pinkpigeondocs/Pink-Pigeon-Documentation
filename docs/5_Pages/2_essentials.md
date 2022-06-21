@@ -157,3 +157,6 @@ The modules on your website can have:
 
 ## Fade In
 
+When this option is enabled, your website's modules will fade in as visitors scroll down your site. Once a module has faded in, this will not repeat until the site has been refreshed.
+
+This is not using lazy-loading, so your entire site is still loaded when first visited.
