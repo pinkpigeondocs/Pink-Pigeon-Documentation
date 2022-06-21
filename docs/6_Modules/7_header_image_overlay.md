@@ -24,6 +24,10 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
+## Background Types
+
+This module allows for using an image or a (Vimeo) video as background. The sections below go into detail about the options and differences.
+
 ## Background Section (Video)
 
 When the background Image / Video option has been set to 'video', the following options appear:
