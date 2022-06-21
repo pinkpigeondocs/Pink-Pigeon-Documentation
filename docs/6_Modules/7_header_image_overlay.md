@@ -8,7 +8,9 @@ sort: 7
 
 ![Image of the header-image module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_image_online.png)
 
-The header is a slightly more complex module. It allows for the displaying of two images, one for mobile, one for desktop resolutions (as this may work better than trying to make just one image fit such different screen sizes), though this is not mandatory.
+The header is a slightly more complex module. It allows for the displaying of two background images, one for mobile, one for desktop resolutions (as this may work better than trying to make just one image fit such different screen sizes), though this is not mandatory.
+
+The background can also be a 16:9 (and 9:16 for mobile) video (from vimeo only, as they allow removal of UI elements with their embedded videos).
 
 Additionally, another image can be uploaded to be displayed on top of the background images, such as a company logo. The overlay-image's position can be customised deeply.
 
@@ -22,14 +24,44 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 [endis]: https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/4_enabling_disabling_modules.html
 
-## Desktop Image
+## Background Section (Video)
+
+When the background Image / Video option has been set to 'video', the following options appear:
+
+### Video Scale (Mobile)
+
+This option allows you to scale the video player up (in other words, to 'zoom' into the video). This can help eliminate letterboxing (or black bars around the video), in case the video doesn't quite fit the space.
+There is a mobile and desktop option for the video, to make it easier to avoid having to use this option much.
+If, for example, you have only been supplied with a portrait-orientation video, you'll need a zoom factor of 3.2 for the desktop video, for it to fill the whole space.
+
+### Video Scale (Desktop)
+
+Same as the video scale for mobile.
+
+### Video ID (Mobile)
+
+The Vimeo video ID of your video on mobile. Find out how you can get that ID here.
+
+This video should be 9:16 (portrait) aspect ratio. So that's 2160x3840 in 4K, 1080x1920p in full HD or 720x1280p in just HD.
+
+### Video ID (Desktop)
+
+The Vimeo video ID of your video on desktop. Find out how you can get that ID here.
+
+This video should be 16:9 (landscape) aspect ratio. So that's 3840x2160 in 4K, 1920x1080p in full HD or 1280x720p in just HD.
+
+## Background Section (Image)
+
+When the background Image / Video option has been set to 'image', the following options appear:
+
+### Desktop Image
 
 ![Image of the header desktop image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_desktop_image.png)
 
 The header module's background image on desktop. This image will be shown at screen resolutions of 900px and above, typically laptops and desktop computers.
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
-## Double Desktop Image
+### Double Desktop Image
 
 <iframe class="vimeo_player" width="1280" height="720" src="https://player.vimeo.com/video/552059803?autoplay=0&loop=1&quality=1080p" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -38,7 +70,7 @@ Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-D
 There is a double-image variation of this header, where two images can be used as the background to a header, sitting side by side.
 Read up on changing images [here](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/2_image_picker.html).
 
-## Mobile Image
+### Mobile Image
 
 ![Image of the header mobile image](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_mobile_image.png)
 
@@ -59,7 +91,7 @@ Here, the overlay can be switched on or off.
 
 **on**
 
-![Image of the header-image module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_off_online.png)
+![Image of the header-image module with overlay on online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/7_header_overlay_width_20_percent.png)
 
 **off**
 
