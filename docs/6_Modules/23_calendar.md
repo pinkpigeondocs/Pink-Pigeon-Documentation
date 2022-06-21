@@ -43,7 +43,8 @@ It is still a good idea to limit the amount of text somewhat, as the design of t
 
 ## Text Alignment
 
-
+Like with most text-based modules, the body text of this module can be left-aligned or centre-aligned, based on stylistic choice.
+Generally, when a module's text contains bullets, it is preferred to left-align it.
 
 
 ## Colours
@@ -249,7 +250,7 @@ There are 11 customisable colour options available for the calendar module.
 
 ## Bookend Half Days
 
-
+As most bookings tend to start in the second half of the day and end in the first half of the day, it is possible for the calendar module to display these as half days. This option requires the booked and free colour settings to be of different colours.
 
 ## Lower Body Text
 
