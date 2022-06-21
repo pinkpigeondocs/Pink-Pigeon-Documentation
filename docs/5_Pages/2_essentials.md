@@ -27,6 +27,10 @@ This can reduce a lot of the effort in creating websites with alternating colour
 
 As soon as you have defined a colour template and saved the 'Essentials' module, all modules will show the colour template options available.
 
+### Template Name
+
+### Colour Values
+
 ## Favicon
 
 ![Image of favicon within Essentials](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/essentials_favicon.png)
