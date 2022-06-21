@@ -41,7 +41,9 @@ This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_Ge
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
 
-text_alignment_support_link
+## Text Alignment
+
+
 
 
 ## Colours
