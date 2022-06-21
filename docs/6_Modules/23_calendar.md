@@ -41,6 +41,9 @@ This is a [rich](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_Ge
 It is still a good idea to limit the amount of text somewhat, as the design of the site may stretch too far in trying to accommodate a large amount of text
 ```
 
+text_alignment_support_link
+
+
 ## Colours
 
 The Calendar - Hotel Bookings module allows you to change the background colour and text colour of the module.
@@ -240,6 +243,9 @@ There are 11 customisable colour options available for the calendar module.
 
 - **Available Colour:**
 ![Image of the calendar - hotel bookings module, showing the available colour online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/23_calendar_hotel_bookings_online_available_colour.png)
+
+
+## Bookend Half Days
 
 
 
