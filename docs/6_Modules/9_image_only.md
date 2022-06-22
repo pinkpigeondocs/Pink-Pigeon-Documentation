@@ -8,7 +8,9 @@ sort: 9
 
 ![Image of the image only module online](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/9_image_only_online.png)
 
-This module displays one image, nothing else.
+This module displays one image. The image will try to fill the space it's been given at all times, so some content can be cut off at different screen sizes. You can use the crop-insert option to help with this, or shoot images which have plenty of extra content around the main subject of the image, where it matters less if / when it gets cut off.
+
+There are also multiple options to define how this image cropping behaviour works, detailed under 'Height' below.
 
 ## Grid Version
 
@@ -28,12 +30,21 @@ Like all modules, this module can be enabled / disabled. Please see the [corresp
 
 Here you can select the image for your module.
 
+## Height
 
-## Height Constrained
+### Unconstrained
 
 ![Image of the image only height constrained option](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/6_Modules/images/9_image_only_height_constrained.png)
 
 Normally, the image only module will have a maximum height, to fit in with the other modules' heights on your site. In some situations, you may need to be able to display the whole image's height, which this option allows.
+
+### Constrained
+
+In this isnta
+
+### Interstitial
+
+
 
 
 ```tip
