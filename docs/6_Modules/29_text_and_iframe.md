@@ -7,6 +7,10 @@ sort: 29
 This is a specialised module, which is not yet accessible to normal users. The documentation will be updated when it becomes accessible to all users.
 The purpose of this module is to allow for displaying iFrames in a customised panel. This is especially useful for booking widgets, etc.
 
+## Module Height
+
+This module lets you set a custom height, because embeddable elements like widgets will often have different heights.
+
 ## iFrame Panel
 
 This is the panel containing the options for the iFrame portion of the module.
