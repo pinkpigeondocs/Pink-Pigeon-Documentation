@@ -38,15 +38,23 @@ Here you can select the image for your module.
 
 Normally, the image only module will have a maximum height, to fit in with the other modules' heights on your site. In some situations, you may need to be able to display the whole image's height, which this option allows.
 
+The module will still try to fill all horizontal space with the image, but the height will not be constrained, which works well for dislaying large portrait-content, like posters.
+
 ### Constrained
 
-In this isnta
+In this instance, the module will be the same height as other modules, looking the best design-wise, but this could cut off quite a bit of content from the image. Landscape imagery is most suitable for this.
 
 ### Interstitial
 
+For interstitial images we recommend using transparent PNGs. These are intended as small images that can be used to add visual variance to website sections that are too repetitive or lack imagery otherwise.
+
 ## Image Width
 
+If you have chosen an 'Interstitial' type of image only module, you can set a width for the interstitial element, allowing you to fine-tune different kinds of image assets.
+
 ## Module Height
+
+If you have chosen an 'Interstitial' type of image only module, you can set a height for the module, allowing you to fine-tune the amount of vertical white space that will be shown around the image.
 
 
 ```tip
