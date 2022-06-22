@@ -11,6 +11,10 @@ The purpose of this module is to allow for displaying iFrames in a customised pa
 
 This is the panel containing the options for the iFrame portion of the module.
 
+### Panel Side
+
+You can display the widget on the left or the right, depending on your design preferences.
+
 ### Panel Width
 
 The iFrame panel will always be a fixed width, which you can define here, in pixels.
