@@ -4,10 +4,13 @@ sort: 4
 
 # Page Actions
 
-The page actions menu allows you to make various changes to your website's pages.
+You can access the page actions menu by hovering over a page on desktop, or long-pressing it on mobile:
 
-Note: On mobile you will need to long-press on the page whose settings you'd like to access.
+![Image of the opened page actions menu](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/how_to_access_page_actions.png)
 
+This menu allows you to make various changes to your website's pages:
+
+![Image of the opened page actions menu](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/5_Pages/images/page_actions.png)
 
 ## Copy Page
 
