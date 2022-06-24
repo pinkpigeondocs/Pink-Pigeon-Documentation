@@ -21,7 +21,7 @@ If you are interested in getting colour palettes, [this site](https://coolors.co
 
 ## Colour Templates
 
-A colour template records a specific setting for various standard module colours, such as font, background and CTA (button) colours.
+A [colour template](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/4_General_Components/14_colour_templates.html) records a specific setting for various standard module colours, such as font, background and CTA (button) colours.
 
 This can reduce a lot of the effort in creating websites with alternating colour styles, as you now only need to select the colour template, instead of setting all colours individually.
 
