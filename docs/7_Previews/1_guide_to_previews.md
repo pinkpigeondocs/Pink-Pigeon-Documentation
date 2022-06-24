@@ -11,7 +11,7 @@ Previewing your site is done via the preview button:
 ## Preview Availability
 
 You may always preview your site.
-The preview can be accessed from the ```/pages``` (pages overview) and also the specific page's section, e.g. ```/pages/home```.
+The preview can be accessed from the `/pages` (pages overview) and also the specific page's section, e.g. `/pages/home`.
 
 The preview lives at https://previews.pinkpigeon.co.uk/your-site's-id. For example:
 
@@ -37,4 +37,4 @@ Even when editing your website on just one screen, you could have the website bu
 
 ## Changing the Private Link
 
-You can change the link to your preview site by using the [site settings menu](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/3_Home_Screen/1_home_screen.html#website-name--settings). This will stop any previous link from working. To get the new link, click 'preview' after getting a new preview link.
+You can change the link to your preview site by using the [site settings menu](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/3_Home_Screen/3_website_settings.html). This will stop any previous link from working. To get the new link, click 'preview' after getting a new preview link.
