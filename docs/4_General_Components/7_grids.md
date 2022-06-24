@@ -10,13 +10,6 @@ Some modules support the grid-functionality. You have to add 3 grid-type modules
 
 Therefore, it is entirely feasible to make a website completely from grid modules.
 
-These modules exist as grid-variations:
-
-- [Image Only](https://pinkpigeondocs.github.io/Pink-Pigeon-Documentation/6_Modules/9_image_only.html)
-- Text Only
-- Video Only
-- Map
-
 **You may add a grid module like this (showing a map module here):**
 
 ![Image of adding a map grid](https://raw.githubusercontent.com/pinkpigeondocs/Pink-Pigeon-Documentation/master/docs/4_General_Components/images/general_components_add_grid.png)
